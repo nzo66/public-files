@@ -32,15 +32,26 @@ fetchMovies($playVodUrl, $language, $apiKey, $totalPages);
 function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
 {
     global $listType, $outputData, $outputContent, $num;
+	
+	$vixMoviesUrl = 'https://vixsrc.to/api/list/movie/?lang=it';
+    echo "Recupero la lista dei film da: $vixMoviesUrl<br>";
+    $vixMovies = fetchAndHandleErrors($vixMoviesUrl, 'Request for Vix movie list failed.');
 
-    // Call the function for now playing
-    measureExecutionTime('fetchNowPlayingMovies', $playVodUrl, $language, $apiKey, $totalPages);
+    if ($vixMovies !== null && is_array($vixMovies)) {
+        $movieIds = array_map(function($item) {
+            return $item['tmdb_id'];
+        }, $vixMovies);
 
-    // Call the function for popular
-    measureExecutionTime('fetchPopularMovies', $playVodUrl, $language, $apiKey, $totalPages);
+        echo "Trovati " . count($movieIds) . " film. Processo i dettagli...<br>";
 
-    // Call the function for genres
-    measureExecutionTime('fetchGenres', $playVodUrl, $language, $apiKey, $totalPages);
+        foreach ($movieIds as $movieId) {
+            $movieDetailUrl = "https://api.themoviedb.org/3/movie/$movieId?api_key=$apiKey&language=$language";
+            $movie = fetchAndHandleErrors($movieDetailUrl, "Request for movie ID $movieId failed.");
+            if ($movie !== null) {
+                processMovieData($movie, $playVodUrl);
+            }
+        }
+    }
 
     //Save the Json and M3U8 Data
     file_put_contents('playlist.m3u8', $outputContent);
@@ -74,254 +85,58 @@ function fetchAndHandleErrors($url, $errorMessage)
     return null;
 }
 
-// Fetch now playing movies
-function fetchNowPlayingMovies($playVodUrl, $language, $apiKey, $totalPages)
-{
-    global $outputData, $outputContent, $addedMovieIds, $movies_with_origin_country, $listType, $num;
-    $baseUrl = 'https://api.themoviedb.org/3/movie/now_playing';
-	
-     $capturedTotalPages = null; 
-    //$pagesForCategory = ceil(0.20 * $totalPages); // Calculate 20% of $totalPages for this category
-    for ($page = 1; $page <= $totalPages; $page++) {
-        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page&with_runtime.gte=$minRuntime";
-        $data = fetchAndHandleErrors($url, 'Request for now playing movies failed.');
-		
-        // Set the total pages after the first request
-        if ($page == 1 && isset($data['total_pages'])) {
-            $capturedTotalPages = $data['total_pages'];
-        }
+function processMovieData($movie, $playVodUrl) {
+    global $outputData, $outputContent, $addedMovieIds, $num;
 
-        if ($data !== null) {
-            $movies = $data['results'];
-
-            foreach ($movies as $movie) {
-								// Skip invalid movies
-                if (!isValidMovie($movie)) {
-                    continue;
-                }                
-                // JSON formatting for each movie
-								$timestamp = isset($movie['release_date']) ? strtotime($movie['release_date']) : strtotime('1970-01-01');
-                if (isset($movie['release_date'])) {
-                    $dateParts = explode("-", $movie['release_date']);
-                    $year = $dateParts[0];
-										$date = $movie['release_date'];
-                } else { 
-										$date = '1970-01-01';
-                    $year = '1970'; //Set to 1970 since its unknown.
-                }
-                $movieData = ["num" => ++$num, "name" => $movie['title'] . ' (' . $year . ')',
-                    "stream_type" => "movie", "stream_id" => $movie['id'], "stream_icon" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['poster_path'], "rating" => isset($movie['vote_average']) ?
-                    $movie['vote_average'] : 0, "rating_5based" => isset($movie['vote_average']) ? ($movie['vote_average'] /
-                    2) : 0, "added" => $timestamp, "category_id" => 999992, "container_extension" =>
-                    "mp4", // Use mp4 as a dummy value.
-                    "custom_sid" => null, "direct_source" => $playVodUrl . '?movieId=' . $movie['id'],
-                    "plot" => $movie['overview'], "backdrop_path" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['backdrop_path'], "group" =>
-                    'Now Playing'];
-
-                $id = $movie['id'];
-
-                // Check if the movie ID has already been added
-                if (!isset($addedMovieIds[$id])) {
-                    // Mark the movie ID as added
-                    $addedMovieIds[$id] = true;
-
-                    // Add the movie data to the output array
-                    $outputData[] = $movieData;
-
-                    // M3U8 formatting for each movie (inside the M3U8 block)
-                    $title = $movie['title'];
-                    $year = isset($date) ? substr($date, 0, 4) :
-                        'N/A';
-                    $poster = 'https://image.tmdb.org/t/p/original' . $movie['poster_path'];
-                    $id = $movie['id'];
-
-                    // Concatenate to the existing $outputContent using .=
-                    $outputContent .= "#EXTINF:-1 group-title=\"Now Playing\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
-
-                }
-            }
-        }
-		
-		if ($capturedTotalPages !== null && $page >= $capturedTotalPages) {
-            break; // break out of the loop
-        }
+    if (!isValidMovie($movie)) {
+        return;
     }
 
-    return;
-}
-
-// Fetch popular movies
-function fetchPopularMovies($playVodUrl, $language, $apiKey, $totalPages)
-{
-    global $outputData, $outputContent, $addedMovieIds, $movies_with_origin_country, $listType, $num;
-    $baseUrl = 'https://api.themoviedb.org/3/movie/popular';
-	
-	 $capturedTotalPages = null;
-
-    for ($page = 1; $page <= $totalPages; $page++) {
-        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page&with_runtime.gte=$minRuntime";
-        $data = fetchAndHandleErrors($url, 'Request for popular movies failed.');
-		
-        // Set the total pages after the first request
-        if ($page == 1 && isset($data['total_pages'])) {
-            $capturedTotalPages = $data['total_pages'];
-        }
-
-        if ($data !== null) {
-            $movies = $data['results'];
-
-
-            foreach ($movies as $movie) {
-								// Skip invalid movies
-                if (!isValidMovie($movie)) {
-                    continue;
-                }  
-								$timestamp = isset($movie['release_date']) ? strtotime($movie['release_date']) : strtotime('1970-01-01');
-                // JSON formatting for each movie
-                if (isset($movie['release_date'])) {
-                    $dateParts = explode("-", $movie['release_date']);
-                    $year = $dateParts[0];
-										$date = $movie['release_date'];
-                } else { 
-										$date = '1970-01-01';
-                    $year = '1970'; //Set to 1970 since its unknown.
-                }
-                $movieData = ["num" => ++$num, "name" => $movie['title'] . ' (' . $year . ')',
-                    "stream_type" => "movie", "stream_id" => $movie['id'], "stream_icon" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['poster_path'], "rating" => isset($movie['vote_average']) ?
-                    $movie['vote_average'] : 0, "rating_5based" => isset($movie['vote_average']) ? ($movie['vote_average'] /
-                    2) : 0, "added" => $timestamp, "category_id" => 999991, "container_extension" =>
-                    "mp4", // Use mp4 as a dummy value.
-                    "custom_sid" => null, "direct_source" => $playVodUrl . '?movieId=' . $movie['id'],
-                    "plot" => $movie['overview'], "backdrop_path" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['backdrop_path'], "group" =>
-                    'Popular'];
-
-                $id = $movie['id'];
-
-                // Check if the movie ID has already been added
-                if (!isset($addedMovieIds[$id])) {
-                    // Mark the movie ID as added
-                    $addedMovieIds[$id] = true;
-
-                    // Add the movie data to the output array
-                    $outputData[] = $movieData;
-
-                    // M3U8 formatting for each movie (inside the M3U8 block)
-                    $title = $movie['title'];
-                    $year = isset($date) ? substr($date, 0, 4) :
-                        'N/A';
-                    $poster = 'https://image.tmdb.org/t/p/original' . $movie['poster_path'];
-
-                    $outputContent .= "#EXTINF:-1 group-title=\"Popular\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
-                }
-            }
-        }
-		if ($capturedTotalPages !== null && $page >= $capturedTotalPages) {
-            break; // break out of the loop
-        }
+    $id = $movie['id'];
+    if (isset($addedMovieIds[$id])) {
+        return; // Skip if already added
     }
 
-    return;
+    // Extract data
+    $timestamp = isset($movie['release_date']) ? strtotime($movie['release_date']) : strtotime('1970-01-01');
+    $date = !empty($movie['release_date']) ? $movie['release_date'] : '1970-01-01';
+    $year = substr($date, 0, 4);
+    $title = $movie['title'];
+    $poster = 'https://image.tmdb.org/t/p/original' . $movie['poster_path'];
 
-}
-
-// Fetch genres and movies for each genre
-function fetchMoviesByGenre($genreId, $genreName, $playVodUrl, $language, $apiKey,
-    $totalPages)
-{
-    global $outputData, $outputContent, $addedMovieIds, $movies_with_origin_country, $listType, $num;
-    $baseUrl = 'https://api.themoviedb.org/3/discover/movie';
-	
-	$capturedTotalPages = null;
-
-    for ($page = 1; $page <= $totalPages; $page++) {
-        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_runtime.gte=$minRuntime&with_origin_country=$movies_with_origin_country&language=$language&with_genres=$genreId&page=$page";
-        $data = fetchAndHandleErrors($url, "Request for $genreName movies failed.");
-		
-        // Set the total pages after the first request
-        if ($page == 1 && isset($data['total_pages'])) {
-            $capturedTotalPages = $data['total_pages'];
-        }
-
-        if ($data !== null) {
-            $movies = $data['results'];
-
-            foreach ($movies as $movie) {
-								// Skip invalid movies
-                if (!isValidMovie($movie)) {
-                    continue;
-                }  
-								$timestamp = isset($movie['release_date']) ? strtotime($movie['release_date']) : strtotime('1970-01-01');
-                // JSON formatting for each movie
-                if (isset($movie['release_date'])) {
-                    $dateParts = explode("-", $movie['release_date']);
-                    $year = $dateParts[0];
-										$date = $movie['release_date'];
-                } else { 
-										$date = '1970-01-01';
-                    $year = '1970'; //Set to 1970 since its unknown.
-                }
-
-                $movieData = ["num" => ++$num, "name" => $movie['title'] . ' (' . $year . ')',
-                    "stream_type" => "movie", "stream_id" => $movie['id'], "stream_icon" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['poster_path'], "rating" => isset($movie['vote_average']) ?
-                    $movie['vote_average'] : 0, "rating_5based" => isset($movie['vote_average']) ? ($movie['vote_average'] /
-                    2) : 0, "added" => $timestamp, "category_id" => $movie['genre_ids'][0],
-                    "container_extension" => "mp4", // Use mp4 as a dummy value.
-                    "custom_sid" => null, "direct_source" => $playVodUrl . '?movieId=' . $movie['id'],
-                    "plot" => $movie['overview'], "backdrop_path" =>
-                    'https://image.tmdb.org/t/p/original' . $movie['backdrop_path'], "group" => $genreName];
-
-                $id = $movie['id'];
-
-                // Check if the movie ID has already been added
-                if (!isset($addedMovieIds[$id])) {
-                    // Mark the movie ID as added
-                    $addedMovieIds[$id] = true;
-
-                    // Add the movie data to the output array
-                    $outputData[] = $movieData;
-
-
-                    // M3U8 formatting for each movie (inside the M3U8 block)
-                    $title = $movie['title'];
-                    $year = isset($date) ? substr($date, 0, 4) :
-                        'N/A';
-                    $poster = 'https://image.tmdb.org/t/p/original' . $movie['poster_path'];
-                    $id = $movie['id'];
-
-                    $outputContent .= "#EXTINF:-1 group-title=\"$genreName\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
-
-                }
-            }
-        }
-		if ($capturedTotalPages !== null && $page >= $capturedTotalPages) {
-            break; // break out of the loop
-        }
+    // Determine category from genre
+    $genreName = 'Film'; // Default
+    $categoryId = '999990'; // Default
+    if (!empty($movie['genres'])) {
+        $genreName = $movie['genres'][0]['name'];
+        $categoryId = $movie['genres'][0]['id'];
     }
 
-    return;
-}
+    // JSON data
+    $movieData = [
+        "num" => ++$num,
+        "name" => $title . ' (' . $year . ')',
+        "stream_type" => "movie",
+        "stream_id" => $id,
+        "stream_icon" => $poster,
+        "rating" => $movie['vote_average'] ?? 0,
+        "rating_5based" => isset($movie['vote_average']) ? ($movie['vote_average'] / 2) : 0,
+        "added" => $timestamp,
+        "category_id" => $categoryId,
+        "container_extension" => "mp4",
+        "custom_sid" => null,
+        "direct_source" => $playVodUrl . '?movieId=' . $id,
+        "plot" => $movie['overview'],
+        "backdrop_path" => 'https://image.tmdb.org/t/p/original' . $movie['backdrop_path'],
+        "group" => $genreName
+    ];
 
-// Fetch genres dynamically
-function fetchGenres($playVodUrl, $language, $apiKey, $totalPages)
-{
-    global $outputData, $outputContent, $listType, $num;
+    // Mark as added and store data
+    $addedMovieIds[$id] = true;
+    $outputData[] = $movieData;
 
-    $genresUrl = "https://api.themoviedb.org/3/genre/movie/list?api_key=$apiKey&include_adult=false&language=$language";
-    $genreData = fetchAndHandleErrors($genresUrl, 'Request for genres failed.');
-    if ($genreData !== null) {
-        $genres = $genreData['genres'];
-
-        foreach ($genres as $genre) {
-					fetchMoviesByGenre($genre['id'], $genre['name'], $playVodUrl, $language, $apiKey, $totalPages);
-        }
-    }
-
-    return;
+    // M3U8 data
+    $outputContent .= "#EXTINF:-1 group-title=\"$genreName\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
 }
 
 function measureExecutionTime($func, ...$params) {
