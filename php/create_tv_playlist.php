@@ -14,7 +14,7 @@ if ($GLOBALS['DEBUG'] !== true) {
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
 $totalPages = 500;
-$minYear = 1970; // Skip older titles
+$minYear = 1; // Skip older titles
 $language = 'it-IT';
 $series_with_origin_country = 'IT';
 $num = 0;
@@ -27,18 +27,15 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
 {
     global $listType, $outputData, $outputContent, $num;	
     
-    //Limit some categories to less items. (This allows the other categories to be populated)
-    $limitTotalPages = ($totalPages > 15) ? 15 : $totalPages;
-    
     // Call the function for on the air
-    measureExecutionTime('fetchOnTheAirSeries', $playVodUrl, $language, $apiKey, $limitTotalPages);
+    measureExecutionTime('fetchOnTheAirSeries', $playVodUrl, $language, $apiKey, $totalPages);
     
     // Call the function for with networks
     measureExecutionTime('fetchSeriesWithNetwork', $playVodUrl, $language, $apiKey, $totalPages);
     // Call the function for top rated
-    measureExecutionTime('fetchTopRatedSeries', $playVodUrl, $language, $apiKey, $limitTotalPages);
+    measureExecutionTime('fetchTopRatedSeries', $playVodUrl, $language, $apiKey, $totalPages);
     // Call the function for popular
-    measureExecutionTime('fetchPopularSeries', $playVodUrl, $language, $apiKey, $limitTotalPages);
+    measureExecutionTime('fetchPopularSeries', $playVodUrl, $language, $apiKey, $totalPages);
     
     // Call the function for genres
     measureExecutionTime('fetchGenres', $playVodUrl, $language, $apiKey, $totalPages);
@@ -518,5 +515,3 @@ function isValidSeries($series) {
     return $year >= $minYear;
 }
 ?>
-
-
