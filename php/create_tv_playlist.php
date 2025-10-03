@@ -15,8 +15,8 @@ $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
 $totalPages = 250;
 $minYear = 1970; // Skip older titles
-$language = 'en-US';
-$series_with_origin_country = 'US';
+$language = 'it-IT';
+$series_with_origin_country = 'IT';
 $num = 0;
 $outputData = [];
 $outputContent = "#EXTM3U\n";
@@ -518,3 +518,4 @@ function isValidSeries($series) {
     return $year >= $minYear;
 }
 ?>
+
