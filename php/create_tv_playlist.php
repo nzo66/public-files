@@ -13,7 +13,7 @@ if ($GLOBALS['DEBUG'] !== true) {
 //Set globals
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
-$totalPages = 250;
+$totalPages = 500;
 $minYear = 1970; // Skip older titles
 $language = 'it-IT';
 $series_with_origin_country = 'IT';
@@ -518,4 +518,5 @@ function isValidSeries($series) {
     return $year >= $minYear;
 }
 ?>
+
 
