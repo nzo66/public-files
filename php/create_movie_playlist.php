@@ -17,8 +17,8 @@ if ($GLOBALS['DEBUG'] !== true) {
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
 $totalPages = 500; // Added more pages due to strict filters.
-$minYear = 1970; // Skip older titles
-$minRuntime = 30; // In Minutes. Works with /discover only.
+$minYear = 1; // Skip older titles
+$minRuntime = 0; // In Minutes. Works with /discover only.
 $language = 'it-IT';
 $movies_with_origin_country = 'IT';
 $num = 0;
@@ -33,14 +33,11 @@ function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
 {
     global $listType, $outputData, $outputContent, $num;
 
-	//Limit some categories to less items. (This allows the other categories to be populated)
-	$limitTotalPages = ($totalPages > 20) ? 20 : $totalPages;
-	
     // Call the function for now playing
-    measureExecutionTime('fetchNowPlayingMovies', $playVodUrl, $language, $apiKey, $limitTotalPages);
+    measureExecutionTime('fetchNowPlayingMovies', $playVodUrl, $language, $apiKey, $totalPages);
 
     // Call the function for popular
-    measureExecutionTime('fetchPopularMovies', $playVodUrl, $language, $apiKey, $limitTotalPages);
+    measureExecutionTime('fetchPopularMovies', $playVodUrl, $language, $apiKey, $totalPages);
 
     // Call the function for genres
     measureExecutionTime('fetchGenres', $playVodUrl, $language, $apiKey, $totalPages);
@@ -85,7 +82,7 @@ function fetchNowPlayingMovies($playVodUrl, $language, $apiKey, $totalPages)
      $capturedTotalPages = null; 
     //$pagesForCategory = ceil(0.20 * $totalPages); // Calculate 20% of $totalPages for this category
     for ($page = 1; $page <= $totalPages; $page++) {
-        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page";
+        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page&with_runtime.gte=$minRuntime";
         $data = fetchAndHandleErrors($url, 'Request for now playing movies failed.');
 		
         // Set the total pages after the first request
@@ -163,7 +160,7 @@ function fetchPopularMovies($playVodUrl, $language, $apiKey, $totalPages)
 	 $capturedTotalPages = null;
 
     for ($page = 1; $page <= $totalPages; $page++) {
-        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page";
+        $url = $baseUrl . "?api_key=$apiKey&include_adult=false&with_origin_country=$movies_with_origin_country&language=$language&page=$page&with_runtime.gte=$minRuntime";
         $data = fetchAndHandleErrors($url, 'Request for popular movies failed.');
 		
         // Set the total pages after the first request
@@ -356,5 +353,3 @@ function isValidMovie($movie) {
     return $year >= $minYear;
 }
 ?>
-
-
