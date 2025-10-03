@@ -1424,80 +1424,65 @@
 #EXTINF:-1 group-title="Popular" tvg-id="Wicked" tvg-logo="https://image.tmdb.org/t/p/original/3al2ouBCaZN5UcCNr8HKSiNji28.jpg",Wicked (2024)
 [[SERVER_URL]]/play.php?movieId=402431
 
-#EXTINF:-1 group-title="Popular" tvg-id="Sorority" tvg-logo="https://image.tmdb.org/t/p/original/jm4CYBED9I5e8Cp7zlj8cDifUVB.jpg",Sorority (2025)
-[[SERVER_URL]]/play.php?movieId=1477114
-
-#EXTINF:-1 group-title="Popular" tvg-id="Companion" tvg-logo="https://image.tmdb.org/t/p/original/AbH00wyIzvwHkiBVyRXKN4Phytl.jpg",Companion (2025)
-[[SERVER_URL]]/play.php?movieId=1084199
-
-#EXTINF:-1 group-title="Popular" tvg-id="Il Signore degli Anelli - Il ritorno del re" tvg-logo="https://image.tmdb.org/t/p/original/96XilLzI7bijsCG4l7oW6I62oad.jpg",Il Signore degli Anelli - Il ritorno del re (2003)
-[[SERVER_URL]]/play.php?movieId=122
-
-#EXTINF:-1 group-title="Popular" tvg-id="Mufasa: Il Re Leone" tvg-logo="https://image.tmdb.org/t/p/original/28wQf8Hve6eDB0Ktv0A6Q6YOtD7.jpg",Mufasa: Il Re Leone (2024)
-[[SERVER_URL]]/play.php?movieId=762509
-
-#EXTINF:-1 group-title="Popular" tvg-id="Cinquanta sfumature di grigio" tvg-logo="https://image.tmdb.org/t/p/original/q9ii8pvUrpxkoLEcfto6194XXXo.jpg",Cinquanta sfumature di grigio (2015)
-[[SERVER_URL]]/play.php?movieId=216015
-
-#EXTINF:-1 group-title="Popular" tvg-id="Guglielmo Tell" tvg-logo="https://image.tmdb.org/t/p/original/yVXt0ZgONgooZrpD7PBIcHp0TqB.jpg",Guglielmo Tell (2025)
-[[SERVER_URL]]/play.php?movieId=1195631
-
-#EXTINF:-1 group-title="Popular" tvg-id="令嬢肉奴隷" tvg-logo="https://image.tmdb.org/t/p/original/ksl1d50FUHaqNuNnmHSNdPrYyYl.jpg",令嬢肉奴隷 (1985)
-[[SERVER_URL]]/play.php?movieId=405871
-
-#EXTINF:-1 group-title="Popular" tvg-id="Shrek" tvg-logo="https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",Shrek (2001)
-[[SERVER_URL]]/play.php?movieId=808
-
-#EXTINF:-1 group-title="Popular" tvg-id="La iena" tvg-logo="https://image.tmdb.org/t/p/original/5hCB0HWa7p7yjFgYh8j6hQ9vrBV.jpg",La iena (1997)
-[[SERVER_URL]]/play.php?movieId=275458
-
-#EXTINF:-1 group-title="Popular" tvg-id="Matrix" tvg-logo="https://image.tmdb.org/t/p/original/yQZX4scmfYtj4ccKFNGZJlOj1y9.jpg",Matrix (1999)
-[[SERVER_URL]]/play.php?movieId=603
-
-#EXTINF:-1 group-title="Popular" tvg-id="Harry Potter e il calice di fuoco" tvg-logo="https://image.tmdb.org/t/p/original/rZkMtwU1Gx2tyXcmsuFLVoDNwea.jpg",Harry Potter e il calice di fuoco (2005)
-[[SERVER_URL]]/play.php?movieId=674
+#EXTINF:-1 group-title="Popular" tvg-id="Pinball: The Man Who Saved the Game" tvg-logo="https://image.tmdb.org/t/p/original/gjGphbx4ZDwAYYWImpY427KGw7B.jpg",Pinball: The Man Who Saved the Game (2023)
+[[SERVER_URL]]/play.php?movieId=855262
 
 #EXTINF:-1 group-title="Popular" tvg-id="Shadow of God" tvg-logo="https://image.tmdb.org/t/p/original/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg",Shadow of God (2025)
 [[SERVER_URL]]/play.php?movieId=1227003
 
-#EXTINF:-1 group-title="Popular" tvg-id="Harry Potter e i Doni della Morte - Parte 1" tvg-logo="https://image.tmdb.org/t/p/original/58XoUUHdKRU1wSUo9UgnUbMz8Tg.jpg",Harry Potter e i Doni della Morte - Parte 1 (2010)
-[[SERVER_URL]]/play.php?movieId=12444
+#EXTINF:-1 group-title="Popular" tvg-id="Kraven - Il cacciatore" tvg-logo="https://image.tmdb.org/t/p/original/vQZ11oQtuapB6xYgBTkM8VFAu86.jpg",Kraven - Il cacciatore (2024)
+[[SERVER_URL]]/play.php?movieId=539972
 
 #EXTINF:-1 group-title="Popular" tvg-id="Pirati dei Caraibi - Oltre i confini del mare" tvg-logo="https://image.tmdb.org/t/p/original/p0aMDd3EtOCfImHIeL9hgPnLRIo.jpg",Pirati dei Caraibi - Oltre i confini del mare (2011)
 [[SERVER_URL]]/play.php?movieId=1865
 
-#EXTINF:-1 group-title="Popular" tvg-id="Fall for Me" tvg-logo="https://image.tmdb.org/t/p/original/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg",Fall for Me (2025)
-[[SERVER_URL]]/play.php?movieId=1300116
+#EXTINF:-1 group-title="Popular" tvg-id="Operazione vendetta" tvg-logo="https://image.tmdb.org/t/p/original/9IoYsiQEUe50ViywjffKh5pUJqX.jpg",Operazione vendetta (2025)
+[[SERVER_URL]]/play.php?movieId=1087891
 
-#EXTINF:-1 group-title="Popular" tvg-id="Harry Potter e il prigioniero di Azkaban" tvg-logo="https://image.tmdb.org/t/p/original/xTm1NVePaSKAypcPTJEM0tnGh6A.jpg",Harry Potter e il prigioniero di Azkaban (2004)
-[[SERVER_URL]]/play.php?movieId=673
+#EXTINF:-1 group-title="Popular" tvg-id="Big Hero 6" tvg-logo="https://image.tmdb.org/t/p/original/5BmP3oKqStYSPinFYKuJbHvxoA8.jpg",Big Hero 6 (2014)
+[[SERVER_URL]]/play.php?movieId=177572
 
-#EXTINF:-1 group-title="Popular" tvg-id="Black Phone 2" tvg-logo="https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg",Black Phone 2 (2025)
-[[SERVER_URL]]/play.php?movieId=1197137
+#EXTINF:-1 group-title="Popular" tvg-id="Iron Man 2" tvg-logo="https://image.tmdb.org/t/p/original/2LWFruYSQOlxGcIL85EF0cKIOdV.jpg",Iron Man 2 (2010)
+[[SERVER_URL]]/play.php?movieId=10138
+
+#EXTINF:-1 group-title="Popular" tvg-id="Zootropolis" tvg-logo="https://image.tmdb.org/t/p/original/AhaTwhvkPjwCeYXVEkJECyk5zkl.jpg",Zootropolis (2016)
+[[SERVER_URL]]/play.php?movieId=269149
+
+#EXTINF:-1 group-title="Popular" tvg-id="John Wick 4" tvg-logo="https://image.tmdb.org/t/p/original/uD6w5fB04cgYye6G8qJ7gPtDZFb.jpg",John Wick 4 (2023)
+[[SERVER_URL]]/play.php?movieId=603692
+
+#EXTINF:-1 group-title="Popular" tvg-id="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/original/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg",The Beekeeper (2024)
+[[SERVER_URL]]/play.php?movieId=866398
 
 #EXTINF:-1 group-title="Popular" tvg-id="Shang-Chi e la leggenda dei dieci anelli" tvg-logo="https://image.tmdb.org/t/p/original/AnC1wWgJ2QZNkX3ui2Ei0J6BK0d.jpg",Shang-Chi e la leggenda dei dieci anelli (2021)
 [[SERVER_URL]]/play.php?movieId=566525
 
-#EXTINF:-1 group-title="Popular" tvg-id="Boss Ma'am" tvg-logo="https://image.tmdb.org/t/p/original/3po9qDTFZoejlOjaVodVcp8TYsm.jpg",Boss Ma'am (2024)
-[[SERVER_URL]]/play.php?movieId=1388874
+#EXTINF:-1 group-title="Popular" tvg-id="La furia di un uomo - Wrath of Man" tvg-logo="https://image.tmdb.org/t/p/original/6jYXPE0xPj0UOT4vYUdvcDiQpT0.jpg",La furia di un uomo - Wrath of Man (2021)
+[[SERVER_URL]]/play.php?movieId=637649
+
+#EXTINF:-1 group-title="Popular" tvg-id="Il robot selvaggio" tvg-logo="https://image.tmdb.org/t/p/original/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",Il robot selvaggio (2024)
+[[SERVER_URL]]/play.php?movieId=1184918
 
 #EXTINF:-1 group-title="Popular" tvg-id="Angels Fallen: Warriors of Peace" tvg-logo="https://image.tmdb.org/t/p/original/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",Angels Fallen: Warriors of Peace (2024)
 [[SERVER_URL]]/play.php?movieId=1058537
 
+#EXTINF:-1 group-title="Popular" tvg-id="Harry Potter e l'ordine della fenice" tvg-logo="https://image.tmdb.org/t/p/original/iXg8dcylRbYNREcdU1Y2EGxpxxe.jpg",Harry Potter e l'ordine della fenice (2007)
+[[SERVER_URL]]/play.php?movieId=675
+
+#EXTINF:-1 group-title="Popular" tvg-id="Dune" tvg-logo="https://image.tmdb.org/t/p/original/a4DiBbHqXg91YQ8SLGL8otVqeOa.jpg",Dune (2021)
+[[SERVER_URL]]/play.php?movieId=438631
+
+#EXTINF:-1 group-title="Popular" tvg-id="Spider-Man: Homecoming" tvg-logo="https://image.tmdb.org/t/p/original/ttJkhQxKoWkfenJb5GyKSV1lGxY.jpg",Spider-Man: Homecoming (2017)
+[[SERVER_URL]]/play.php?movieId=315635
+
+#EXTINF:-1 group-title="Popular" tvg-id="Boss Ma'am" tvg-logo="https://image.tmdb.org/t/p/original/3po9qDTFZoejlOjaVodVcp8TYsm.jpg",Boss Ma'am (2024)
+[[SERVER_URL]]/play.php?movieId=1388874
+
 #EXTINF:-1 group-title="Popular" tvg-id="Pretty Thing" tvg-logo="https://image.tmdb.org/t/p/original/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg",Pretty Thing (2025)
 [[SERVER_URL]]/play.php?movieId=1223690
 
-#EXTINF:-1 group-title="Popular" tvg-id="Kraven - Il cacciatore" tvg-logo="https://image.tmdb.org/t/p/original/vQZ11oQtuapB6xYgBTkM8VFAu86.jpg",Kraven - Il cacciatore (2024)
-[[SERVER_URL]]/play.php?movieId=539972
-
 #EXTINF:-1 group-title="Popular" tvg-id="Gewoon vrienden" tvg-logo="https://image.tmdb.org/t/p/original/hSNeollK2tu2yKLjsgGVejP4K21.jpg",Gewoon vrienden (2019)
 [[SERVER_URL]]/play.php?movieId=501902
-
-#EXTINF:-1 group-title="Popular" tvg-id="Operazione vendetta" tvg-logo="https://image.tmdb.org/t/p/original/9IoYsiQEUe50ViywjffKh5pUJqX.jpg",Operazione vendetta (2025)
-[[SERVER_URL]]/play.php?movieId=1087891
-
-#EXTINF:-1 group-title="Popular" tvg-id="Iron Man 2" tvg-logo="https://image.tmdb.org/t/p/original/2LWFruYSQOlxGcIL85EF0cKIOdV.jpg",Iron Man 2 (2010)
-[[SERVER_URL]]/play.php?movieId=10138
 
 #EXTINF:-1 group-title="Popular" tvg-id="Twilight" tvg-logo="https://image.tmdb.org/t/p/original/n8nYzzKGP30M6u8sUon1YJmCgm8.jpg",Twilight (2008)
 [[SERVER_URL]]/play.php?movieId=8966
@@ -1508,20 +1493,11 @@
 #EXTINF:-1 group-title="Popular" tvg-id="Tra(sgre)dire" tvg-logo="https://image.tmdb.org/t/p/original/66O71VlmohX9Oz6wyK3FD4xFCtA.jpg",Tra(sgre)dire (2000)
 [[SERVER_URL]]/play.php?movieId=22705
 
-#EXTINF:-1 group-title="Popular" tvg-id="Il robot selvaggio" tvg-logo="https://image.tmdb.org/t/p/original/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",Il robot selvaggio (2024)
-[[SERVER_URL]]/play.php?movieId=1184918
-
-#EXTINF:-1 group-title="Popular" tvg-id="John Wick 4" tvg-logo="https://image.tmdb.org/t/p/original/uD6w5fB04cgYye6G8qJ7gPtDZFb.jpg",John Wick 4 (2023)
-[[SERVER_URL]]/play.php?movieId=603692
-
 #EXTINF:-1 group-title="Popular" tvg-id="Uno Rosso" tvg-logo="https://image.tmdb.org/t/p/original/nFrFdjAiSepToRqVAAxR757WvXq.jpg",Uno Rosso (2024)
 [[SERVER_URL]]/play.php?movieId=845781
 
 #EXTINF:-1 group-title="Popular" tvg-id="La maledizione della prima luna" tvg-logo="https://image.tmdb.org/t/p/original/AfhQSm3zu2PC7AZ45YKvX9OuFOZ.jpg",La maledizione della prima luna (2003)
 [[SERVER_URL]]/play.php?movieId=22
-
-#EXTINF:-1 group-title="Popular" tvg-id="Harry Potter e l'ordine della fenice" tvg-logo="https://image.tmdb.org/t/p/original/iXg8dcylRbYNREcdU1Y2EGxpxxe.jpg",Harry Potter e l'ordine della fenice (2007)
-[[SERVER_URL]]/play.php?movieId=675
 
 #EXTINF:-1 group-title="Popular" tvg-id="수리기사의 참교육" tvg-logo="https://image.tmdb.org/t/p/original/faJskm5nNutoxfORCtODQewzKDL.jpg",수리기사의 참교육 (2017)
 [[SERVER_URL]]/play.php?movieId=860410
@@ -1529,17 +1505,11 @@
 #EXTINF:-1 group-title="Popular" tvg-id="The Batman" tvg-logo="https://image.tmdb.org/t/p/original/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",The Batman (2022)
 [[SERVER_URL]]/play.php?movieId=414906
 
-#EXTINF:-1 group-title="Popular" tvg-id="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/original/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg",The Beekeeper (2024)
-[[SERVER_URL]]/play.php?movieId=866398
-
 #EXTINF:-1 group-title="Popular" tvg-id="Parasite" tvg-logo="https://image.tmdb.org/t/p/original/mMM8kcfspicib7AmPTvf97Rarwn.jpg",Parasite (2019)
 [[SERVER_URL]]/play.php?movieId=496243
 
 #EXTINF:-1 group-title="Popular" tvg-id="배달노출: 알몸으로 유혹하기" tvg-logo="https://image.tmdb.org/t/p/original/km7xKnZoHUXqiozCGzauunMp9OF.jpg",배달노출: 알몸으로 유혹하기 (2020)
 [[SERVER_URL]]/play.php?movieId=694943
-
-#EXTINF:-1 group-title="Popular" tvg-id="Dune" tvg-logo="https://image.tmdb.org/t/p/original/a4DiBbHqXg91YQ8SLGL8otVqeOa.jpg",Dune (2021)
-[[SERVER_URL]]/play.php?movieId=438631
 
 #EXTINF:-1 group-title="Popular" tvg-id="Spider-Man: Across the Spider-Verse" tvg-logo="https://image.tmdb.org/t/p/original/XUN2lS6F7hP5Bn4HMv4w3OBzqK.jpg",Spider-Man: Across the Spider-Verse (2023)
 [[SERVER_URL]]/play.php?movieId=569094
@@ -1552,9 +1522,6 @@
 
 #EXTINF:-1 group-title="Popular" tvg-id="Pleasure" tvg-logo="https://image.tmdb.org/t/p/original/t3SEI2YI81oO3nEgjJ9jMAIKApY.jpg",Pleasure (2021)
 [[SERVER_URL]]/play.php?movieId=592695
-
-#EXTINF:-1 group-title="Popular" tvg-id="Pinball: The Man Who Saved the Game" tvg-logo="https://image.tmdb.org/t/p/original/gjGphbx4ZDwAYYWImpY427KGw7B.jpg",Pinball: The Man Who Saved the Game (2023)
-[[SERVER_URL]]/play.php?movieId=855262
 
 #EXTINF:-1 group-title="Popular" tvg-id="Der Frühreifen-Report" tvg-logo="https://image.tmdb.org/t/p/original/sreO7KKeh6s99jYFl9XzpxDkOeZ.jpg",Der Frühreifen-Report (1973)
 [[SERVER_URL]]/play.php?movieId=80295
@@ -36503,6 +36470,1671 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Metonimia" tvg-logo="https://image.tmdb.org/t/p/original/4Ho0InzkXpzSj8C25boXtiILxj7.jpg",Metonimia (2023)
 [[SERVER_URL]]/play.php?movieId=1144871
 
+#EXTINF:-1 group-title="Dramma" tvg-id="Judith" tvg-logo="https://image.tmdb.org/t/p/original/lFvLEoRgBKkJrN5fGAFAsdHvkKy.jpg",Judith (1987)
+[[SERVER_URL]]/play.php?movieId=686714
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Assunta" tvg-logo="https://image.tmdb.org/t/p/original/xJc9iBNVPkG5JncGZ2wBkzBDT02.jpg",Assunta (2024)
+[[SERVER_URL]]/play.php?movieId=1383032
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lettera alla natura" tvg-logo="https://image.tmdb.org/t/p/original/rw8n5lOot6y6liXiD9d2q2tPJJy.jpg",Lettera alla natura (2024)
+[[SERVER_URL]]/play.php?movieId=1388352
+
+#EXTINF:-1 group-title="Dramma" tvg-id="LXXI" tvg-logo="https://image.tmdb.org/t/p/original/qQHfeCB5I3vwp0NqTNnGH57fxVb.jpg",LXXI (2018)
+[[SERVER_URL]]/play.php?movieId=848045
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Rapsòdia" tvg-logo="https://image.tmdb.org/t/p/original/7iQZkecQT2YMkegT60SnQRDYebC.jpg",Rapsòdia (2021)
+[[SERVER_URL]]/play.php?movieId=850082
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Voci nel buio" tvg-logo="https://image.tmdb.org/t/p/original/5Jj3vsh4kZAvd3IsvqfCMJ6hT4D.jpg",Voci nel buio (2013)
+[[SERVER_URL]]/play.php?movieId=301037
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Maccarìa" tvg-logo="https://image.tmdb.org/t/p/original/xBwevTrMnDnfpBK7iVgkYLXI5V5.jpg",Maccarìa (2024)
+[[SERVER_URL]]/play.php?movieId=1257446
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tutte le donne di un uomo da nulla" tvg-logo="https://image.tmdb.org/t/p/original/uOWT6zfsLIkeFJvr8VBL1B7lsK8.jpg",Tutte le donne di un uomo da nulla (2009)
+[[SERVER_URL]]/play.php?movieId=845195
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il muro bianco" tvg-logo="https://image.tmdb.org/t/p/original/hj3jn2khILp8KukLZ5Yc1yQ5YjF.jpg",Il muro bianco (2020)
+[[SERVER_URL]]/play.php?movieId=761267
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Zheng" tvg-logo="https://image.tmdb.org/t/p/original/u2KmaOl7ZsY2siSaAjVWfU4A0Ip.jpg",Zheng (2020)
+[[SERVER_URL]]/play.php?movieId=805483
+
+#EXTINF:-1 group-title="Dramma" tvg-id="I'm just living" tvg-logo="https://image.tmdb.org/t/p/original/nnEfgxVLkGl2Wt3LKw9gUxpV9lz.jpg",I'm just living (2023)
+[[SERVER_URL]]/play.php?movieId=1142267
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Giuda" tvg-logo="https://image.tmdb.org/t/p/original/o3Tlf3suAAiFyHsVQFS30kCz7m7.jpg",Giuda (2001)
+[[SERVER_URL]]/play.php?movieId=711098
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Talking Cure" tvg-logo="https://image.tmdb.org/t/p/original/lOBdSv9SgN8U5eJjvff3ok56jZQ.jpg",Talking Cure (2023)
+[[SERVER_URL]]/play.php?movieId=1198630
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il domani di Laura" tvg-logo="https://image.tmdb.org/t/p/original/tK2d0yBFEh1B5XnXRL9KcXK7wTk.jpg",Il domani di Laura (2019)
+[[SERVER_URL]]/play.php?movieId=1131750
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Vae Victis" tvg-logo="https://image.tmdb.org/t/p/original/2QhXA7vC99BwUvnJRVCJuFbGPcV.jpg",Vae Victis (2022)
+[[SERVER_URL]]/play.php?movieId=937563
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Self portrait with a gun" tvg-logo="https://image.tmdb.org/t/p/original/8d5XDerPcTbW5waMjyHCPqGirEh.jpg",Self portrait with a gun (2021)
+[[SERVER_URL]]/play.php?movieId=1364306
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Raggio di sole" tvg-logo="https://image.tmdb.org/t/p/original/pc6ABBgvN5dREr12wVxYbWe3maS.jpg",Raggio di sole (1997)
+[[SERVER_URL]]/play.php?movieId=1264293
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Origini" tvg-logo="https://image.tmdb.org/t/p/original/oZhAFjT4Z27mOUWAmuzoiJtJMw4.jpg",Origini (2017)
+[[SERVER_URL]]/play.php?movieId=1182245
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ossa" tvg-logo="https://image.tmdb.org/t/p/original/8qnmg83lgaGqnKI39uIQonuVrpV.jpg",Ossa (2018)
+[[SERVER_URL]]/play.php?movieId=935117
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Farinata: la tredicesima notte" tvg-logo="https://image.tmdb.org/t/p/original/zM0T6tE2w97pk2LcVG6TUl1IrwL.jpg",Farinata: la tredicesima notte (2020)
+[[SERVER_URL]]/play.php?movieId=748421
+
+#EXTINF:-1 group-title="Dramma" tvg-id="KORE" tvg-logo="https://image.tmdb.org/t/p/original/dTVsXA7zIWmLrRsULVrQJeAzKc0.jpg",KORE (2023)
+[[SERVER_URL]]/play.php?movieId=1258071
+
+#EXTINF:-1 group-title="Dramma" tvg-id="BREAKDOWN" tvg-logo="https://image.tmdb.org/t/p/original/tiEjz0BblUYfWL5tbBmI06jX6sA.jpg",BREAKDOWN (2024)
+[[SERVER_URL]]/play.php?movieId=1388875
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pinoquo" tvg-logo="https://image.tmdb.org/t/p/original/3m1OZomjqnfJgj3gDBcuBCkNjlU.jpg",Pinoquo (2023)
+[[SERVER_URL]]/play.php?movieId=1156741
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io non ti lascio solo" tvg-logo="https://image.tmdb.org/t/p/original/lwNB5CNOhZwq93KUgUJs9aBYUoN.jpg",Io non ti lascio solo (2025)
+[[SERVER_URL]]/play.php?movieId=1510413
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Manila paloma blanca" tvg-logo="https://image.tmdb.org/t/p/original/9Ki4vHit03xZJgKaKZhW0uo0skE.jpg",Manila paloma blanca (1992)
+[[SERVER_URL]]/play.php?movieId=519006
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Camilla" tvg-logo="https://image.tmdb.org/t/p/original/aqaw9jdEfx902VYhxvmnu0zhZMF.jpg",Camilla (2024)
+[[SERVER_URL]]/play.php?movieId=1302332
+
+#EXTINF:-1 group-title="Dramma" tvg-id="A proposito di noi" tvg-logo="https://image.tmdb.org/t/p/original/yrqHHqdEtcLUF9ueJ06OEVcVZEI.jpg",A proposito di noi (2021)
+[[SERVER_URL]]/play.php?movieId=1031248
+
+#EXTINF:-1 group-title="Dramma" tvg-id="AN DRE A" tvg-logo="https://image.tmdb.org/t/p/original/4BpVmM5DVcyYGwjRe7cClHOZoYV.jpg",AN DRE A (2020)
+[[SERVER_URL]]/play.php?movieId=691008
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Latin Dream" tvg-logo="https://image.tmdb.org/t/p/original/w8HsiqoVF5EBDXboUWln3uSH0d6.jpg",The Latin Dream (2017)
+[[SERVER_URL]]/play.php?movieId=458840
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ultima spiaggia" tvg-logo="https://image.tmdb.org/t/p/original/9U6voz3ZFWUYgDQqLoyiDOtIP0w.jpg",Ultima spiaggia (2025)
+[[SERVER_URL]]/play.php?movieId=1499080
+
+#EXTINF:-1 group-title="Dramma" tvg-id="INSIDE" tvg-logo="https://image.tmdb.org/t/p/original/puraJjtdloMqYG195Z9GrLxc18y.jpg",INSIDE (2021)
+[[SERVER_URL]]/play.php?movieId=1087081
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Chiusi alla luce" tvg-logo="https://image.tmdb.org/t/p/original/coMZIAoRiZtTLklTapZkbd1ChSy.jpg",Chiusi alla luce (2021)
+[[SERVER_URL]]/play.php?movieId=878140
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Cuidadora" tvg-logo="https://image.tmdb.org/t/p/original/yUxJf1zojn4lEdacPrNrRAIRu8f.jpg",La Cuidadora (2024)
+[[SERVER_URL]]/play.php?movieId=1339680
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Offline" tvg-logo="https://image.tmdb.org/t/p/original/iWP6hsCOQmahIJVSg9soZ0kNcQ5.jpg",The Offline (2022)
+[[SERVER_URL]]/play.php?movieId=1030283
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Inchei" tvg-logo="https://image.tmdb.org/t/p/original/7mG8nulMsgdhVsI6io3FPB5eaUj.jpg",Inchei (2022)
+[[SERVER_URL]]/play.php?movieId=854686
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Resilienza" tvg-logo="https://image.tmdb.org/t/p/original/9F1tx5mJoa4v1uMPrLpOADfbTIl.jpg",Resilienza (2025)
+[[SERVER_URL]]/play.php?movieId=1536131
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ultimo banco" tvg-logo="https://image.tmdb.org/t/p/original/dYDtQhrvG89eQNekfQgIbnSNfdw.jpg",Ultimo banco (2017)
+[[SERVER_URL]]/play.php?movieId=758228
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Adia" tvg-logo="https://image.tmdb.org/t/p/original/xllm3eWOEyxSl4ULB5HHdjTFUhw.jpg",Adia (2024)
+[[SERVER_URL]]/play.php?movieId=1336086
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Crybaby" tvg-logo="https://image.tmdb.org/t/p/original/bTgh75XSZp5fZxbzOXeoiDDzUqI.jpg",Crybaby (2023)
+[[SERVER_URL]]/play.php?movieId=1172631
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Assonnati sui caldi ginocchi" tvg-logo="https://image.tmdb.org/t/p/original/gy0euhnE93WYzUfmtZIBLaNeYCf.jpg",Assonnati sui caldi ginocchi (2025)
+[[SERVER_URL]]/play.php?movieId=1417838
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Come stai" tvg-logo="https://image.tmdb.org/t/p/original/9yrSSzs0LV233q8AZGaUuP0ULVx.jpg",Come stai (2023)
+[[SERVER_URL]]/play.php?movieId=1107951
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Asterione" tvg-logo="https://image.tmdb.org/t/p/original/aDwR6x59iKSjwzuEu8s5559yGvG.jpg",Asterione (2025)
+[[SERVER_URL]]/play.php?movieId=1460736
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Articolo 23 (Pentedattilo)" tvg-logo="https://image.tmdb.org/t/p/original/9Lz5fscBgyn5Wkw3fqbrf2xrmwc.jpg",Articolo 23 (Pentedattilo) (2008)
+[[SERVER_URL]]/play.php?movieId=751380
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Forget Me Not" tvg-logo="https://image.tmdb.org/t/p/original/2QFb9V5FPCbdw5HFE7DXitIvnI7.jpg",Forget Me Not (2016)
+[[SERVER_URL]]/play.php?movieId=749127
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Frammenti" tvg-logo="https://image.tmdb.org/t/p/original/7GaEHoPyTPMsJa0Idj9FkT2PXzS.jpg",Frammenti (2024)
+[[SERVER_URL]]/play.php?movieId=1377637
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Alba" tvg-logo="https://image.tmdb.org/t/p/original/jW9YYilIdhQPiNXXF5a0pDIiYAb.jpg",Alba (2018)
+[[SERVER_URL]]/play.php?movieId=811820
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Totò e Vicé" tvg-logo="https://image.tmdb.org/t/p/original/hRCu7ymirxkHQsV3mqIT0O8nAKb.jpg",Totò e Vicé (2017)
+[[SERVER_URL]]/play.php?movieId=1081471
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Amal" tvg-logo="https://image.tmdb.org/t/p/original/kGZcmddGW14tc2dfJ7O4x8GR1JY.jpg",Amal (2020)
+[[SERVER_URL]]/play.php?movieId=749467
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Leggera" tvg-logo="https://image.tmdb.org/t/p/original/vtwG8AepqkX91GRwptRQXlirMaI.jpg",Leggera (2025)
+[[SERVER_URL]]/play.php?movieId=1522769
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sentirsidire: Quello che i genitori non vorrebbero mai" tvg-logo="https://image.tmdb.org/t/p/original/k3dtx7hw1Qjr0K24CWhbkPQMb74.jpg",Sentirsidire: Quello che i genitori non vorrebbero mai (2010)
+[[SERVER_URL]]/play.php?movieId=114283
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Shores" tvg-logo="https://image.tmdb.org/t/p/original/rtZlKC3XsRz4hGyALSAR4Arm3vw.jpg",Shores (2021)
+[[SERVER_URL]]/play.php?movieId=788418
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Goodbye Pig" tvg-logo="https://image.tmdb.org/t/p/original/vpMDch0Y1ktETMLKB6e33ipLrdR.jpg",Goodbye Pig (2025)
+[[SERVER_URL]]/play.php?movieId=1481111
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sono viva" tvg-logo="https://image.tmdb.org/t/p/original/qO3bIreCIk5JOiWUHpMpyjj2C4k.jpg",Sono viva (2008)
+[[SERVER_URL]]/play.php?movieId=210382
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Professore" tvg-logo="https://image.tmdb.org/t/p/original/hts8BIAkd8scK4c6uik7u0VYs4D.jpg",Il Professore (2012)
+[[SERVER_URL]]/play.php?movieId=1444741
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cinque stanze" tvg-logo="https://image.tmdb.org/t/p/original/132AOGRnOv1DoMLVKcIHPGrTuvZ.jpg",Cinque stanze (2023)
+[[SERVER_URL]]/play.php?movieId=1184211
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Las memorias perdidas de los árboles" tvg-logo="https://image.tmdb.org/t/p/original/b3MC0IgPL8UVOpl7pJgy8a45dTA.jpg",Las memorias perdidas de los árboles (2023)
+[[SERVER_URL]]/play.php?movieId=1156736
+
+#EXTINF:-1 group-title="Dramma" tvg-id="TIC TAC" tvg-logo="https://image.tmdb.org/t/p/original/3Zaidkz9WfOCWPjmIX2DCVIJZME.jpg",TIC TAC (2025)
+[[SERVER_URL]]/play.php?movieId=1506463
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Abismo" tvg-logo="https://image.tmdb.org/t/p/original/h3IYIpg9F3Ug4m5DMZjWT4M5v6t.jpg",Abismo (2023)
+[[SERVER_URL]]/play.php?movieId=1435994
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Re minore" tvg-logo="https://image.tmdb.org/t/p/original/umcFIxjkNnKRo5ggFeJ2olAW9sM.jpg",Re minore (2022)
+[[SERVER_URL]]/play.php?movieId=1157261
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Savana" tvg-logo="https://image.tmdb.org/t/p/original/eqCN3rF4nq2QbAUuXhWp29LnKAp.jpg",Savana (2025)
+[[SERVER_URL]]/play.php?movieId=1391643
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Domenica sera" tvg-logo="https://image.tmdb.org/t/p/original/8iLi2khUE1sb0P98Xdbkzkj92PK.jpg",Domenica sera (2024)
+[[SERVER_URL]]/play.php?movieId=1320474
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Antonio" tvg-logo="https://image.tmdb.org/t/p/original/wRxdncgD6NSaqBAZhDfe9yHIltq.jpg",Antonio (2021)
+[[SERVER_URL]]/play.php?movieId=912113
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Malacarne" tvg-logo="https://image.tmdb.org/t/p/original/fLcdWkX4vo7UjAugJmtPpz7kVXw.jpg",Malacarne (2021)
+[[SERVER_URL]]/play.php?movieId=1012976
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Recomaterna" tvg-logo="https://image.tmdb.org/t/p/original/57SWEkvocgPg7fgvCAs6ZLWTr0I.jpg",Recomaterna (2023)
+[[SERVER_URL]]/play.php?movieId=1219770
+
+#EXTINF:-1 group-title="Dramma" tvg-id="It's All About Love" tvg-logo="https://image.tmdb.org/t/p/original/xMhvGf0SnXCvWoEmObkaURveOQD.jpg",It's All About Love (2021)
+[[SERVER_URL]]/play.php?movieId=1096042
+
+#EXTINF:-1 group-title="Dramma" tvg-id="PASSO A PRENDERTI" tvg-logo="https://image.tmdb.org/t/p/original/lsQwLtgG8cjdrFIx3BGFeH7XaUe.jpg",PASSO A PRENDERTI (2024)
+[[SERVER_URL]]/play.php?movieId=1365668
+
+#EXTINF:-1 group-title="Dramma" tvg-id="What the Water Gave Us" tvg-logo="https://image.tmdb.org/t/p/original/hGp6Air6iKmWFg5WsOgAZmCbmwm.jpg",What the Water Gave Us (2021)
+[[SERVER_URL]]/play.php?movieId=1031313
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Memorie" tvg-logo="https://image.tmdb.org/t/p/original/58SjH9OehTv5VY2WH9lQ4cafBzA.jpg",Memorie (2025)
+[[SERVER_URL]]/play.php?movieId=1531948
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Estate '05" tvg-logo="https://image.tmdb.org/t/p/original/w9O1YKzJ0q1ph5d4HnSiSc4KDxb.jpg",Estate '05 (2025)
+[[SERVER_URL]]/play.php?movieId=1510347
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tutto il resto è noia" tvg-logo="https://image.tmdb.org/t/p/original/nFF0E5qbTm5xulNc3i75UWG88nc.jpg",Tutto il resto è noia (2025)
+[[SERVER_URL]]/play.php?movieId=1458640
+
+#EXTINF:-1 group-title="Dramma" tvg-id="4021" tvg-logo="https://image.tmdb.org/t/p/original/uTTAtITNl5M8xiEvX9gwhMOtRE.jpg",4021 (2015)
+[[SERVER_URL]]/play.php?movieId=517036
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Viaggio Clandestino: Vite Di Santi e Peccatori" tvg-logo="https://image.tmdb.org/t/p/original/mixusgNu2RbjCPJ2mYAuyKR2seb.jpg",Il Viaggio Clandestino: Vite Di Santi e Peccatori (1994)
+[[SERVER_URL]]/play.php?movieId=625215
+
+#EXTINF:-1 group-title="Dramma" tvg-id="entre les vagues (un hommage)" tvg-logo="https://image.tmdb.org/t/p/original/d1AtQ6oSfXVgRCtmC9qQaeDBTB.jpg",entre les vagues (un hommage) (2023)
+[[SERVER_URL]]/play.php?movieId=1237798
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La cabina delle memorie" tvg-logo="https://image.tmdb.org/t/p/original/xkAAJHAB6eNkMeqadwh33COIW02.jpg",La cabina delle memorie (2022)
+[[SERVER_URL]]/play.php?movieId=1045768
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Oblio" tvg-logo="https://image.tmdb.org/t/p/original/dvF5URzm5ld9vWhFwehIhuruKs6.jpg",Oblio (2018)
+[[SERVER_URL]]/play.php?movieId=1182369
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Flores del precipicio" tvg-logo="https://image.tmdb.org/t/p/original/A2y8qqJAcRw70zOuqhd4Xy84IpH.jpg",Flores del precipicio (2022)
+[[SERVER_URL]]/play.php?movieId=1018248
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Claustrofobia" tvg-logo="https://image.tmdb.org/t/p/original/n4EEFDED7rVU0fmiXphOcXtPd06.jpg",Claustrofobia (2017)
+[[SERVER_URL]]/play.php?movieId=754471
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Frammenti" tvg-logo="https://image.tmdb.org/t/p/original/9Gtfm59qTULQampgl9zsnRSY0or.jpg",Frammenti (2019)
+[[SERVER_URL]]/play.php?movieId=613028
+
+#EXTINF:-1 group-title="Dramma" tvg-id="What happens at night" tvg-logo="https://image.tmdb.org/t/p/original/uk1mjbdvPT22nmogl6mq7sgU8TK.jpg",What happens at night (2019)
+[[SERVER_URL]]/play.php?movieId=747054
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Càdmio" tvg-logo="https://image.tmdb.org/t/p/original/i6yKLgbtFVeHcJjktHF9PvlqOCf.jpg",Càdmio (2022)
+[[SERVER_URL]]/play.php?movieId=910835
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sabato italiano" tvg-logo="https://image.tmdb.org/t/p/original/ee6iSXi3ReWtifD9lxB3woJfys0.jpg",Sabato italiano (1992)
+[[SERVER_URL]]/play.php?movieId=69647
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ambasciatori" tvg-logo="https://image.tmdb.org/t/p/original/kD5VM68pmcOGwUlipDsMZtdz6DI.jpg",Ambasciatori (2021)
+[[SERVER_URL]]/play.php?movieId=924439
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'ornitologa" tvg-logo="https://image.tmdb.org/t/p/original/wxvunu7XlKBr1Mv2gLV4lSLdqEU.jpg",L'ornitologa (2025)
+[[SERVER_URL]]/play.php?movieId=1375683
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Montedoro" tvg-logo="https://image.tmdb.org/t/p/original/4hs74KiFQ4De0h9hPw98DXriZtp.jpg",Montedoro (2016)
+[[SERVER_URL]]/play.php?movieId=445012
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'abisso dell'illusione" tvg-logo="https://image.tmdb.org/t/p/original/3Jolit6HfqMpEZUlQrgDD7zc5Tc.jpg",L'abisso dell'illusione (2024)
+[[SERVER_URL]]/play.php?movieId=1297731
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'oca è fuori" tvg-logo="https://image.tmdb.org/t/p/original/qMq3a76LEqIMcxTJRkQgRAU2dBs.jpg",L'oca è fuori (2022)
+[[SERVER_URL]]/play.php?movieId=1203523
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Where the Leaves Fall" tvg-logo="https://image.tmdb.org/t/p/original/itejD3O8Zx770RgNg3Mkt6olfOE.jpg",Where the Leaves Fall (2020)
+[[SERVER_URL]]/play.php?movieId=726452
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Happy" tvg-logo="https://image.tmdb.org/t/p/original/pUxHRviAUFgKoEm2pqzO5pUxpC.jpg",Happy (2015)
+[[SERVER_URL]]/play.php?movieId=1491391
+
+#EXTINF:-1 group-title="Dramma" tvg-id="È solo una storia" tvg-logo="https://image.tmdb.org/t/p/original/q5pqE7DGimdOavmhsCNYRhNkxTE.jpg",È solo una storia (2019)
+[[SERVER_URL]]/play.php?movieId=1053242
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mistero di un impiegato" tvg-logo="https://image.tmdb.org/t/p/original/5NuuYEv00Q5VqRil6mB1mDOO4KE.jpg",Mistero di un impiegato (2019)
+[[SERVER_URL]]/play.php?movieId=680676
+
+#EXTINF:-1 group-title="Dramma" tvg-id="XII844" tvg-logo="https://image.tmdb.org/t/p/original/nbN3L8Oet1i4vFFEMKZEXi1HJjT.jpg",XII844 (2016)
+[[SERVER_URL]]/play.php?movieId=814584
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Non riesco a dormire" tvg-logo="https://image.tmdb.org/t/p/original/m6jAYbn0WtKDysOny6KnJB8vi4Q.jpg",Non riesco a dormire (2016)
+[[SERVER_URL]]/play.php?movieId=643633
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il pasticciere" tvg-logo="https://image.tmdb.org/t/p/original/ycaX4wt5Q642xxFY1tRWY0a54wZ.jpg",Il pasticciere (2013)
+[[SERVER_URL]]/play.php?movieId=231568
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pandemic 2020" tvg-logo="https://image.tmdb.org/t/p/original/3NESJA9kEH1GDD7EMyF5kvJ1hz3.jpg",Pandemic 2020 (2024)
+[[SERVER_URL]]/play.php?movieId=1364295
+
+#EXTINF:-1 group-title="Dramma" tvg-id="70 giorni" tvg-logo="https://image.tmdb.org/t/p/original/gujPXvApFKlamdOeXXskyqTDQ1i.jpg",70 giorni (2020)
+[[SERVER_URL]]/play.php?movieId=713593
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La lepre" tvg-logo="https://image.tmdb.org/t/p/original/sVIqA4IqrOw8tSgXTfPHCUpyx9a.jpg",La lepre (2018)
+[[SERVER_URL]]/play.php?movieId=604096
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Oldest" tvg-logo="https://image.tmdb.org/t/p/original/I6mXerfwBOsGPEjSrzDLbuK6XK.jpg",The Oldest (2022)
+[[SERVER_URL]]/play.php?movieId=1090565
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Anomalisa Effect" tvg-logo="https://image.tmdb.org/t/p/original/heTXDkgGjYDz3lCVS7dmBlW1L9i.jpg",The Anomalisa Effect (2024)
+[[SERVER_URL]]/play.php?movieId=1247062
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Colpa di comunismo" tvg-logo="https://image.tmdb.org/t/p/original/lGz8XnvZHv76uJTYBby1JCipLqU.jpg",Colpa di comunismo (2015)
+[[SERVER_URL]]/play.php?movieId=368253
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ananke" tvg-logo="https://image.tmdb.org/t/p/original/osGMfpx3RBXRLXuxKIV3kmVYfJT.jpg",Ananke (2015)
+[[SERVER_URL]]/play.php?movieId=450821
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Drowned" tvg-logo="https://image.tmdb.org/t/p/original/q86VEk2P3JBY4wDft1oy8nEnveV.jpg",The Drowned (2024)
+[[SERVER_URL]]/play.php?movieId=1464177
+
+#EXTINF:-1 group-title="Dramma" tvg-id="ICTUS" tvg-logo="https://image.tmdb.org/t/p/original/aE6k6mJNF3LvzBxJv8Rj8hkNYl1.jpg",ICTUS (2024)
+[[SERVER_URL]]/play.php?movieId=1283333
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'anniversario" tvg-logo="https://image.tmdb.org/t/p/original/wUPkcUvJru1GL24NHxkA4ahmDwx.jpg",L'anniversario (2024)
+[[SERVER_URL]]/play.php?movieId=1287736
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Veleno biondo" tvg-logo="https://image.tmdb.org/t/p/original/dX2PxZ8TCkjMSRodrNXlpa85lr2.jpg",Veleno biondo (2022)
+[[SERVER_URL]]/play.php?movieId=1080172
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Come le lumache" tvg-logo="https://image.tmdb.org/t/p/original/zQnOlqTcM7pZ7RSVEbrt3FqBGii.jpg",Come le lumache (2022)
+[[SERVER_URL]]/play.php?movieId=1004614
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pappo e Bucco" tvg-logo="https://image.tmdb.org/t/p/original/ptAUUmnh8YFHtFZMZCyaTZV9cKN.jpg",Pappo e Bucco (2020)
+[[SERVER_URL]]/play.php?movieId=868959
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dr Dystopia" tvg-logo="https://image.tmdb.org/t/p/original/cwZx1hmun8uV2eBjM7vArU2yIiR.jpg",Dr Dystopia (2015)
+[[SERVER_URL]]/play.php?movieId=711848
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La destinazione" tvg-logo="https://image.tmdb.org/t/p/original/nieMrwMGoSSNvlk2Phz9cXCYJhK.jpg",La destinazione (2003)
+[[SERVER_URL]]/play.php?movieId=630466
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Elena" tvg-logo="https://image.tmdb.org/t/p/original/70MpHQGX1zvkw3vChNECMhpwcIc.jpg",Elena (2015)
+[[SERVER_URL]]/play.php?movieId=1432642
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Chedly" tvg-logo="https://image.tmdb.org/t/p/original/6Pb9mRUG8mWzB92lmucu6n7CBEf.jpg",Chedly (2019)
+[[SERVER_URL]]/play.php?movieId=805134
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Romeo Giulietta e omicidi" tvg-logo="https://image.tmdb.org/t/p/original/2tQKkRxiRZSgDoABiJXT6faG130.jpg",Romeo Giulietta e omicidi (2021)
+[[SERVER_URL]]/play.php?movieId=1468410
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Reddiest 2006" tvg-logo="https://image.tmdb.org/t/p/original/pFNGcBGbv37F3e4C0VF0wNMTok9.jpg",The Reddiest 2006 (2024)
+[[SERVER_URL]]/play.php?movieId=1432336
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il posto fra di noi" tvg-logo="https://image.tmdb.org/t/p/original/f3xfB2TxyFOP2c0xbMOBz7LGmTu.jpg",Il posto fra di noi (2010)
+[[SERVER_URL]]/play.php?movieId=1006845
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Casa al Mare" tvg-logo="https://image.tmdb.org/t/p/original/ibl0bmkSDPKzNRvuN6qHaQIlKLD.jpg",La Casa al Mare (2020)
+[[SERVER_URL]]/play.php?movieId=752947
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Amore Crononauta" tvg-logo="https://image.tmdb.org/t/p/original/rndLiukyuCcy4rz1Z2oj67ZIlRE.jpg",Amore Crononauta (2017)
+[[SERVER_URL]]/play.php?movieId=670088
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Baradar" tvg-logo="https://image.tmdb.org/t/p/original/rKOI9sArWrLSUTiM3d9qUfcFOA7.jpg",Baradar (2019)
+[[SERVER_URL]]/play.php?movieId=615140
+
+#EXTINF:-1 group-title="Dramma" tvg-id="G.A.I.A." tvg-logo="https://image.tmdb.org/t/p/original/54HwVBTwoDF3NmxLyRD9fT4ETaQ.jpg",G.A.I.A. (2019)
+[[SERVER_URL]]/play.php?movieId=613957
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Questione di Sguardi" tvg-logo="https://image.tmdb.org/t/p/original/dDg6eGttUqwsrDJEfgGiKkP4gMj.jpg",Questione di Sguardi (2014)
+[[SERVER_URL]]/play.php?movieId=360358
+
+#EXTINF:-1 group-title="Dramma" tvg-id="‘Merica" tvg-logo="https://image.tmdb.org/t/p/original/9442Z4xhNeXi9Bwy3SVVRjq89XO.jpg",‘Merica (2022)
+[[SERVER_URL]]/play.php?movieId=994337
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Spatial Memory" tvg-logo="https://image.tmdb.org/t/p/original/p8m4m2Qi23Z6hjhWgBwzdVEx027.jpg",Spatial Memory (2022)
+[[SERVER_URL]]/play.php?movieId=1182455
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dear Brother" tvg-logo="https://image.tmdb.org/t/p/original/6HYu01yIjDFQNOtS5tFS8nRgAIZ.jpg",Dear Brother (2023)
+[[SERVER_URL]]/play.php?movieId=1194670
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nuoto" tvg-logo="https://image.tmdb.org/t/p/original/3zneRzFwqLCyVKprlquCyXFBYtj.jpg",Nuoto (2022)
+[[SERVER_URL]]/play.php?movieId=1064195
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Focus" tvg-logo="https://image.tmdb.org/t/p/original/1Py4d8ZbAUvsI8BjS4SxzLope2o.jpg",Focus (2022)
+[[SERVER_URL]]/play.php?movieId=1004179
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nella tua testa" tvg-logo="https://image.tmdb.org/t/p/original/v4ARFpiJn0TcWfVG9p1tux7rQC8.jpg",Nella tua testa (2025)
+[[SERVER_URL]]/play.php?movieId=1430610
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Semaforo rosso" tvg-logo="https://image.tmdb.org/t/p/original/qGIjtqqD86OLoNql89V8ApsyzK9.jpg",Semaforo rosso (2021)
+[[SERVER_URL]]/play.php?movieId=925193
+
+#EXTINF:-1 group-title="Dramma" tvg-id="About Last Year" tvg-logo="https://image.tmdb.org/t/p/original/aumx8XGAHuclbtwlP22TB8Ds3c7.jpg",About Last Year (2023)
+[[SERVER_URL]]/play.php?movieId=1155700
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Boza or Die" tvg-logo="https://image.tmdb.org/t/p/original/fcPq12Ru2KlA6uvOsNUY2divaFf.jpg",Boza or Die (2023)
+[[SERVER_URL]]/play.php?movieId=1484564
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Just Another Day" tvg-logo="https://image.tmdb.org/t/p/original/kQnjxAYfEJLM3HR6QqC7bnpwmLE.jpg",Just Another Day (2009)
+[[SERVER_URL]]/play.php?movieId=860801
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Kibbles" tvg-logo="https://image.tmdb.org/t/p/original/hh4nqXJLLc2LVlBF4GYgZLkaZCr.jpg",Kibbles (2018)
+[[SERVER_URL]]/play.php?movieId=586094
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Chronique d'un couple" tvg-logo="https://image.tmdb.org/t/p/original/nEBywzcI0EZzvRTCEtFjfqqOy9e.jpg",Chronique d'un couple (1971)
+[[SERVER_URL]]/play.php?movieId=564360
+
+#EXTINF:-1 group-title="Dramma" tvg-id="MUSEo" tvg-logo="https://image.tmdb.org/t/p/original/q0uisMU6kBWlR85HEu5tbRj6AWU.jpg",MUSEo (2023)
+[[SERVER_URL]]/play.php?movieId=1353629
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'imboscato" tvg-logo="https://image.tmdb.org/t/p/original/iUZokDUXzK6YyOKUXqSBeuoywtV.jpg",L'imboscato (2020)
+[[SERVER_URL]]/play.php?movieId=1143316
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Archipel" tvg-logo="https://image.tmdb.org/t/p/original/nzsUPYSk813ct6AzGppMuP33sUi.jpg",Archipel (2010)
+[[SERVER_URL]]/play.php?movieId=1095286
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pugili dell'Inferno" tvg-logo="https://image.tmdb.org/t/p/original/m3BusRlS36hh0LGkOG8tnAqejod.jpg",Pugili dell'Inferno (2022)
+[[SERVER_URL]]/play.php?movieId=1084919
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Letizia" tvg-logo="https://image.tmdb.org/t/p/original/tNqH8twbUIrH1ZBjA1eRDxJb5wb.jpg",Letizia (2022)
+[[SERVER_URL]]/play.php?movieId=1029730
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Le Farfalle Non Sanno Nuotare" tvg-logo="https://image.tmdb.org/t/p/original/6RED4kiUFBCGKbcnOPtevuTX7wi.jpg",Le Farfalle Non Sanno Nuotare (2019)
+[[SERVER_URL]]/play.php?movieId=530423
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Follower #1" tvg-logo="https://image.tmdb.org/t/p/original/7KLNjuDj60PBy778O3oW1QQxZbb.jpg",Follower #1 (2025)
+[[SERVER_URL]]/play.php?movieId=1506677
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il colore del silenzio" tvg-logo="https://image.tmdb.org/t/p/original/fAGp05YEGMU0tpFwFjMWrnKS8gQ.jpg",Il colore del silenzio (2005)
+[[SERVER_URL]]/play.php?movieId=507073
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Giulia" tvg-logo="https://image.tmdb.org/t/p/original/9J6hGseexbAupi66LMchmyq8amU.jpg",Giulia (2016)
+[[SERVER_URL]]/play.php?movieId=1478497
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Child, The Two Scoundrels and The Witch" tvg-logo="https://image.tmdb.org/t/p/original/b9HGPBCYRmkfKNzz2iRIjwALsv8.jpg",The Child, The Two Scoundrels and The Witch (2024)
+[[SERVER_URL]]/play.php?movieId=1538941
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nulla è, Nulla sia" tvg-logo="https://image.tmdb.org/t/p/original/5Sp1I2KkA0bUxKKG82yacq3Ywkm.jpg",Nulla è, Nulla sia (2023)
+[[SERVER_URL]]/play.php?movieId=1275042
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La brava gente" tvg-logo="https://image.tmdb.org/t/p/original/ujnHPXxDlsa1A4A2w0RK6uqvlS7.jpg",La brava gente (2024)
+[[SERVER_URL]]/play.php?movieId=1247117
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il bacio" tvg-logo="https://image.tmdb.org/t/p/original/cGR3tlRPJQp05wE7F2eRnGCqhLh.jpg",Il bacio (2020)
+[[SERVER_URL]]/play.php?movieId=1126371
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Falso Negativo" tvg-logo="https://image.tmdb.org/t/p/original/uLaXNXKreeDfdsjSqI4BuvN6f0k.jpg",Falso Negativo (2016)
+[[SERVER_URL]]/play.php?movieId=757131
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Palermo flüstert" tvg-logo="https://image.tmdb.org/t/p/original/e79pcuX7PmXo2qMkyz4LUGi40Ma.jpg",Palermo flüstert (2001)
+[[SERVER_URL]]/play.php?movieId=441979
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Prisoncide" tvg-logo="https://image.tmdb.org/t/p/original/ahpgrghC1AYXrDVeBjKKQJl5RNM.jpg",Prisoncide (2023)
+[[SERVER_URL]]/play.php?movieId=1282685
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Acqua che scorre non porta veleno" tvg-logo="https://image.tmdb.org/t/p/original/ubMTgwAqCD9AA73eAQ6AbseGcGS.jpg",Acqua che scorre non porta veleno (2021)
+[[SERVER_URL]]/play.php?movieId=961670
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Quello che non ho detto" tvg-logo="https://image.tmdb.org/t/p/original/rNbhxqtJcXr9rqs0vDPjmqzMmvY.jpg",Quello che non ho detto (2020)
+[[SERVER_URL]]/play.php?movieId=779491
+
+#EXTINF:-1 group-title="Dramma" tvg-id="I gemelli" tvg-logo="https://image.tmdb.org/t/p/original/4SGMPxTRwrJAY1qA9le4i1RV5F1.jpg",I gemelli (2020)
+[[SERVER_URL]]/play.php?movieId=1033056
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La lastra" tvg-logo="https://image.tmdb.org/t/p/original/6SejzUqu0AnBJw3ga5wNDnlyuIp.jpg",La lastra (2022)
+[[SERVER_URL]]/play.php?movieId=986723
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Verso Mare" tvg-logo="https://image.tmdb.org/t/p/original/9V2REHNnRHhktj3l1nlKEz6QY8e.jpg",Verso Mare (2024)
+[[SERVER_URL]]/play.php?movieId=1464439
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Trentatrè" tvg-logo="https://image.tmdb.org/t/p/original/gQVaIgwX2UCiq7mzFyshhOTMJLd.jpg",Trentatrè (2023)
+[[SERVER_URL]]/play.php?movieId=1363970
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Piovre" tvg-logo="https://image.tmdb.org/t/p/original/z047md5ALSKGWYqgXPK4iDHVTap.jpg",Piovre (2023)
+[[SERVER_URL]]/play.php?movieId=1460567
+
+#EXTINF:-1 group-title="Dramma" tvg-id="ARIANNA" tvg-logo="https://image.tmdb.org/t/p/original/6lJSzNEdO3QsaWXqxD3xm26Nxc.jpg",ARIANNA (2024)
+[[SERVER_URL]]/play.php?movieId=1134770
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Paramore" tvg-logo="https://image.tmdb.org/t/p/original/2x91uWdUSMy4l5Z3ljjt6rWxKy.jpg",Paramore (2023)
+[[SERVER_URL]]/play.php?movieId=1033973
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Kalimera" tvg-logo="https://image.tmdb.org/t/p/original/x1St7zxbjOHxFvDmRfO0YpyLKWP.jpg",Kalimera (2024)
+[[SERVER_URL]]/play.php?movieId=1299408
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il contrappasso" tvg-logo="https://image.tmdb.org/t/p/original/r1H1yM8MMVk2nBCf1WiYpT5DT6s.jpg",Il contrappasso (2023)
+[[SERVER_URL]]/play.php?movieId=1204528
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Redente" tvg-logo="https://image.tmdb.org/t/p/original/6WyfozZD4mbmWopxPelhbIKj3NL.jpg",Redente (2023)
+[[SERVER_URL]]/play.php?movieId=1071745
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Teresa" tvg-logo="https://image.tmdb.org/t/p/original/em5AM8wtGrEK2PRUmgVeRGEos9Y.jpg",Teresa (2019)
+[[SERVER_URL]]/play.php?movieId=737126
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Eternal Notes" tvg-logo="https://image.tmdb.org/t/p/original/1QQtTCtyzt7tx5qeM2cWjLb5cwR.jpg",Eternal Notes (2023)
+[[SERVER_URL]]/play.php?movieId=1235173
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Misure" tvg-logo="https://image.tmdb.org/t/p/original/sHzpw4p4GZsyVsSR1AUeOBsVwgH.jpg",Misure (2025)
+[[SERVER_URL]]/play.php?movieId=1472086
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Christian" tvg-logo="https://image.tmdb.org/t/p/original/cWhU1j77Tj6lBJ8tyqOsHVXGqIb.jpg",Christian (2015)
+[[SERVER_URL]]/play.php?movieId=654733
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Flesheater" tvg-logo="https://image.tmdb.org/t/p/original/1uDL9sK42qK1DwOvO41wfGtef9p.jpg",Flesheater (2025)
+[[SERVER_URL]]/play.php?movieId=1460977
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Diluvio Universale" tvg-logo="https://image.tmdb.org/t/p/original/nR1QqFZFfOiaNpgJ3SvdgncSDKp.jpg",Il Diluvio Universale (2025)
+[[SERVER_URL]]/play.php?movieId=1460226
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Due respiri" tvg-logo="https://image.tmdb.org/t/p/original/rnWi1kw3RXUuYdHNYDd2vbsqzth.jpg",Due respiri (2023)
+[[SERVER_URL]]/play.php?movieId=1370294
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Bianca" tvg-logo="https://image.tmdb.org/t/p/original/3ZpTFIxUEv1L2fAbzw58C5bqYZs.jpg",Bianca (2013)
+[[SERVER_URL]]/play.php?movieId=1251604
+
+#EXTINF:-1 group-title="Dramma" tvg-id="80 KG. In Mortem Johann Fatzer" tvg-logo="https://image.tmdb.org/t/p/original/byOPYe2YcHvSzEb2IYzymADtXMI.jpg",80 KG. In Mortem Johann Fatzer (2012)
+[[SERVER_URL]]/play.php?movieId=1040767
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Malatedda" tvg-logo="https://image.tmdb.org/t/p/original/eoJ7gBwStafUeojwP7tr8kaVXQx.jpg",Malatedda (2014)
+[[SERVER_URL]]/play.php?movieId=837245
+
+#EXTINF:-1 group-title="Dramma" tvg-id="I Giorni Bianchi" tvg-logo="https://image.tmdb.org/t/p/original/fZL4JPjGON4rESRlq5ITRfdBNfn.jpg",I Giorni Bianchi (2021)
+[[SERVER_URL]]/play.php?movieId=814618
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io Sono Alda" tvg-logo="https://image.tmdb.org/t/p/original/1wvBfKxj6frxMfqLI2yCGmHmKxi.jpg",Io Sono Alda (2020)
+[[SERVER_URL]]/play.php?movieId=812480
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mare mosso" tvg-logo="https://image.tmdb.org/t/p/original/uxPkrVqvq5hTkItgLqVwuoSjk9i.jpg",Mare mosso (2017)
+[[SERVER_URL]]/play.php?movieId=541442
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Le cinque stagioni" tvg-logo="https://image.tmdb.org/t/p/original/aH6nppp8vEbvbpmgvuS6Dez1CLq.jpg",Le cinque stagioni (1976)
+[[SERVER_URL]]/play.php?movieId=502330
+
+#EXTINF:-1 group-title="Dramma" tvg-id="50mm" tvg-logo="https://image.tmdb.org/t/p/original/mDm8k85AWTsHXqwsudHCM1zuC0o.jpg",50mm (2022)
+[[SERVER_URL]]/play.php?movieId=1476710
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Rugiada Rossa" tvg-logo="https://image.tmdb.org/t/p/original/Ieg4chQgwUNCRJ10NVyVt6pEnZ.jpg",Rugiada Rossa (2023)
+[[SERVER_URL]]/play.php?movieId=1316474
+
+#EXTINF:-1 group-title="Dramma" tvg-id="In casa con Claude" tvg-logo="https://image.tmdb.org/t/p/original/jbrDYeEVW4YMO2UbGdZwfwC0g3q.jpg",In casa con Claude (2020)
+[[SERVER_URL]]/play.php?movieId=772599
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Summer in a small village" tvg-logo="https://image.tmdb.org/t/p/original/h6nvMC7RqbHIVbLnWfnOXcOOFUS.jpg",Summer in a small village (2024)
+[[SERVER_URL]]/play.php?movieId=1317917
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Bettiol: Il Deserto nella Cattedrale" tvg-logo="https://image.tmdb.org/t/p/original/dGXLnSIOvNok2Qkxa0UFcgCEGiu.jpg",Bettiol: Il Deserto nella Cattedrale (2018)
+[[SERVER_URL]]/play.php?movieId=1008163
+
+#EXTINF:-1 group-title="Dramma" tvg-id="€ (Euro) - un cortometraggio di Andrea Ventura" tvg-logo="https://image.tmdb.org/t/p/original/t5NaiuTUjjSyGg4npsUxmhldfdd.jpg",€ (Euro) - un cortometraggio di Andrea Ventura (2017)
+[[SERVER_URL]]/play.php?movieId=1182263
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L’osservatorio nucleare del sig. Nanof" tvg-logo="https://image.tmdb.org/t/p/original/AbsplBe2LxXomaN4gFN2FRqOdy5.jpg",L’osservatorio nucleare del sig. Nanof (1984)
+[[SERVER_URL]]/play.php?movieId=805950
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Im Bären" tvg-logo="https://image.tmdb.org/t/p/original/2KKQ0jvdqyGI11JDxpoNEl7u7ls.jpg",Im Bären (2018)
+[[SERVER_URL]]/play.php?movieId=800805
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Beyond Space" tvg-logo="https://image.tmdb.org/t/p/original/ApzdNaCkz3Nj3XG7Bf2ofKM2dCD.jpg",Beyond Space (2023)
+[[SERVER_URL]]/play.php?movieId=1228832
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Monotonia" tvg-logo="https://image.tmdb.org/t/p/original/llJUuw07qH8LoEuPuYEDFzn6aLV.jpg",Monotonia (2021)
+[[SERVER_URL]]/play.php?movieId=1530583
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Self" tvg-logo="https://image.tmdb.org/t/p/original/eWICIfhjD3SSwdHQ4CPnGTVlHyd.jpg",Self (2024)
+[[SERVER_URL]]/play.php?movieId=1453601
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tagli" tvg-logo="https://image.tmdb.org/t/p/original/bjKTlx3d1YJVlba9f9EDsaj06d8.jpg",Tagli (2022)
+[[SERVER_URL]]/play.php?movieId=1313600
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Liminalset" tvg-logo="https://image.tmdb.org/t/p/original/6d85CovakCe6R1TobN4fuOsKj9e.jpg",Liminalset (2023)
+[[SERVER_URL]]/play.php?movieId=1172591
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Kristo 33" tvg-logo="https://image.tmdb.org/t/p/original/mwi4pO3lYliAjKNpCfcqg8OaJMp.jpg",Kristo 33 (2002)
+[[SERVER_URL]]/play.php?movieId=1083469
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sabbia" tvg-logo="https://image.tmdb.org/t/p/original/z3KE2E0osonpv7JksMp3L9mHbbJ.jpg",Sabbia (2014)
+[[SERVER_URL]]/play.php?movieId=915112
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mondo Delirium" tvg-logo="https://image.tmdb.org/t/p/original/b5HkJry8BqtwxcK0Jg1FTuq2pMZ.jpg",Mondo Delirium (2013)
+[[SERVER_URL]]/play.php?movieId=1147210
+
+#EXTINF:-1 group-title="Dramma" tvg-id="DUE" tvg-logo="https://image.tmdb.org/t/p/original/xQktY7Lzub0OazYq1d5IXhXug2u.jpg",DUE (2024)
+[[SERVER_URL]]/play.php?movieId=1362729
+
+#EXTINF:-1 group-title="Dramma" tvg-id="NEMO" tvg-logo="https://image.tmdb.org/t/p/original/tu3xhNEjIEprePhHeESEo3XCsAL.jpg",NEMO (2024)
+[[SERVER_URL]]/play.php?movieId=1530573
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Tricolore" tvg-logo="https://image.tmdb.org/t/p/original/vvAvWQ5Qs79oxzLCFvhJvhZVe7U.jpg",Il Tricolore (2024)
+[[SERVER_URL]]/play.php?movieId=1274018
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Voce lacrimante" tvg-logo="https://image.tmdb.org/t/p/original/5QQPGcD5m79vZKjT85Z6oBRM8kc.jpg",Voce lacrimante (2024)
+[[SERVER_URL]]/play.php?movieId=1245287
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il modo tuo d'amare" tvg-logo="https://image.tmdb.org/t/p/original/bFR1uuuDnYIykyHIcCeXiqg4eg7.jpg",Il modo tuo d'amare (2023)
+[[SERVER_URL]]/play.php?movieId=1201566
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Panda Minore" tvg-logo="https://image.tmdb.org/t/p/original/5VzwhQ3BCpLGV1CKkhasIjGPuCP.jpg",Il Panda Minore (2023)
+[[SERVER_URL]]/play.php?movieId=1178039
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Uno dopo l'altro" tvg-logo="https://image.tmdb.org/t/p/original/zb3jbORoNXPKbAP9Gtq8TS1PRe2.jpg",Uno dopo l'altro (2021)
+[[SERVER_URL]]/play.php?movieId=859795
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Redenzione" tvg-logo="https://image.tmdb.org/t/p/original/iz6KyQGFa2noKjtc4Hd6pGg25S6.jpg",Redenzione (2023)
+[[SERVER_URL]]/play.php?movieId=1101670
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io la sedia me la porto da casa" tvg-logo="https://image.tmdb.org/t/p/original/pxRQqGCYSMI2drLea8Mozirg2uD.jpg",Io la sedia me la porto da casa (2019)
+[[SERVER_URL]]/play.php?movieId=708712
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La donna dello smartphone" tvg-logo="https://image.tmdb.org/t/p/original/gbdHTU0GEm1IMnAHVtbtwr6REca.jpg",La donna dello smartphone (2020)
+[[SERVER_URL]]/play.php?movieId=680419
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gianni" tvg-logo="https://image.tmdb.org/t/p/original/qY9EaCQ1Xd6aMJetNSMJwShlFDg.jpg",Gianni (2016)
+[[SERVER_URL]]/play.php?movieId=1530060
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Onde di terra" tvg-logo="https://image.tmdb.org/t/p/original/v7KL8G5PmTozDINrC6hvwJcZAxz.jpg",Onde di terra (2024)
+[[SERVER_URL]]/play.php?movieId=1426304
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dalia" tvg-logo="https://image.tmdb.org/t/p/original/aUMdWnVbVJFJLmJZwjgcIusduJC.jpg",Dalia (2022)
+[[SERVER_URL]]/play.php?movieId=1407967
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pizza!" tvg-logo="https://image.tmdb.org/t/p/original/mMav8D8MyYiWXcCQoQBFSm6iESO.jpg",Pizza! (2021)
+[[SERVER_URL]]/play.php?movieId=1162647
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Malamore" tvg-logo="https://image.tmdb.org/t/p/original/51kRo7fmHgs9V97qN0U0FhK4bRg.jpg",Malamore (2023)
+[[SERVER_URL]]/play.php?movieId=1121193
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il ragazzo che smise di respirare" tvg-logo="https://image.tmdb.org/t/p/original/kLkw8aXST3UUvfaYDMEGZCBYMAP.jpg",Il ragazzo che smise di respirare (2019)
+[[SERVER_URL]]/play.php?movieId=624687
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'amico immaginario" tvg-logo="https://image.tmdb.org/t/p/original/13S7tGSZripupGSrslqZroO1EXz.jpg",L'amico immaginario (1994)
+[[SERVER_URL]]/play.php?movieId=338203
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fuori servizio" tvg-logo="https://image.tmdb.org/t/p/original/lEdLCYiUCkfyJLmFigFLaCYVB7r.jpg",Fuori servizio (2023)
+[[SERVER_URL]]/play.php?movieId=1378817
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tutta la nostra vita" tvg-logo="https://image.tmdb.org/t/p/original/sjBB5CYXxRQCDGIjDvFOOiyLj6A.jpg",Tutta la nostra vita (2023)
+[[SERVER_URL]]/play.php?movieId=1289958
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Deux égarés sont morts" tvg-logo="https://image.tmdb.org/t/p/original/jyDAVM1WliFxfZBo1umwQaMU9Li.jpg",Deux égarés sont morts (2017)
+[[SERVER_URL]]/play.php?movieId=530405
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il turno" tvg-logo="https://image.tmdb.org/t/p/original/fPuADHRkv5Yd1JMojSdHJdAbdCJ.jpg",Il turno (2021)
+[[SERVER_URL]]/play.php?movieId=854673
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sarino" tvg-logo="https://image.tmdb.org/t/p/original/biztLKI9CcSULmY6fyeNlATtIKz.jpg",Sarino (2019)
+[[SERVER_URL]]/play.php?movieId=626499
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tutta colpa dell'istinto" tvg-logo="https://image.tmdb.org/t/p/original/bNG1k2DDrjRp9ESppxwGbUEEJQ6.jpg",Tutta colpa dell'istinto (2020)
+[[SERVER_URL]]/play.php?movieId=724840
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fatta male" tvg-logo="https://image.tmdb.org/t/p/original/nFcOR5OyjSV717Zoa52RFm1h1Z9.jpg",Fatta male (2020)
+[[SERVER_URL]]/play.php?movieId=685240
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ci vuole del tempo" tvg-logo="https://image.tmdb.org/t/p/original/pqXpsxpVUbKmV11qe09XHY1WpAA.jpg",Ci vuole del tempo (2024)
+[[SERVER_URL]]/play.php?movieId=1389035
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nelle tue Mani" tvg-logo="https://image.tmdb.org/t/p/original/6GYuHmFfhV7DngnfKd3vMP2Ynbo.jpg",Nelle tue Mani (2020)
+[[SERVER_URL]]/play.php?movieId=756808
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La danza del diavolo" tvg-logo="https://image.tmdb.org/t/p/original/6qrKMa3hKlSugQhfI6Rc1CvvM6V.jpg",La danza del diavolo (2025)
+[[SERVER_URL]]/play.php?movieId=1544340
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Little Bird" tvg-logo="https://image.tmdb.org/t/p/original/f73KKXaA66MrVmBQkoQTRTmgnVE.jpg",Little Bird (2024)
+[[SERVER_URL]]/play.php?movieId=1424326
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tecnacria" tvg-logo="https://image.tmdb.org/t/p/original/9YSbsRoSNIroiN2l9485nYlq9eP.jpg",Tecnacria (2005)
+[[SERVER_URL]]/play.php?movieId=893208
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Agosto" tvg-logo="https://image.tmdb.org/t/p/original/vBhIgB58fOFDURYvSvVhQL06bsR.jpg",Agosto (2015)
+[[SERVER_URL]]/play.php?movieId=846792
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ingressi" tvg-logo="https://image.tmdb.org/t/p/original/muCVVgf7aTOTSLZxEPdsjsjOs8P.jpg",Ingressi (2023)
+[[SERVER_URL]]/play.php?movieId=1268007
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Foglie D'Autunno" tvg-logo="https://image.tmdb.org/t/p/original/mzpBYyllrcjGHeYuEp3ZHe6Whft.jpg",Foglie D'Autunno (2023)
+[[SERVER_URL]]/play.php?movieId=1249017
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Èvanescence" tvg-logo="https://image.tmdb.org/t/p/original/othBJqS3WfxU08FuoAz54X2ipwK.jpg",Èvanescence (2025)
+[[SERVER_URL]]/play.php?movieId=1241508
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Welcome to Paradise" tvg-logo="https://image.tmdb.org/t/p/original/cRy3vhdON2BT171801bXwiMpmHm.jpg",Welcome to Paradise (2023)
+[[SERVER_URL]]/play.php?movieId=1156198
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pizzicata" tvg-logo="https://image.tmdb.org/t/p/original/b7quZ5QqGEg5LEG3HT7fl3lI2eS.jpg",Pizzicata (2000)
+[[SERVER_URL]]/play.php?movieId=383261
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Etilismo" tvg-logo="https://image.tmdb.org/t/p/original/9qG6yvrJHQbqlbBVseDlqPxyAlB.jpg",Etilismo (2024)
+[[SERVER_URL]]/play.php?movieId=1238734
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Honor" tvg-logo="https://image.tmdb.org/t/p/original/fzafIYSFKguiNvw9G4PzD6WchAk.jpg",Honor (2019)
+[[SERVER_URL]]/play.php?movieId=754081
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Scena madre" tvg-logo="https://image.tmdb.org/t/p/original/tfpTSBTwz3l8TYn2DsByfVn6r0j.jpg",Scena madre (2019)
+[[SERVER_URL]]/play.php?movieId=708630
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Flash of Life" tvg-logo="https://image.tmdb.org/t/p/original/lSKDON89YnVRXtRQ66IMHQvYN7e.jpg",Flash of Life (2025)
+[[SERVER_URL]]/play.php?movieId=1485849
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Friend Box" tvg-logo="https://image.tmdb.org/t/p/original/oVYjrnsTKVcf3NgI5NPu33TdQuB.jpg",Friend Box (2018)
+[[SERVER_URL]]/play.php?movieId=1079370
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Una Fortuna da Re" tvg-logo="https://image.tmdb.org/t/p/original/xAjjJ3bWpXmO2bPo6jajCP5GW2V.jpg",Una Fortuna da Re (2023)
+[[SERVER_URL]]/play.php?movieId=1424022
+
+#EXTINF:-1 group-title="Dramma" tvg-id="MIMOSA" tvg-logo="https://image.tmdb.org/t/p/original/rlevaTP4H5epvEjqCdOSqZkvcVk.jpg",MIMOSA (2024)
+[[SERVER_URL]]/play.php?movieId=1387154
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Love Child" tvg-logo="https://image.tmdb.org/t/p/original/7KLaVr6yxESlIp8BYec22zEuZmD.jpg",Love Child (2024)
+[[SERVER_URL]]/play.php?movieId=1308411
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Vanishing Hitchhiker" tvg-logo="https://image.tmdb.org/t/p/original/oSTsWn41fE6LfAqVfc5NwRNBZps.jpg",The Vanishing Hitchhiker (2021)
+[[SERVER_URL]]/play.php?movieId=1162946
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Apice" tvg-logo="https://image.tmdb.org/t/p/original/xVLHvBTEjPdHIADktaZwVqD6hFP.jpg",Apice (2004)
+[[SERVER_URL]]/play.php?movieId=1040765
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ho vinto io" tvg-logo="https://image.tmdb.org/t/p/original/pmJy3H9RnyIbv6A3BP6NOP8iWOt.jpg",Ho vinto io (2023)
+[[SERVER_URL]]/play.php?movieId=1361692
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lì dove è stata perduta" tvg-logo="https://image.tmdb.org/t/p/original/cRlfoFXwAr1qopbfrZdZXPIoOcf.jpg",Lì dove è stata perduta (2023)
+[[SERVER_URL]]/play.php?movieId=1304554
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Amarena" tvg-logo="https://image.tmdb.org/t/p/original/pAY8tskkZO5zhBfyLyTy0jTscLY.jpg",Amarena (2021)
+[[SERVER_URL]]/play.php?movieId=865896
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Come in certi romanzi russi" tvg-logo="https://image.tmdb.org/t/p/original/8y9cbYivUT77XTQBS3QwSHFF2z8.jpg",Come in certi romanzi russi (2019)
+[[SERVER_URL]]/play.php?movieId=707304
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'ultima stazione" tvg-logo="https://image.tmdb.org/t/p/original/2zlxFOKlqsZhyg45JR7lK5VTeW9.jpg",L'ultima stazione (1999)
+[[SERVER_URL]]/play.php?movieId=386447
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The pleasure & the nightmare" tvg-logo="https://image.tmdb.org/t/p/original/9WEP2cnUMsLGcplLiyo0ZDLeQzO.jpg",The pleasure & the nightmare (2021)
+[[SERVER_URL]]/play.php?movieId=786642
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Afterparty" tvg-logo="https://image.tmdb.org/t/p/original/knsM1c2ooRDGofcFLTQoAoLrGfW.jpg",Afterparty (2021)
+[[SERVER_URL]]/play.php?movieId=1514476
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tako se je končalo poletje" tvg-logo="https://image.tmdb.org/t/p/original/fu8nTcfCFHuR9NBPu0KAodRdx5O.jpg",Tako se je končalo poletje (2022)
+[[SERVER_URL]]/play.php?movieId=998952
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mind" tvg-logo="https://image.tmdb.org/t/p/original/spAyxp9qbmTIwAlP8aprskHg9uA.jpg",Mind (2018)
+[[SERVER_URL]]/play.php?movieId=833014
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il caso Salice" tvg-logo="https://image.tmdb.org/t/p/original/615xSuvOLR6Q0lQwZTXyAekAhQJ.jpg",Il caso Salice (2020)
+[[SERVER_URL]]/play.php?movieId=804455
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Promessi sposi" tvg-logo="https://image.tmdb.org/t/p/original/5Oyv5fC6qqGU3ILVnCPEkz6dfLl.jpg",Promessi sposi (1993)
+[[SERVER_URL]]/play.php?movieId=705531
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Renverse" tvg-logo="https://image.tmdb.org/t/p/original/woIJKrfws6uLui0AmqxHNiUQkyR.jpg",Renverse (2024)
+[[SERVER_URL]]/play.php?movieId=1554230
+
+#EXTINF:-1 group-title="Dramma" tvg-id="23" tvg-logo="https://image.tmdb.org/t/p/original/zJtYQWIzhDUHZjxIhrN6qstJHXY.jpg",23 (2024)
+[[SERVER_URL]]/play.php?movieId=1385124
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La macchina di Renato" tvg-logo="https://image.tmdb.org/t/p/original/o6B6DMQD8HbhSgaMQUGAxWZK45H.jpg",La macchina di Renato (2025)
+[[SERVER_URL]]/play.php?movieId=1487830
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Luna Sott'Acqua" tvg-logo="https://image.tmdb.org/t/p/original/v88A3AlYFS62LL8UXIkPSEtOFH6.jpg",La Luna Sott'Acqua (2023)
+[[SERVER_URL]]/play.php?movieId=1195947
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mendelssohn im Jüdischen Museum Berlin" tvg-logo="https://image.tmdb.org/t/p/original/xGZUjcHYSf1N13ALfUmjLkRO0iD.jpg",Mendelssohn im Jüdischen Museum Berlin (2017)
+[[SERVER_URL]]/play.php?movieId=1025945
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ciò che le nuvole non dicono" tvg-logo="https://image.tmdb.org/t/p/original/glTY4xxgQ7PZlK6Og2duJ2cWByt.jpg",Ciò che le nuvole non dicono (2016)
+[[SERVER_URL]]/play.php?movieId=933173
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ratti" tvg-logo="https://image.tmdb.org/t/p/original/nIInWV5nYtlzIrwnkiXKvGUoLlp.jpg",Ratti (2020)
+[[SERVER_URL]]/play.php?movieId=708959
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dimmi cosa senti" tvg-logo="https://image.tmdb.org/t/p/original/8u5fODBQp3Aeiu5PtaE5oYoNLzv.jpg",Dimmi cosa senti (2015)
+[[SERVER_URL]]/play.php?movieId=647675
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Viva Revolution" tvg-logo="https://image.tmdb.org/t/p/original/2538OhsXmyzrv89gIVdTWTlFBtH.jpg",Viva Revolution (2025)
+[[SERVER_URL]]/play.php?movieId=1539486
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fame d'aria" tvg-logo="https://image.tmdb.org/t/p/original/bporlMNiYezCUsWpTMJi8ag7Dz3.jpg",Fame d'aria (2022)
+[[SERVER_URL]]/play.php?movieId=1077702
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Uruguay" tvg-logo="https://image.tmdb.org/t/p/original/kvDCg0sB7eBj37dOQnNbYwVE7Lq.jpg",Uruguay (2021)
+[[SERVER_URL]]/play.php?movieId=906135
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tornare indietro" tvg-logo="https://image.tmdb.org/t/p/original/aQBEng2DWg2GTQWLWg4miyvex9M.jpg",Tornare indietro (2002)
+[[SERVER_URL]]/play.php?movieId=861148
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Viaggio a Stoccolma" tvg-logo="https://image.tmdb.org/t/p/original/zZUy7bMqmX66qeZWPo9Engf5Hmz.jpg",Viaggio a Stoccolma (2017)
+[[SERVER_URL]]/play.php?movieId=1056670
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Cristo in gola" tvg-logo="https://image.tmdb.org/t/p/original/31pgvc2132eM7kqr9pJXFAJftRP.jpg",Il Cristo in gola (2022)
+[[SERVER_URL]]/play.php?movieId=1053814
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Merci mais non merci" tvg-logo="https://image.tmdb.org/t/p/original/9lMW6kHEJ0dN2EX93Td0YkwGQrA.jpg",Merci mais non merci (2019)
+[[SERVER_URL]]/play.php?movieId=894194
+
+#EXTINF:-1 group-title="Dramma" tvg-id="9x9" tvg-logo="https://image.tmdb.org/t/p/original/2xvXU9tAozHEuTlMCZzazyM6dSS.jpg",9x9 (2013)
+[[SERVER_URL]]/play.php?movieId=1423776
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Principe e la Strega" tvg-logo="https://image.tmdb.org/t/p/original/6tSF7of9V36odLEHq6pnrYl9G61.jpg",Il Principe e la Strega (2025)
+[[SERVER_URL]]/play.php?movieId=1353222
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il canto di Alina" tvg-logo="https://image.tmdb.org/t/p/original/kVMdFxJJS3Y5MCpU68mmv9QyTDI.jpg",Il canto di Alina (2025)
+[[SERVER_URL]]/play.php?movieId=1531121
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La finestra sul mare" tvg-logo="https://image.tmdb.org/t/p/original/4Q0lqnujYT8a0eZ2MINhWCGRkbF.jpg",La finestra sul mare (2020)
+[[SERVER_URL]]/play.php?movieId=937028
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cento ore" tvg-logo="https://image.tmdb.org/t/p/original/huhu1z0abRnspnMQE5jYxUCYgen.jpg",Cento ore (2020)
+[[SERVER_URL]]/play.php?movieId=684872
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Valvonauta" tvg-logo="https://image.tmdb.org/t/p/original/gGzHZvIC8BJXoD5pcfRAndnKFEt.jpg",Valvonauta (2021)
+[[SERVER_URL]]/play.php?movieId=656616
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Carta" tvg-logo="https://image.tmdb.org/t/p/original/8RfFs8jLgwJaG2WSqyN5OW7t4CM.jpg",Carta (2019)
+[[SERVER_URL]]/play.php?movieId=579211
+
+#EXTINF:-1 group-title="Dramma" tvg-id="GLITCH" tvg-logo="https://image.tmdb.org/t/p/original/cd8ZeqQzz55pdkLKwsw2UYEU8pH.jpg",GLITCH (2024)
+[[SERVER_URL]]/play.php?movieId=1378790
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'mina" tvg-logo="https://image.tmdb.org/t/p/original/wRYsXd4UqBRTpG3516d9a9QmNZO.jpg",L'mina (2025)
+[[SERVER_URL]]/play.php?movieId=1470482
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'unica certezza" tvg-logo="https://image.tmdb.org/t/p/original/ty2eCsez64i881SaGVaAxB7G9de.jpg",L'unica certezza (2016)
+[[SERVER_URL]]/play.php?movieId=1416967
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Corso Dante" tvg-logo="https://image.tmdb.org/t/p/original/s69alWbpEq06Uf8YmtIwbddT7Z.jpg",Corso Dante (2013)
+[[SERVER_URL]]/play.php?movieId=884985
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Le Pistole del Diavolo" tvg-logo="https://image.tmdb.org/t/p/original/kp26ztsiZgOPlZ2U3HytVmGCe9y.jpg",Le Pistole del Diavolo (2016)
+[[SERVER_URL]]/play.php?movieId=1427775
+
+#EXTINF:-1 group-title="Dramma" tvg-id="no/me" tvg-logo="https://image.tmdb.org/t/p/original/23GRektXk6TUcSjotvB1qj7TC3O.jpg",no/me (2025)
+[[SERVER_URL]]/play.php?movieId=1455799
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Giardino" tvg-logo="https://image.tmdb.org/t/p/original/jkxSa4JaxUSsY0Rj3CcTcyiGWBY.jpg",Il Giardino (2025)
+[[SERVER_URL]]/play.php?movieId=1451896
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Please, Don’t Cry" tvg-logo="https://image.tmdb.org/t/p/original/MDMGJP5Q5qdeCwcvHt4SDGfclH.jpg",Please, Don’t Cry (2025)
+[[SERVER_URL]]/play.php?movieId=1437515
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Alba Costante" tvg-logo="https://image.tmdb.org/t/p/original/bNHjeFcCFsvEbu8EAftL509I6rH.jpg",Alba Costante (2024)
+[[SERVER_URL]]/play.php?movieId=1435978
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ti amo mamma" tvg-logo="https://image.tmdb.org/t/p/original/eFMiCVi8Awk9tMf3f3zv8ihdN5x.jpg",Ti amo mamma (2024)
+[[SERVER_URL]]/play.php?movieId=1378811
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io Forse Ora Sono" tvg-logo="https://image.tmdb.org/t/p/original/7MXC3HiQYqdrP3jbmrKuP0z94nz.jpg",Io Forse Ora Sono (2024)
+[[SERVER_URL]]/play.php?movieId=1356461
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'attesa dell'Alba" tvg-logo="https://image.tmdb.org/t/p/original/5uKtYl8VAVnvvNmh8GBH2Lhw0sd.jpg",L'attesa dell'Alba (2025)
+[[SERVER_URL]]/play.php?movieId=1332375
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Piccolo Attila" tvg-logo="https://image.tmdb.org/t/p/original/gLg6B6KrbxO4n8XpC4ytSIMG0KV.jpg",Piccolo Attila (2024)
+[[SERVER_URL]]/play.php?movieId=1301987
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tutti ne hanno paura" tvg-logo="https://image.tmdb.org/t/p/original/b7jXYG4lr5bZEX9NG9breWLqL8u.jpg",Tutti ne hanno paura (2022)
+[[SERVER_URL]]/play.php?movieId=1280513
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dernière Plage" tvg-logo="https://image.tmdb.org/t/p/original/pXCs6YXvPTHfCQ34mTzYguszcv3.jpg",Dernière Plage (2023)
+[[SERVER_URL]]/play.php?movieId=1221523
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Une familie" tvg-logo="https://image.tmdb.org/t/p/original/7zjmFwyAjvG5MyyHvYAfXRJBvVr.jpg",Une familie (2011)
+[[SERVER_URL]]/play.php?movieId=1047945
+
+#EXTINF:-1 group-title="Dramma" tvg-id="(de)PRESS" tvg-logo="https://image.tmdb.org/t/p/original/hnehJMqq8TKYlWjDLMq3r7G7sXW.jpg",(de)PRESS (2015)
+[[SERVER_URL]]/play.php?movieId=1026223
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pianura Innocente" tvg-logo="https://image.tmdb.org/t/p/original/yqcx1RZtkuXKHmDBlUQDQGdaGT1.jpg",Pianura Innocente (2022)
+[[SERVER_URL]]/play.php?movieId=1013507
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Indelèbile" tvg-logo="https://image.tmdb.org/t/p/original/x5iG6k67lKS7gWhi98Eoy1sXLmh.jpg",Indelèbile (2021)
+[[SERVER_URL]]/play.php?movieId=860992
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'uomo dal fiore in bocca" tvg-logo="https://image.tmdb.org/t/p/original/dqpQ7R90tTg7VBWntlciupbepTL.jpg",L'uomo dal fiore in bocca (1970)
+[[SERVER_URL]]/play.php?movieId=855403
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mara dei Cormorani" tvg-logo="https://image.tmdb.org/t/p/original/4kzFWvYL2gcejd77XRGCuVaRzlV.jpg",Mara dei Cormorani (2018)
+[[SERVER_URL]]/play.php?movieId=810957
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Una Storia D'Arte" tvg-logo="https://image.tmdb.org/t/p/original/mqg47WO8arkEw6VmrFObcxiymHA.jpg",Una Storia D'Arte (2020)
+[[SERVER_URL]]/play.php?movieId=765205
+
+#EXTINF:-1 group-title="Dramma" tvg-id="To A God Unknown - Al Dio Sconosciuto" tvg-logo="https://image.tmdb.org/t/p/original/e3AB3QPi2okC34trf4jHFH1go0p.jpg",To A God Unknown - Al Dio Sconosciuto (2020)
+[[SERVER_URL]]/play.php?movieId=716849
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Apocalypse" tvg-logo="https://image.tmdb.org/t/p/original/zNYmFwNpcHs1AVffRahJeqTCcNj.jpg",Apocalypse (2019)
+[[SERVER_URL]]/play.php?movieId=708282
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gli anni sconosciuti di Gesù" tvg-logo="https://image.tmdb.org/t/p/original/frpkM8OqGuhubOCGx0tOfIJRA6J.jpg",Gli anni sconosciuti di Gesù (2020)
+[[SERVER_URL]]/play.php?movieId=684798
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Destino" tvg-logo="https://image.tmdb.org/t/p/original/1tFO6Q5HVM5GvEwSvUliEIhWtXv.jpg",Destino (2019)
+[[SERVER_URL]]/play.php?movieId=617853
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Forse Dio è malato" tvg-logo="https://image.tmdb.org/t/p/original/8tAvn4TiTjXGpFYl8XiwHOesnE5.jpg",Forse Dio è malato (2008)
+[[SERVER_URL]]/play.php?movieId=111447
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Seme della Discordia" tvg-logo="https://image.tmdb.org/t/p/original/gjPmauCtag1xGADWdvzMXPtCpgV.jpg",Il Seme della Discordia (2025)
+[[SERVER_URL]]/play.php?movieId=1529075
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Arthur, 1973" tvg-logo="https://image.tmdb.org/t/p/original/2xCva1EWFViiDD7Y0JJcJn4SjHX.jpg",Arthur, 1973 (2021)
+[[SERVER_URL]]/play.php?movieId=1106264
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Specchio" tvg-logo="https://image.tmdb.org/t/p/original/cfOY0dxjR6R5Ti1F2azEsTBK1mm.jpg",Specchio (2020)
+[[SERVER_URL]]/play.php?movieId=752832
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il cratere" tvg-logo="https://image.tmdb.org/t/p/original/7NjlMzoAQ0ScWNZ08KWzFxl7YN6.jpg",Il cratere (2018)
+[[SERVER_URL]]/play.php?movieId=475862
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Amore tra le rovine" tvg-logo="https://image.tmdb.org/t/p/original/29wyrj4NylJeQpCxbamuTRcQrf1.jpg",Amore tra le rovine (2015)
+[[SERVER_URL]]/play.php?movieId=341476
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io ci sarò" tvg-logo="https://image.tmdb.org/t/p/original/pDBMs4CUsQWFiH3lHwyouw2cTM2.jpg",Io ci sarò (2023)
+[[SERVER_URL]]/play.php?movieId=1451903
+
+#EXTINF:-1 group-title="Dramma" tvg-id="2 Minuti" tvg-logo="https://image.tmdb.org/t/p/original/fRa3L5uqth5W3FkWdcu72XPPv0y.jpg",2 Minuti (2025)
+[[SERVER_URL]]/play.php?movieId=1532159
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Una cosa vicina" tvg-logo="https://image.tmdb.org/t/p/original/b6Hnn1IOyjdw1boDh9K9EySkZra.jpg",Una cosa vicina (2025)
+[[SERVER_URL]]/play.php?movieId=1520553
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Venice Nights -Fading Beauty" tvg-logo="https://image.tmdb.org/t/p/original/5XXGixUdlhhE5VVhnlkyeVSOuy2.jpg",Venice Nights -Fading Beauty (2025)
+[[SERVER_URL]]/play.php?movieId=1448354
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Al di là del mare" tvg-logo="https://image.tmdb.org/t/p/original/h7dckZ8NpSMvHjQJjklS1TKCQvW.jpg",Al di là del mare (2016)
+[[SERVER_URL]]/play.php?movieId=1434723
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Downburst" tvg-logo="https://image.tmdb.org/t/p/original/4xk5YRkWWUNekOZ2IrvZAJZBiHl.jpg",Downburst (2024)
+[[SERVER_URL]]/play.php?movieId=1379966
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fragilità" tvg-logo="https://image.tmdb.org/t/p/original/uqKshlNfCXnXUCVZY5MOwPH7Ds6.jpg",Fragilità (2024)
+[[SERVER_URL]]/play.php?movieId=1378291
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lo chiammano amore" tvg-logo="https://image.tmdb.org/t/p/original/aANcYr1dHsaDCqYBP87nYLUVpWG.jpg",Lo chiammano amore (2014)
+[[SERVER_URL]]/play.php?movieId=1287440
+
+#EXTINF:-1 group-title="Dramma" tvg-id="le magnifique bruit de pages déchirées" tvg-logo="https://image.tmdb.org/t/p/original/muQVD9yzHG6OPYJflED7Kiqgz0p.jpg",le magnifique bruit de pages déchirées (2023)
+[[SERVER_URL]]/play.php?movieId=1237784
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Effetto Personale" tvg-logo="https://image.tmdb.org/t/p/original/bsXMTcGIZzBiQHE84n3AMTzJIPP.jpg",Effetto Personale (2024)
+[[SERVER_URL]]/play.php?movieId=1234362
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Un'Altra Notte" tvg-logo="https://image.tmdb.org/t/p/original/wtcGyPI8PHyWDQGQyTY8K76te5r.jpg",Un'Altra Notte (2023)
+[[SERVER_URL]]/play.php?movieId=1212624
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Un Suicidio" tvg-logo="https://image.tmdb.org/t/p/original/aGkmgqss3BSXIQuRlLEPuzVBJPe.jpg",Un Suicidio (2023)
+[[SERVER_URL]]/play.php?movieId=1198150
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Hold on for Dear Life" tvg-logo="https://image.tmdb.org/t/p/original/5TUmJaDateapuSgsxgeM91Y3bTN.jpg",Hold on for Dear Life (2023)
+[[SERVER_URL]]/play.php?movieId=1193523
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Montemoriah" tvg-logo="https://image.tmdb.org/t/p/original/7WRnCPlvDIGaPmxNhzWYgC6Sv0E.jpg",Montemoriah (2022)
+[[SERVER_URL]]/play.php?movieId=958952
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Terry's Show" tvg-logo="https://image.tmdb.org/t/p/original/gCR5AIIPP7oOqLVAPmBCDt8c9tI.jpg",Terry's Show (2022)
+[[SERVER_URL]]/play.php?movieId=955752
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ritorno al Mare" tvg-logo="https://image.tmdb.org/t/p/original/ymHZWnjIw1KsIWV92gxcj8JWfy4.jpg",Ritorno al Mare (2020)
+[[SERVER_URL]]/play.php?movieId=871691
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Quei giorni andati" tvg-logo="https://image.tmdb.org/t/p/original/uHADEZkskEHvIqjAinWnBwC7yvQ.jpg",Quei giorni andati (2021)
+[[SERVER_URL]]/play.php?movieId=842411
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il sole si riprese il giorno" tvg-logo="https://image.tmdb.org/t/p/original/I5jKgbhU2ZzOC0XwuVZ9nhAijH.jpg",Il sole si riprese il giorno (2019)
+[[SERVER_URL]]/play.php?movieId=841911
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il barbiere" tvg-logo="https://image.tmdb.org/t/p/original/aw5bSLx0BWh05Wq79ZD5wZwc508.jpg",Il barbiere (1991)
+[[SERVER_URL]]/play.php?movieId=833376
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Mister Universo" tvg-logo="https://image.tmdb.org/t/p/original/bIxxAhpRXprNvaHi9fDk34x1seg.jpg",Mister Universo (2016)
+[[SERVER_URL]]/play.php?movieId=408290
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nessun Matto" tvg-logo="https://image.tmdb.org/t/p/original/pVAyEmJbU0xRpkPJfyYKKzAEKgM.jpg",Nessun Matto (2025)
+[[SERVER_URL]]/play.php?movieId=1517448
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Beati i puri di cuore" tvg-logo="https://image.tmdb.org/t/p/original/ff2qq6TC3CUY3dtJDNtSKpkIOBp.jpg",Beati i puri di cuore (2022)
+[[SERVER_URL]]/play.php?movieId=1197337
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Trilogia dell'Amore" tvg-logo="https://image.tmdb.org/t/p/original/pm9AMW9k0hpsg4IqwP5YPF4Az8n.jpg",Trilogia dell'Amore (2023)
+[[SERVER_URL]]/play.php?movieId=1133121
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gli Inetti" tvg-logo="https://image.tmdb.org/t/p/original/dVHDfgV1ntFusi6Tbkp06rC9sDI.jpg",Gli Inetti (2020)
+[[SERVER_URL]]/play.php?movieId=1047522
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The price of the Soul" tvg-logo="https://image.tmdb.org/t/p/original/jtNf5NaMzxs2FBL0qrgUQFJrETR.jpg",The price of the Soul (2022)
+[[SERVER_URL]]/play.php?movieId=985082
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Edo" tvg-logo="https://image.tmdb.org/t/p/original/l7cn0R8wdN1F8mIG0I935IUBVi8.jpg",Edo (2019)
+[[SERVER_URL]]/play.php?movieId=903583
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Proprio come sono" tvg-logo="https://image.tmdb.org/t/p/original/pOS7RVZTG5zm5tdCCdcyXNWG8Gd.jpg",Proprio come sono (2021)
+[[SERVER_URL]]/play.php?movieId=811028
+
+#EXTINF:-1 group-title="Dramma" tvg-id="A Casa Mia" tvg-logo="https://image.tmdb.org/t/p/original/yxPXP3Wbmc2iw7nZS0ugCHZdLVw.jpg",A Casa Mia (2016)
+[[SERVER_URL]]/play.php?movieId=634826
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Echo" tvg-logo="https://image.tmdb.org/t/p/original/zaXtHF8snXEh2spdUrXSCKC59wy.jpg",Echo (2025)
+[[SERVER_URL]]/play.php?movieId=1433998
+
+#EXTINF:-1 group-title="Dramma" tvg-id="May the exquisite scheme be only for her" tvg-logo="https://image.tmdb.org/t/p/original/3DWoDHwuu16p9aq3YKXJh7aTTmF.jpg",May the exquisite scheme be only for her (2019)
+[[SERVER_URL]]/play.php?movieId=631688
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Gamblers punto su di me" tvg-logo="https://image.tmdb.org/t/p/original/gzaNnWfizMld6iT4pHANhb2UKvw.jpg",The Gamblers punto su di me (2018)
+[[SERVER_URL]]/play.php?movieId=1523429
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Sogno di Adelchi" tvg-logo="https://image.tmdb.org/t/p/original/iomI308t0z1ZnHz2uyHBcTz119h.jpg",Il Sogno di Adelchi (2023)
+[[SERVER_URL]]/play.php?movieId=1411634
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'ultimo asino" tvg-logo="https://image.tmdb.org/t/p/original/jpcbRxhbjeSgktqZdAdmagJDaPv.jpg",L'ultimo asino (2024)
+[[SERVER_URL]]/play.php?movieId=1341098
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Le Liridi" tvg-logo="https://image.tmdb.org/t/p/original/9nM94ZV1FFLl93NOcfYVpyq9y5I.jpg",Le Liridi (2023)
+[[SERVER_URL]]/play.php?movieId=1235612
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La via della carne" tvg-logo="https://image.tmdb.org/t/p/original/y7nxEpJ6lYL9rLFObDntNMpNMqz.jpg",La via della carne (2023)
+[[SERVER_URL]]/play.php?movieId=1232339
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Metamorfosi della Materia" tvg-logo="https://image.tmdb.org/t/p/original/fHdNJDff9gcmJi2ExPg7hx9BBuj.jpg",Metamorfosi della Materia (2021)
+[[SERVER_URL]]/play.php?movieId=1008340
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Rumore Bianco" tvg-logo="https://image.tmdb.org/t/p/original/5DRvSZ8iWsX4qdlp7TiPFWCGPCP.jpg",Rumore Bianco (2022)
+[[SERVER_URL]]/play.php?movieId=998640
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Quello che ci resta" tvg-logo="https://image.tmdb.org/t/p/original/68kqKRqZZEb6j5vUtzYROmDi2Sx.jpg",Quello che ci resta (2022)
+[[SERVER_URL]]/play.php?movieId=979349
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lo stagionale" tvg-logo="https://image.tmdb.org/t/p/original/5jHrusuUFgT2dnmAnm8cFcErYY6.jpg",Lo stagionale (1971)
+[[SERVER_URL]]/play.php?movieId=768774
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Colpi di Synth Lunari" tvg-logo="https://image.tmdb.org/t/p/original/eYTOAcbrexwxiNBkkSOAyGqKr9R.jpg",Colpi di Synth Lunari (2019)
+[[SERVER_URL]]/play.php?movieId=658566
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Attitu" tvg-logo="https://image.tmdb.org/t/p/original/mySZv60Hc7fOv6Tw9A9ATz3TbwE.jpg",Attitu (2024)
+[[SERVER_URL]]/play.php?movieId=1501778
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Daccapo" tvg-logo="https://image.tmdb.org/t/p/original/tp8PiB7wRU7fp0Q4EidALIf5htm.jpg",Daccapo (2025)
+[[SERVER_URL]]/play.php?movieId=1487373
+
+#EXTINF:-1 group-title="Dramma" tvg-id="FIDELITAS" tvg-logo="https://image.tmdb.org/t/p/original/kq0nRFyqjjAt2XRmkIAy8Qlyaq4.jpg",FIDELITAS (2024)
+[[SERVER_URL]]/play.php?movieId=1458145
+
+#EXTINF:-1 group-title="Dramma" tvg-id="LUX AETERNA" tvg-logo="https://image.tmdb.org/t/p/original/ysfxXllQY1DI5LoLG2imm0XiNiR.jpg",LUX AETERNA (2025)
+[[SERVER_URL]]/play.php?movieId=1453611
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Buy Yourself" tvg-logo="https://image.tmdb.org/t/p/original/ioKiuPK8wpV4ftluHkQlCWMVoCi.jpg",Buy Yourself (2025)
+[[SERVER_URL]]/play.php?movieId=1446385
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Morboso desiderio" tvg-logo="https://image.tmdb.org/t/p/original/7htmkKB1N0tpTYvTUgTVY5sPuJp.jpg",Morboso desiderio (2024)
+[[SERVER_URL]]/play.php?movieId=1415200
+
+#EXTINF:-1 group-title="Dramma" tvg-id="finished love" tvg-logo="https://image.tmdb.org/t/p/original/83iVosBbY7xoZEXmTAZW0S1xtxw.jpg",finished love (2025)
+[[SERVER_URL]]/play.php?movieId=1402199
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gelosi e Tranquilli" tvg-logo="https://image.tmdb.org/t/p/original/30dK3qyOZ8MWIg0k83DYQuTIt8z.jpg",Gelosi e Tranquilli (1988)
+[[SERVER_URL]]/play.php?movieId=1363485
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Anima Kronos" tvg-logo="https://image.tmdb.org/t/p/original/7578tKN6XKXpsRDOW62eXyhRRMR.jpg",Anima Kronos (2024)
+[[SERVER_URL]]/play.php?movieId=1352344
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Elia" tvg-logo="https://image.tmdb.org/t/p/original/hRbgnYxcy10q7qOfcKVvwyBJSHQ.jpg",Elia (2022)
+[[SERVER_URL]]/play.php?movieId=1341146
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nel Ritrovo del Silenzio" tvg-logo="https://image.tmdb.org/t/p/original/hUY54d4usxv45GzULVzHTn9NIxO.jpg",Nel Ritrovo del Silenzio (2018)
+[[SERVER_URL]]/play.php?movieId=1309736
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'Amore e la Gloria - La Giovane Deledda" tvg-logo="https://image.tmdb.org/t/p/original/tKMcvVoOI5le3ZBXHdecZwPCVn8.jpg",L'Amore e la Gloria - La Giovane Deledda (2024)
+[[SERVER_URL]]/play.php?movieId=1298575
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Finché morte non ci separi" tvg-logo="https://image.tmdb.org/t/p/original/6LXpQBKbNWSNUXKpYI8vlzgn4ML.jpg",Finché morte non ci separi (2024)
+[[SERVER_URL]]/play.php?movieId=1296487
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Insieme a te non ci sto più" tvg-logo="https://image.tmdb.org/t/p/original/br0k0f2xvYIDmMca48Wht3a60bV.jpg",Insieme a te non ci sto più (2024)
+[[SERVER_URL]]/play.php?movieId=1293590
+
+#EXTINF:-1 group-title="Dramma" tvg-id="0564" tvg-logo="https://image.tmdb.org/t/p/original/cKFeuZgjaKPcYc2mzu7rEDx4xWo.jpg",0564 (2024)
+[[SERVER_URL]]/play.php?movieId=1291926
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Abbrivio: l'inerzia di una barca che scivola sull'acqua" tvg-logo="https://image.tmdb.org/t/p/original/vRNxOOoHRvNeOBcZKFDLYA0XvtN.jpg",Abbrivio: l'inerzia di una barca che scivola sull'acqua (2024)
+[[SERVER_URL]]/play.php?movieId=1250987
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Phantom Touch" tvg-logo="https://image.tmdb.org/t/p/original/uWC3Eyz0XfLY778Jfc5EIOHk8LN.jpg",Phantom Touch (2024)
+[[SERVER_URL]]/play.php?movieId=1248547
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Eigengrau" tvg-logo="https://image.tmdb.org/t/p/original/3mNc8wA1jWEEMmXektdJx6CdaOC.jpg",Eigengrau (2023)
+[[SERVER_URL]]/play.php?movieId=1240765
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Frénésie" tvg-logo="https://image.tmdb.org/t/p/original/9JytyCw0DOopzChwDyloPHP44uQ.jpg",Frénésie (2023)
+[[SERVER_URL]]/play.php?movieId=1235643
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'uomo che fotografò la donna più bella del mondo" tvg-logo="https://image.tmdb.org/t/p/original/6jARRTdUBDoqfYIVbInDI7PMpQg.jpg",L'uomo che fotografò la donna più bella del mondo (2024)
+[[SERVER_URL]]/play.php?movieId=1198144
+
+#EXTINF:-1 group-title="Dramma" tvg-id="ResoNumero0051" tvg-logo="https://image.tmdb.org/t/p/original/cjd47qSzvsM1SaUElZcWkKVePkY.jpg",ResoNumero0051 (2023)
+[[SERVER_URL]]/play.php?movieId=1194694
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cavallo di Troia" tvg-logo="https://image.tmdb.org/t/p/original/70NAUoAhnEha0KWe5t91M72fyRh.jpg",Cavallo di Troia (2022)
+[[SERVER_URL]]/play.php?movieId=1164809
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La natura è morta" tvg-logo="https://image.tmdb.org/t/p/original/zd9ftCJ5JdJxHyNj75Vmjmx0Y5m.jpg",La natura è morta (2012)
+[[SERVER_URL]]/play.php?movieId=1141326
+
+#EXTINF:-1 group-title="Dramma" tvg-id="999 - L'altra anima del calcio" tvg-logo="https://image.tmdb.org/t/p/original/qbxiVIxtMgUlMRcrg9WoeQOkG43.jpg",999 - L'altra anima del calcio (2022)
+[[SERVER_URL]]/play.php?movieId=1138736
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Alieno da" tvg-logo="https://image.tmdb.org/t/p/original/zoB763uRDVKM4A4KCXatShGnIyJ.jpg",Alieno da (1971)
+[[SERVER_URL]]/play.php?movieId=1100728
+
+#EXTINF:-1 group-title="Dramma" tvg-id="SCACCO MATTO" tvg-logo="https://image.tmdb.org/t/p/original/t2Zm2kQC9mbcsV4oFpd1quUKTyd.jpg",SCACCO MATTO (2022)
+[[SERVER_URL]]/play.php?movieId=1037111
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lino, Velluto e Mussoline" tvg-logo="https://image.tmdb.org/t/p/original/eR6in3MORhBaqDEutHePO34U5V4.jpg",Lino, Velluto e Mussoline (2020)
+[[SERVER_URL]]/play.php?movieId=1008384
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Non ci indurre in tentazione" tvg-logo="https://image.tmdb.org/t/p/original/gUOo5x3vrveVTWpa7MIYyxCpqsv.jpg",Non ci indurre in tentazione (2013)
+[[SERVER_URL]]/play.php?movieId=987511
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nail Polish" tvg-logo="https://image.tmdb.org/t/p/original/tTnzxZVzBc1bvoyI6m3bHspkRt8.jpg",Nail Polish (2021)
+[[SERVER_URL]]/play.php?movieId=901307
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La terra delle onde" tvg-logo="https://image.tmdb.org/t/p/original/nrAmXtLWjQkpcTLMA2eP7S9IlCu.jpg",La terra delle onde (2020)
+[[SERVER_URL]]/play.php?movieId=859286
+
+#EXTINF:-1 group-title="Dramma" tvg-id="There's Still Ka'ek on the Sidewalk" tvg-logo="https://image.tmdb.org/t/p/original/hcxYGeNMY8xiyLraLrurL21q5T7.jpg",There's Still Ka'ek on the Sidewalk (2001)
+[[SERVER_URL]]/play.php?movieId=852021
+
+#EXTINF:-1 group-title="Dramma" tvg-id="A Dinner" tvg-logo="https://image.tmdb.org/t/p/original/lmxfQJTRM2jdugsPEQ2SkjSP2Qr.jpg",A Dinner (2008)
+[[SERVER_URL]]/play.php?movieId=850809
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Aleel" tvg-logo="https://image.tmdb.org/t/p/original/6Y5dYWKeRMdHFYRm6GbxSFDDnWj.jpg",Aleel (1992)
+[[SERVER_URL]]/play.php?movieId=705108
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Love is Love" tvg-logo="https://image.tmdb.org/t/p/original/cALin0o12LLiDNimUIFu7QTd4w8.jpg",Love is Love (2018)
+[[SERVER_URL]]/play.php?movieId=646922
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Kynesis- Il Trapasso" tvg-logo="https://image.tmdb.org/t/p/original/ikap6fmK8OCNYIYO7hjUgPYjekK.jpg",Kynesis- Il Trapasso (2019)
+[[SERVER_URL]]/play.php?movieId=641824
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fiori della mia vita" tvg-logo="https://image.tmdb.org/t/p/original/ZDQ8kiq1eDGFBxqCJxfGpp5yE0.jpg",Fiori della mia vita (2019)
+[[SERVER_URL]]/play.php?movieId=622468
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Quelle brutte cose" tvg-logo="https://image.tmdb.org/t/p/original/gvYxiRv1SteL3tnYXqw6BcoxbjU.jpg",Quelle brutte cose (2018)
+[[SERVER_URL]]/play.php?movieId=547036
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La donzelletta" tvg-logo="https://image.tmdb.org/t/p/original/eKOP57RDzPXAFZ1RyiyHMWNuLUD.jpg",La donzelletta (1989)
+[[SERVER_URL]]/play.php?movieId=502811
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Michele alla ricerca della felicità" tvg-logo="https://image.tmdb.org/t/p/original/viRm5Dw9fdEzph8zDcEnydQtvKY.jpg",Michele alla ricerca della felicità (1978)
+[[SERVER_URL]]/play.php?movieId=502355
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Regola del Piombo" tvg-logo="https://image.tmdb.org/t/p/original/7qYNfrVac9AnPXLdk8O38q3EBI9.jpg",La Regola del Piombo (2014)
+[[SERVER_URL]]/play.php?movieId=468350
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nura" tvg-logo="https://image.tmdb.org/t/p/original/74lysUPRlGr7gtxwnl5OM26uGBa.jpg",Nura (2025)
+[[SERVER_URL]]/play.php?movieId=1555360
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nightcall" tvg-logo="https://image.tmdb.org/t/p/original/t1wmLY0vgOn9GBwYeDhbO8uQ1i1.jpg",Nightcall (2024)
+[[SERVER_URL]]/play.php?movieId=1377522
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sensi di colpa" tvg-logo="https://image.tmdb.org/t/p/original/gxQwknjqSB6PNafigvl5Tfmt0td.jpg",Sensi di colpa (2023)
+[[SERVER_URL]]/play.php?movieId=1204919
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Essere Idea" tvg-logo="https://image.tmdb.org/t/p/original/oEZFxB2JgXsH54Ez7McMHDw2OwQ.jpg",Essere Idea (2023)
+[[SERVER_URL]]/play.php?movieId=1099996
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La salamandra del deserto" tvg-logo="https://image.tmdb.org/t/p/original/A6MZ7LGtrsTvavwkLGNVoCy8rZk.jpg",La salamandra del deserto (1971)
+[[SERVER_URL]]/play.php?movieId=824041
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dall'altro lato" tvg-logo="https://image.tmdb.org/t/p/original/bvU7wLyS7o8dC3FX26nQwGsJIla.jpg",Dall'altro lato (2022)
+[[SERVER_URL]]/play.php?movieId=1288408
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Lago Incantato" tvg-logo="https://image.tmdb.org/t/p/original/luHYxsexwiV859efG3UeXt5HSPI.jpg",Il Lago Incantato (2024)
+[[SERVER_URL]]/play.php?movieId=1258927
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Le Mur" tvg-logo="https://image.tmdb.org/t/p/original/fTUcT9A6EXB1vEf6TAidx09MPum.jpg",Le Mur (2021)
+[[SERVER_URL]]/play.php?movieId=1130401
+
+#EXTINF:-1 group-title="Dramma" tvg-id="ASAP" tvg-logo="https://image.tmdb.org/t/p/original/rj8j9xTha1SbkVcWrNalZCoAzyw.jpg",ASAP (2018)
+[[SERVER_URL]]/play.php?movieId=588636
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Rincoman" tvg-logo="https://image.tmdb.org/t/p/original/iTWGP3Thvzfduque8AkVBZgvJvd.jpg",Rincoman (2017)
+[[SERVER_URL]]/play.php?movieId=509228
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Rebecca e le messe nere" tvg-logo="https://image.tmdb.org/t/p/original/f4b6xUwM0P4px9KTMdI3Xx7fnBG.jpg",Rebecca e le messe nere (1997)
+[[SERVER_URL]]/play.php?movieId=405291
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Consonanti Erotiche" tvg-logo="https://image.tmdb.org/t/p/original/riF1fHMix75BUySPEhPzw0CVAv3.jpg",Consonanti Erotiche (2025)
+[[SERVER_URL]]/play.php?movieId=1554211
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L’ultimo giorno dell’orso" tvg-logo="https://image.tmdb.org/t/p/original/bE0qD2jCXLVRuNoTnonf8GwqfMH.jpg",L’ultimo giorno dell’orso (2025)
+[[SERVER_URL]]/play.php?movieId=1531909
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Da paura" tvg-logo="https://image.tmdb.org/t/p/original/drwAmXKB0zN1xivaHmjMmPiRayV.jpg",Da paura (2022)
+[[SERVER_URL]]/play.php?movieId=1518420
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Overthinking" tvg-logo="https://image.tmdb.org/t/p/original/kS5D3rJc7gQdzWZU28eE9ebLSgS.jpg",Overthinking (2024)
+[[SERVER_URL]]/play.php?movieId=1488451
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cumper: The Erotic Family" tvg-logo="https://image.tmdb.org/t/p/original/pfh52Z3j9LUloGTUOoqI3yCd4cX.jpg",Cumper: The Erotic Family (2019)
+[[SERVER_URL]]/play.php?movieId=1484644
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Più denso dell’acqua" tvg-logo="https://image.tmdb.org/t/p/original/jnPJJbLB3S4983Emau1UXhshT4g.jpg",Più denso dell’acqua (2025)
+[[SERVER_URL]]/play.php?movieId=1481881
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nero" tvg-logo="https://image.tmdb.org/t/p/original/lzXV56jej2ruumSvU6P0KFxujy5.jpg",Nero (2025)
+[[SERVER_URL]]/play.php?movieId=1481508
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Maggie & the Fly" tvg-logo="https://image.tmdb.org/t/p/original/AnFS0xY4cBtwm2ZEJpikQM7clq5.jpg",Maggie & the Fly (2023)
+[[SERVER_URL]]/play.php?movieId=1469697
+
+#EXTINF:-1 group-title="Dramma" tvg-id="RosaBianca" tvg-logo="https://image.tmdb.org/t/p/original/q3IByQkaMCBnvEw8NgBUkHJb4R2.jpg",RosaBianca (2024)
+[[SERVER_URL]]/play.php?movieId=1443806
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'Ultima Notte di Galois" tvg-logo="https://image.tmdb.org/t/p/original/91JE5Z0sXVmpZcKHOP2NiUpDYu4.jpg",L'Ultima Notte di Galois (2025)
+[[SERVER_URL]]/play.php?movieId=1443678
+
+#EXTINF:-1 group-title="Dramma" tvg-id="A Farewell to Arms." tvg-logo="https://image.tmdb.org/t/p/original/vkJbBkXRIXqQdQ7rrAp96y9y0l3.jpg",A Farewell to Arms. (2013)
+[[SERVER_URL]]/play.php?movieId=1441632
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Qualunque uomo" tvg-logo="https://image.tmdb.org/t/p/original/xxVGcMjlTcsMHuxCaJvExzrNfP0.jpg",Qualunque uomo (2023)
+[[SERVER_URL]]/play.php?movieId=1414401
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'Histoire de Manon" tvg-logo="https://image.tmdb.org/t/p/original/AbgJyMlorfrumZHBYzXxbeV0kUm.jpg",L'Histoire de Manon (2024)
+[[SERVER_URL]]/play.php?movieId=1413595
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Angelo Bianco" tvg-logo="https://image.tmdb.org/t/p/original/yn557cBnWsjUTzob3Lnlgx1ZZ8R.jpg",Angelo Bianco (2022)
+[[SERVER_URL]]/play.php?movieId=1405869
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Tacet" tvg-logo="https://image.tmdb.org/t/p/original/bJKaO3JUhrtgxLcdyFMyKKNDr1n.jpg",Tacet (2024)
+[[SERVER_URL]]/play.php?movieId=1398057
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Diaries from a moviegoer" tvg-logo="https://image.tmdb.org/t/p/original/jXUIakbCnATjqswU2v5zUtkRlGd.jpg",Diaries from a moviegoer (2024)
+[[SERVER_URL]]/play.php?movieId=1392966
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Pen's Curse" tvg-logo="https://image.tmdb.org/t/p/original/ziRX0dYiG8hUGzAsX8b6wWsvx6r.jpg",The Pen's Curse (2024)
+[[SERVER_URL]]/play.php?movieId=1338016
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Sogno del Vecchio" tvg-logo="https://image.tmdb.org/t/p/original/f6EfZArNg4hMFXIV1UTZwVfQNhz.jpg",Il Sogno del Vecchio (2016)
+[[SERVER_URL]]/play.php?movieId=1309721
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Persa nel tempo" tvg-logo="https://image.tmdb.org/t/p/original/xsEFwTGHRfB1ntWpphZCqoy3bth.jpg",Persa nel tempo (2024)
+[[SERVER_URL]]/play.php?movieId=1292454
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Crocevia" tvg-logo="https://image.tmdb.org/t/p/original/hF9PwhGWxZ2HZTLM8Ovo59dmIb9.jpg",Il Crocevia (2023)
+[[SERVER_URL]]/play.php?movieId=1291544
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Non Piangere" tvg-logo="https://image.tmdb.org/t/p/original/eBQWmleY4QUb6WoWahxlHl09kI6.jpg",Non Piangere (2024)
+[[SERVER_URL]]/play.php?movieId=1283841
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Un Gioco di Specchi" tvg-logo="https://image.tmdb.org/t/p/original/8e0KMfUXc1zQldQRIqADdQSd6pV.jpg",Un Gioco di Specchi (2021)
+[[SERVER_URL]]/play.php?movieId=1282250
+
+#EXTINF:-1 group-title="Dramma" tvg-id="In Spirito" tvg-logo="https://image.tmdb.org/t/p/original/9YsqeYLBjB4Oo6Lh9vaLXt7I3Wc.jpg",In Spirito (2024)
+[[SERVER_URL]]/play.php?movieId=1279254
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Una notte" tvg-logo="https://image.tmdb.org/t/p/original/wmiTuFsM6SNFmTBkK6LGQwDmx82.jpg",Una notte (2024)
+[[SERVER_URL]]/play.php?movieId=1274373
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Posto" tvg-logo="https://image.tmdb.org/t/p/original/4dcPXy1rS31OLGcL9FRvZBiWtQd.jpg",Il Posto (2024)
+[[SERVER_URL]]/play.php?movieId=1272820
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Domani all'Alba" tvg-logo="https://image.tmdb.org/t/p/original/eIbT5jFMSkJdcYgnJm57pw52KRw.jpg",Domani all'Alba (2019)
+[[SERVER_URL]]/play.php?movieId=1251033
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Variazioni, Opera Ultima" tvg-logo="https://image.tmdb.org/t/p/original/rJ2HNJv2VLmLp5f0u9um4YVW8sA.jpg",Variazioni, Opera Ultima (2023)
+[[SERVER_URL]]/play.php?movieId=1246343
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lose Voice Tool Kit" tvg-logo="https://image.tmdb.org/t/p/original/z5evITNHV1r5h5FhQL6qARaDqOR.jpg",Lose Voice Tool Kit (2024)
+[[SERVER_URL]]/play.php?movieId=1220374
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Camera Car" tvg-logo="https://image.tmdb.org/t/p/original/2FHTwVZ4oX40GH6TmfC2jzXkXa8.jpg",Camera Car (1979)
+[[SERVER_URL]]/play.php?movieId=1219811
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ancella d'Amore" tvg-logo="https://image.tmdb.org/t/p/original/AljhYSyoZ0xI3Kfbwt2r3RNcsPE.jpg",Ancella d'Amore (2024)
+[[SERVER_URL]]/play.php?movieId=1218281
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Jody delle giostre" tvg-logo="https://image.tmdb.org/t/p/original/k9sqnPSGkaz92i3kH2i3Kk1Ey2Y.jpg",Jody delle giostre (2011)
+[[SERVER_URL]]/play.php?movieId=1210145
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Stay Human" tvg-logo="https://image.tmdb.org/t/p/original/seogLhHuthqHMKHuWJOWtSup7Mt.jpg",Stay Human (2022)
+[[SERVER_URL]]/play.php?movieId=1189894
+
+#EXTINF:-1 group-title="Dramma" tvg-id="We Should All Be Futurists" tvg-logo="https://image.tmdb.org/t/p/original/tWP6N49yky9l97fxP25NvVemEvM.jpg",We Should All Be Futurists (2023)
+[[SERVER_URL]]/play.php?movieId=1156744
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ein Mann zu sein" tvg-logo="https://image.tmdb.org/t/p/original/msUwhw4HlXAlaIIgL6u8qevKF4L.jpg",Ein Mann zu sein (2021)
+[[SERVER_URL]]/play.php?movieId=1124362
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Détour" tvg-logo="https://image.tmdb.org/t/p/original/sFd7QGFq3YL8ZwsAo1ZIQk4hdtA.jpg",Détour (2021)
+[[SERVER_URL]]/play.php?movieId=1124360
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'ultima luna - Garda by Night" tvg-logo="https://image.tmdb.org/t/p/original/f7rLIqBhiTPF4eDgoIhuMt8hZhI.jpg",L'ultima luna - Garda by Night (2014)
+[[SERVER_URL]]/play.php?movieId=1088050
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il posto più bello del mondo" tvg-logo="https://image.tmdb.org/t/p/original/3NL1uCCD2wCX2H3O121lroYhU28.jpg",Il posto più bello del mondo (2023)
+[[SERVER_URL]]/play.php?movieId=1079710
+
+#EXTINF:-1 group-title="Dramma" tvg-id="LA VIPERA, LA DONNA E IL CAMPO" tvg-logo="https://image.tmdb.org/t/p/original/bzS9y1AsqJ2bnwnByJqw6uUxCmJ.jpg",LA VIPERA, LA DONNA E IL CAMPO (2022)
+[[SERVER_URL]]/play.php?movieId=1077807
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Alien Food" tvg-logo="https://image.tmdb.org/t/p/original/eA3x7F4ioyc6vQcqFuXlJ5pi6Kz.jpg",Alien Food (2023)
+[[SERVER_URL]]/play.php?movieId=1058938
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lucrezia" tvg-logo="https://image.tmdb.org/t/p/original/e7gRWWHnNPVTCAJCpyJ157HpD0B.jpg",Lucrezia (2023)
+[[SERVER_URL]]/play.php?movieId=1057544
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Here I am" tvg-logo="https://image.tmdb.org/t/p/original/1TFhTB7NgglYljFwF3EzEza8a9J.jpg",Here I am (2019)
+[[SERVER_URL]]/play.php?movieId=1036796
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Days of Light" tvg-logo="https://image.tmdb.org/t/p/original/xeSV2w9bLTSmagvkrqJRjUGvTyX.jpg",Days of Light (2021)
+[[SERVER_URL]]/play.php?movieId=1025140
+
+#EXTINF:-1 group-title="Dramma" tvg-id="El lugar por donde el sol sale" tvg-logo="https://image.tmdb.org/t/p/original/b5Mo4ikOouMccv4x7dqr4Pzj6Tl.jpg",El lugar por donde el sol sale (2022)
+[[SERVER_URL]]/play.php?movieId=969428
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Voacation" tvg-logo="https://image.tmdb.org/t/p/original/c9VtZpqkTlw4WncoNaHwVpfUXe8.jpg",Voacation (2021)
+[[SERVER_URL]]/play.php?movieId=956878
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Anthology of nine souls on their way to death" tvg-logo="https://image.tmdb.org/t/p/original/A3zLAavoiRVhWS5TVvk6zDptvlJ.jpg",Anthology of nine souls on their way to death (2022)
+[[SERVER_URL]]/play.php?movieId=939960
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lucciole" tvg-logo="https://image.tmdb.org/t/p/original/9WreEdtKGeVZepxQfhCWQmSMD9e.jpg",Lucciole (2022)
+[[SERVER_URL]]/play.php?movieId=924207
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La terra di nessuno" tvg-logo="https://image.tmdb.org/t/p/original/dttIzT7aCntRkk98uFC0RYOv0cl.jpg",La terra di nessuno (2019)
+[[SERVER_URL]]/play.php?movieId=917133
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Before you is the sea" tvg-logo="https://image.tmdb.org/t/p/original/5ToF3rbkQbHEEm8zC8UtDca5h8U.jpg",Before you is the sea (2011)
+[[SERVER_URL]]/play.php?movieId=851805
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Far l'amore" tvg-logo="https://image.tmdb.org/t/p/original/8IUxHqHCia0aRs62sHGN4A3L5aZ.jpg",Far l'amore (2020)
+[[SERVER_URL]]/play.php?movieId=845713
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Venere è un Ragazzo" tvg-logo="https://image.tmdb.org/t/p/original/986YV1lOZ2EmN27ch78lD12Po32.jpg",Venere è un Ragazzo (2019)
+[[SERVER_URL]]/play.php?movieId=811827
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Innermind" tvg-logo="https://image.tmdb.org/t/p/original/c4wrsSPVSUzijVdsovvJv49q0N8.jpg",Innermind (2020)
+[[SERVER_URL]]/play.php?movieId=811581
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La scelta" tvg-logo="https://image.tmdb.org/t/p/original/pxocoPmWYd9OMmYG9DteAjnX9ZH.jpg",La scelta (2020)
+[[SERVER_URL]]/play.php?movieId=767036
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Voglio essere profumo" tvg-logo="https://image.tmdb.org/t/p/original/99F85NoXThojUKxPaPEMxwvUtpw.jpg",Voglio essere profumo (2010)
+[[SERVER_URL]]/play.php?movieId=756346
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Io davanti a me" tvg-logo="https://image.tmdb.org/t/p/original/8NO2iWCUf5MA2fbak5M35v0b0cl.jpg",Io davanti a me (2011)
+[[SERVER_URL]]/play.php?movieId=751796
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Tecnica" tvg-logo="https://image.tmdb.org/t/p/original/9HZoJZtguQtpzWRMuuCwdGPuPMf.jpg",La Tecnica (2020)
+[[SERVER_URL]]/play.php?movieId=750648
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Illusione" tvg-logo="https://image.tmdb.org/t/p/original/r3xx63oOtUh6rs9CCs1tIAd4W1H.jpg",Illusione (2020)
+[[SERVER_URL]]/play.php?movieId=742973
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Schizofrenia di un attore" tvg-logo="https://image.tmdb.org/t/p/original/jkUpi0RAc2R5SzsS20GT59D8ZsW.jpg",Schizofrenia di un attore (2002)
+[[SERVER_URL]]/play.php?movieId=713895
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cuore Trafitto" tvg-logo="https://image.tmdb.org/t/p/original/saGrzYFiWXfSnSHwoxZVgKjHrPc.jpg",Cuore Trafitto (2017)
+[[SERVER_URL]]/play.php?movieId=703866
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Padrone dove sei" tvg-logo="https://image.tmdb.org/t/p/original/zFWbKKRUSyYndTKgYbKtbmc03BS.jpg",Padrone dove sei (2019)
+[[SERVER_URL]]/play.php?movieId=688531
+
+#EXTINF:-1 group-title="Dramma" tvg-id="I Lupi" tvg-logo="https://image.tmdb.org/t/p/original/sZWv8QBFZCLHs3z1dRbbyREVMdW.jpg",I Lupi (2012)
+[[SERVER_URL]]/play.php?movieId=664013
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ghiaie" tvg-logo="https://image.tmdb.org/t/p/original/7Hw3j7fCIkIjnWYAMrHHKocnUUh.jpg",Ghiaie (2008)
+[[SERVER_URL]]/play.php?movieId=649271
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Olivia" tvg-logo="https://image.tmdb.org/t/p/original/1mdbXcAoVmWnxo5RsT6eb8SviXu.jpg",Olivia (2016)
+[[SERVER_URL]]/play.php?movieId=622839
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gagarin, Mi Mancherai" tvg-logo="https://image.tmdb.org/t/p/original/1hKmisLeDIfLCzXxKoERIBNLBi2.jpg",Gagarin, Mi Mancherai (2018)
+[[SERVER_URL]]/play.php?movieId=546409
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cielo senza terra" tvg-logo="https://image.tmdb.org/t/p/original/bBoPI6kFvpMEZdvmLKYnsRX9cFP.jpg",Cielo senza terra (2010)
+[[SERVER_URL]]/play.php?movieId=502833
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lima" tvg-logo="https://image.tmdb.org/t/p/original/2hoO2HuFzQW1ck13fkEQV89FGB.jpg",Lima (2025)
+[[SERVER_URL]]/play.php?movieId=1550446
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fino all'alba" tvg-logo="https://image.tmdb.org/t/p/original/17Jh1bdTep1s87q1JEezWY7Hs9n.jpg",Fino all'alba (2024)
+[[SERVER_URL]]/play.php?movieId=1549435
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Un'economia che uccide" tvg-logo="https://image.tmdb.org/t/p/original/i9rovQOxu12EBRaOtO9IwoAp4eG.jpg",Un'economia che uccide (2012)
+[[SERVER_URL]]/play.php?movieId=1538154
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dead end" tvg-logo="https://image.tmdb.org/t/p/original/e5Bk8cTF627hoPMH1ZtPpSKMwrH.jpg",Dead end (2025)
+[[SERVER_URL]]/play.php?movieId=1537421
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'Eco" tvg-logo="https://image.tmdb.org/t/p/original/gyBstMhg0eCJ04hyySpfaAhNW3V.jpg",L'Eco (2025)
+[[SERVER_URL]]/play.php?movieId=1536974
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La mia università" tvg-logo="https://image.tmdb.org/t/p/original/k4OlLNKzhimxRG6Z9Ut5BoK5K3e.jpg",La mia università (2014)
+[[SERVER_URL]]/play.php?movieId=1534482
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Generale" tvg-logo="https://image.tmdb.org/t/p/original/49CX4fnPal6DWrzRMNCMMJKpNTR.jpg",Il Generale (2024)
+[[SERVER_URL]]/play.php?movieId=1532650
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Silenzio dei Boschi" tvg-logo="https://image.tmdb.org/t/p/original/3cVlJdShvLkcR5gIAlA7dD96nZ1.jpg",Il Silenzio dei Boschi (2025)
+[[SERVER_URL]]/play.php?movieId=1511323
+
+#EXTINF:-1 group-title="Dramma" tvg-id="CLAVIS" tvg-logo="https://image.tmdb.org/t/p/original/4VxupK5d80D6AYntzVBuZF3KYzy.jpg",CLAVIS (2019)
+[[SERVER_URL]]/play.php?movieId=1506860
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Simmetrie (Abulia)" tvg-logo="https://image.tmdb.org/t/p/original/nHiqul7KoMURamNwHME7lgqCD7C.jpg",Simmetrie (Abulia) (2024)
+[[SERVER_URL]]/play.php?movieId=1498264
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nocturnal Thoughts" tvg-logo="https://image.tmdb.org/t/p/original/9D6QlgiXUd3AyRA2g2h4rjftUb1.jpg",Nocturnal Thoughts (2021)
+[[SERVER_URL]]/play.php?movieId=1495905
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Siamo a’mmare" tvg-logo="https://image.tmdb.org/t/p/original/3ciay1WWpLlVJf2MRjygVBtRiTb.jpg",Siamo a’mmare (2024)
+[[SERVER_URL]]/play.php?movieId=1484823
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Cravatta" tvg-logo="https://image.tmdb.org/t/p/original/vUHHE6BFSQS7HJIvwICnJbdVNd2.jpg",La Cravatta (2023)
+[[SERVER_URL]]/play.php?movieId=1473645
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Spectres" tvg-logo="https://image.tmdb.org/t/p/original/rSX8KJhCAofjhzMh7ZfSy7YNsrK.jpg",Spectres (2024)
+[[SERVER_URL]]/play.php?movieId=1469207
+
+#EXTINF:-1 group-title="Dramma" tvg-id="T'immagino ancora" tvg-logo="https://image.tmdb.org/t/p/original/j6iJTYJkQgUqFh4oSf80smrxec8.jpg",T'immagino ancora (2024)
+[[SERVER_URL]]/play.php?movieId=1433788
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The last spit" tvg-logo="https://image.tmdb.org/t/p/original/qexpEKniD5N2GQ9m7e8KqEhvaCa.jpg",The last spit (2025)
+[[SERVER_URL]]/play.php?movieId=1431800
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Demons party alone so get the hell out of my room" tvg-logo="https://image.tmdb.org/t/p/original/jmI1oM7B5S8qgrm0fZhGH9SC9bK.jpg",Demons party alone so get the hell out of my room (2025)
+[[SERVER_URL]]/play.php?movieId=1429124
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Cenere" tvg-logo="https://image.tmdb.org/t/p/original/kA5UHzntwJK3UKyjhLilvmPP8nz.jpg",Cenere (2025)
+[[SERVER_URL]]/play.php?movieId=1427848
+
+#EXTINF:-1 group-title="Dramma" tvg-id="/ta.glià.re/" tvg-logo="https://image.tmdb.org/t/p/original/rMjb4Ems8LlxsyBSZdE7meIpE8n.jpg",/ta.glià.re/ (2009)
+[[SERVER_URL]]/play.php?movieId=1426796
+
+#EXTINF:-1 group-title="Dramma" tvg-id="TOSKA" tvg-logo="https://image.tmdb.org/t/p/original/52Tp7URf5KOtoXuoq6AMomvR3Dw.jpg",TOSKA (2024)
+[[SERVER_URL]]/play.php?movieId=1420522
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Castello Incantato" tvg-logo="https://image.tmdb.org/t/p/original/g3fbOwWap8QVJbkmUEYPxUq1S0B.jpg",Il Castello Incantato (2024)
+[[SERVER_URL]]/play.php?movieId=1416806
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Niente ferie ad agosto" tvg-logo="https://image.tmdb.org/t/p/original/lEnIRpdiM6n7aYl5xF24JY6pOjC.jpg",Niente ferie ad agosto (2024)
+[[SERVER_URL]]/play.php?movieId=1398060
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Fine di una Storia" tvg-logo="https://image.tmdb.org/t/p/original/t6IQ2kX5GcXdZfJCoRXLhIBrGaG.jpg",La Fine di una Storia (2024)
+[[SERVER_URL]]/play.php?movieId=1371553
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Giallo, Arancia, Con grana" tvg-logo="https://image.tmdb.org/t/p/original/lvDDxHDyCzfSPtNvlXmuEfkkLi8.jpg",Giallo, Arancia, Con grana (2024)
+[[SERVER_URL]]/play.php?movieId=1368837
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Riflessi di libertà" tvg-logo="https://image.tmdb.org/t/p/original/yD587PplzKPxOYen5I13CPYPKJH.jpg",Riflessi di libertà (2024)
+[[SERVER_URL]]/play.php?movieId=1365600
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Terra Mala" tvg-logo="https://image.tmdb.org/t/p/original/f71idYojuHf5gx6vfnaeDWfjfVc.jpg",Terra Mala (2024)
+[[SERVER_URL]]/play.php?movieId=1363967
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Menzogne" tvg-logo="https://image.tmdb.org/t/p/original/vPCsmvAsoBKzVOj4OVlxw99l1dY.jpg",Menzogne (2024)
+[[SERVER_URL]]/play.php?movieId=1351050
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gioia Ultima" tvg-logo="https://image.tmdb.org/t/p/original/qeNJ26yoATXpzm43Zpjv8nPw43C.jpg",Gioia Ultima (2024)
+[[SERVER_URL]]/play.php?movieId=1340365
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Death Routine" tvg-logo="https://image.tmdb.org/t/p/original/iGatFWhhFazVSVvGBLCGzOsa19T.jpg",Death Routine (2022)
+[[SERVER_URL]]/play.php?movieId=1322376
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Luci spente" tvg-logo="https://image.tmdb.org/t/p/original/bomWyKPkMHCUyjeRMlDZd1fD6cc.jpg",Luci spente (2021)
+[[SERVER_URL]]/play.php?movieId=1307463
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Kojimaro" tvg-logo="https://image.tmdb.org/t/p/original/vQSNvkanU7BVdGGZMbfYdmm0i05.jpg",Kojimaro (2024)
+[[SERVER_URL]]/play.php?movieId=1295653
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il Matto" tvg-logo="https://image.tmdb.org/t/p/original/qbJ5vURhwE08pfu7x98sIwxYfQA.jpg",Il Matto (2019)
+[[SERVER_URL]]/play.php?movieId=1282495
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'Orologio di Romolo" tvg-logo="https://image.tmdb.org/t/p/original/1r10tpAz8Ar0PnmCL5B1AbpZlIl.jpg",L'Orologio di Romolo (2022)
+[[SERVER_URL]]/play.php?movieId=1270569
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sleeping Close" tvg-logo="https://image.tmdb.org/t/p/original/in3c1JRRClvx9X04zaXT9PXuigE.jpg",Sleeping Close (2023)
+[[SERVER_URL]]/play.php?movieId=1245494
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Sovereign Waves" tvg-logo="https://image.tmdb.org/t/p/original/j8ld2MZHN3eUt5S9H7kdL3m363X.jpg",Sovereign Waves (2024)
+[[SERVER_URL]]/play.php?movieId=1242006
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Trash Pope" tvg-logo="https://image.tmdb.org/t/p/original/uh08ChCRzce2GTDRcMJkMT4MDba.jpg",The Trash Pope (2023)
+[[SERVER_URL]]/play.php?movieId=1238397
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pasta and Test Score" tvg-logo="https://image.tmdb.org/t/p/original/xGAuY1AEnPSLuaXq70H648cjl9V.jpg",Pasta and Test Score (2023)
+[[SERVER_URL]]/play.php?movieId=1223317
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Dove ci porta il vento" tvg-logo="https://image.tmdb.org/t/p/original/f6fl3N9Hws3VGTsgu2OYZjYz8xm.jpg",Dove ci porta il vento (2019)
+[[SERVER_URL]]/play.php?movieId=1212176
+
+#EXTINF:-1 group-title="Dramma" tvg-id="An Endless Thought" tvg-logo="https://image.tmdb.org/t/p/original/vKoNMogDXuHCDl9rYNtJOagxUDR.jpg",An Endless Thought (2023)
+[[SERVER_URL]]/play.php?movieId=1205049
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Another One" tvg-logo="https://image.tmdb.org/t/p/original/8VaXNyiC96t2XY2e2gCjk52xyaF.jpg",Another One (2021)
+[[SERVER_URL]]/play.php?movieId=1204719
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Fai un bel respiro" tvg-logo="https://image.tmdb.org/t/p/original/3JXnkV6Va47xeAu77rq9lgOeSib.jpg",Fai un bel respiro (2021)
+[[SERVER_URL]]/play.php?movieId=1182903
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Gordia" tvg-logo="https://image.tmdb.org/t/p/original/yx3ZL3HevP5cbpAb1PNMhyjGkdV.jpg",Gordia (2023)
+[[SERVER_URL]]/play.php?movieId=1176918
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Neve" tvg-logo="https://image.tmdb.org/t/p/original/6aMlyJynh671RndOmlhDfmVzYyX.jpg",Neve (2023)
+[[SERVER_URL]]/play.php?movieId=1128033
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La Fausta" tvg-logo="https://image.tmdb.org/t/p/original/sSZ0lS37s5lwzHB9HTXiNolgxrU.jpg",La Fausta (2011)
+[[SERVER_URL]]/play.php?movieId=1109555
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La falsa luce" tvg-logo="https://image.tmdb.org/t/p/original/xWlcgv2OVftMiOdBqPSsBDJBhNL.jpg",La falsa luce (2023)
+[[SERVER_URL]]/play.php?movieId=1068442
+
+#EXTINF:-1 group-title="Dramma" tvg-id="AVERE TEMPO" tvg-logo="https://image.tmdb.org/t/p/original/k85HJoARQl30rQhMYmfnVqEy9NZ.jpg",AVERE TEMPO (2023)
+[[SERVER_URL]]/play.php?movieId=1039981
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Verso Orione" tvg-logo="https://image.tmdb.org/t/p/original/iwuwRWk8iYqkJywJW4T3D4FqrPl.jpg",Verso Orione (2013)
+[[SERVER_URL]]/play.php?movieId=1037322
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ticchettio" tvg-logo="https://image.tmdb.org/t/p/original/3nc643NriTpgLXecUsjaz6eHH6M.jpg",Ticchettio (2022)
+[[SERVER_URL]]/play.php?movieId=1026230
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Lo Combat" tvg-logo="https://image.tmdb.org/t/p/original/e5b3NuJQXOqTfQVJ0Mji6WBEUkL.jpg",Lo Combat (2022)
+[[SERVER_URL]]/play.php?movieId=1023185
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Takbir" tvg-logo="https://image.tmdb.org/t/p/original/upgDVdXYk5ovFjYzznOLnvsrgIY.jpg",Takbir (2022)
+[[SERVER_URL]]/play.php?movieId=1020311
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Can Someone Meet Me in Dark Alley?" tvg-logo="https://image.tmdb.org/t/p/original/drIS9LlajjDL305NFjk5QUYMVs5.jpg",Can Someone Meet Me in Dark Alley? (2022)
+[[SERVER_URL]]/play.php?movieId=1000313
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Faccia di cuscino" tvg-logo="https://image.tmdb.org/t/p/original/nJCBr5DA3nIk8V9UAMifyhnmkWz.jpg",Faccia di cuscino (2022)
+[[SERVER_URL]]/play.php?movieId=998851
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Se Fossi Uomo" tvg-logo="https://image.tmdb.org/t/p/original/6DLhIQ2xw1RnxYl8aWW9fcWvrog.jpg",Se Fossi Uomo (2022)
+[[SERVER_URL]]/play.php?movieId=975802
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Broadcuts" tvg-logo="https://image.tmdb.org/t/p/original/3Af2BMKFJUiv58JuHFX5khFjGlK.jpg",Broadcuts (2000)
+[[SERVER_URL]]/play.php?movieId=971156
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Bonne Année, Jim" tvg-logo="https://image.tmdb.org/t/p/original/5daPoOUF9iseiZOmEX6qQ2AWo40.jpg",Bonne Année, Jim (2022)
+[[SERVER_URL]]/play.php?movieId=968273
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Deliver You" tvg-logo="https://image.tmdb.org/t/p/original/4bn5MEEKF6PYClyLFBP8CfbFOTu.jpg",Deliver You (2022)
+[[SERVER_URL]]/play.php?movieId=942202
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La sedia" tvg-logo="https://image.tmdb.org/t/p/original/oD5M6yRnOiJ0pVUaSzAzq8m3TWv.jpg",La sedia (2021)
+[[SERVER_URL]]/play.php?movieId=938413
+
+#EXTINF:-1 group-title="Dramma" tvg-id="HypoCrisis" tvg-logo="https://image.tmdb.org/t/p/original/r7T6GH3PXBY5qmL3jsGLybH8fRV.jpg",HypoCrisis (2021)
+[[SERVER_URL]]/play.php?movieId=921181
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il disordine del mosaico" tvg-logo="https://image.tmdb.org/t/p/original/jGKtGQIvHRUpUFIEHthUYmrgEch.jpg",Il disordine del mosaico (2021)
+[[SERVER_URL]]/play.php?movieId=908375
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nausicaa" tvg-logo="https://image.tmdb.org/t/p/original/zfRAqcETXZ6Nf8YZJDVCa1kU6bi.jpg",Nausicaa (2016)
+[[SERVER_URL]]/play.php?movieId=885488
+
+#EXTINF:-1 group-title="Dramma" tvg-id="La vedova più bella del paese" tvg-logo="https://image.tmdb.org/t/p/original/VFOyXV8NjxGgI3jen6ub5EOT1f.jpg",La vedova più bella del paese (2021)
+[[SERVER_URL]]/play.php?movieId=859287
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Suggestioni e altri silenzi" tvg-logo="https://image.tmdb.org/t/p/original/3cZEtonb88PL9diaaL0FGfPXo7u.jpg",Suggestioni e altri silenzi (2021)
+[[SERVER_URL]]/play.php?movieId=853009
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Come un giorno di pioggia per una rosa di Gerico" tvg-logo="https://image.tmdb.org/t/p/original/d3Fj6g33k06u4uL1b5Iif1tUWUA.jpg",Come un giorno di pioggia per una rosa di Gerico (2021)
+[[SERVER_URL]]/play.php?movieId=852798
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Another Point of View" tvg-logo="https://image.tmdb.org/t/p/original/wba3BK0UAEE9QhCrYa3NRobUpMR.jpg",Another Point of View (2019)
+[[SERVER_URL]]/play.php?movieId=849853
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Aria Prima" tvg-logo="https://image.tmdb.org/t/p/original/5uiEhCQwqAwENOVkRA4sVoK83Ks.jpg",Aria Prima (2019)
+[[SERVER_URL]]/play.php?movieId=847599
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pescado" tvg-logo="https://image.tmdb.org/t/p/original/mu9Gju4u4FqqNZAKCCF0DCV0kG5.jpg",Pescado (2020)
+[[SERVER_URL]]/play.php?movieId=811314
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il pennarello" tvg-logo="https://image.tmdb.org/t/p/original/r3GdSt0e5DipyKbqJhIZT10HqGV.jpg",Il pennarello (2020)
+[[SERVER_URL]]/play.php?movieId=802678
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ho ritrovato il mio papà" tvg-logo="https://image.tmdb.org/t/p/original/dX7qZyKSLED4sOfk5nnIrHg5FCB.jpg",Ho ritrovato il mio papà (2008)
+[[SERVER_URL]]/play.php?movieId=792449
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Neve in primavera" tvg-logo="https://image.tmdb.org/t/p/original/k3wwlh0k4JPhE4g8puBU25SPCtE.jpg",Neve in primavera (2020)
+[[SERVER_URL]]/play.php?movieId=774598
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Klod" tvg-logo="https://image.tmdb.org/t/p/original/129xOavBkaIDHams5eWcXaKzcQ.jpg",Klod (2020)
+[[SERVER_URL]]/play.php?movieId=751512
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Miei Cari Amici" tvg-logo="https://image.tmdb.org/t/p/original/i8qaYsq5baBswJ46QSoAcdf3BXF.jpg",Miei Cari Amici (2016)
+[[SERVER_URL]]/play.php?movieId=703857
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Uomo" tvg-logo="https://image.tmdb.org/t/p/original/bWtosTIQePOIetVx93ndrm2jJP2.jpg",Uomo (2018)
+[[SERVER_URL]]/play.php?movieId=686294
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nato a Xibet" tvg-logo="https://image.tmdb.org/t/p/original/wdYsjHqmdsedHFPRICjjEU5YtqM.jpg",Nato a Xibet (2019)
+[[SERVER_URL]]/play.php?movieId=634146
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Ambra" tvg-logo="https://image.tmdb.org/t/p/original/slxxmhoCoRqiyyFDz9Rkv58IMzD.jpg",Ambra (2016)
+[[SERVER_URL]]/play.php?movieId=623337
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il sogno di una cosa" tvg-logo="https://image.tmdb.org/t/p/original/73KvGALu6lEznlD2FMUMpqDhaUf.jpg",Il sogno di una cosa (2014)
+[[SERVER_URL]]/play.php?movieId=603893
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il fuoco degli uomini" tvg-logo="https://image.tmdb.org/t/p/original/l25AYStTFBmaIn7KgORhKYrTO8R.jpg",Il fuoco degli uomini (2017)
+[[SERVER_URL]]/play.php?movieId=514607
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Carne e Polvere" tvg-logo="https://image.tmdb.org/t/p/original/zKWwh1eJpAuJ9UljaTW3k2vXyJl.jpg",Carne e Polvere (2015)
+[[SERVER_URL]]/play.php?movieId=424577
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il fungo sirena" tvg-logo="https://image.tmdb.org/t/p/original/monnIKzuxN1OtV6qiorkHCGSGs.jpg",Il fungo sirena (2010)
+[[SERVER_URL]]/play.php?movieId=381596
+
+#EXTINF:-1 group-title="Dramma" tvg-id="10.10.99" tvg-logo="https://image.tmdb.org/t/p/original/i9CqViyw84RVFvEI9bd3bCdYvHm.jpg",10.10.99 (2025)
+[[SERVER_URL]]/play.php?movieId=1556399
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Spazio" tvg-logo="https://image.tmdb.org/t/p/original/xAWywahRAgqfhauY3KDhVnbbXlp.jpg",Spazio (2025)
+[[SERVER_URL]]/play.php?movieId=1541148
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Minus Magis" tvg-logo="https://image.tmdb.org/t/p/original/42hjZq0UPT0HxipdXPYturnvJWR.jpg",Minus Magis (2025)
+[[SERVER_URL]]/play.php?movieId=1508780
+
+#EXTINF:-1 group-title="Dramma" tvg-id="DAMNATIO MEMORIAE" tvg-logo="https://image.tmdb.org/t/p/original/4MX4OA1msZRcLpFMeJlb5PZKJdj.jpg",DAMNATIO MEMORIAE (2025)
+[[SERVER_URL]]/play.php?movieId=1506933
+
+#EXTINF:-1 group-title="Dramma" tvg-id="These Days" tvg-logo="https://image.tmdb.org/t/p/original/qSd4PWttpQCztamPJKeA7oAiIZ3.jpg",These Days (2025)
+[[SERVER_URL]]/play.php?movieId=1506788
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Profession: Dad" tvg-logo="https://image.tmdb.org/t/p/original/2M7MIOnslu1O4UApPxzDneFKZxy.jpg",Profession: Dad (2019)
+[[SERVER_URL]]/play.php?movieId=1471372
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Meeting" tvg-logo="https://image.tmdb.org/t/p/original/kfp5cMf1RY5mncuIutVUDBH7adw.jpg",The Meeting (2021)
+[[SERVER_URL]]/play.php?movieId=1469707
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The White Rabbit" tvg-logo="https://image.tmdb.org/t/p/original/hyWbk9Q8RcnNdRrSQwxW7BxOHcS.jpg",The White Rabbit (2022)
+[[SERVER_URL]]/play.php?movieId=1468966
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Hecyra: una storia come tante" tvg-logo="https://image.tmdb.org/t/p/original/cXWuFoBWwm4FiiQdpD77ALmwFvb.jpg",Hecyra: una storia come tante (2025)
+[[SERVER_URL]]/play.php?movieId=1458105
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Oggi è giovedì" tvg-logo="https://image.tmdb.org/t/p/original/jdAAmmhudiyvXsBjdP26WijSufe.jpg",Oggi è giovedì (2025)
+[[SERVER_URL]]/play.php?movieId=1438216
+
+#EXTINF:-1 group-title="Dramma" tvg-id="L'apprendissage" tvg-logo="https://image.tmdb.org/t/p/original/AdGUiDKrM7ek4QQgF0DNpOmyuPa.jpg",L'apprendissage (2025)
+[[SERVER_URL]]/play.php?movieId=1434407
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Full Remorse Jacket" tvg-logo="https://image.tmdb.org/t/p/original/4ktQN3YFxIhNhQgkCESBEDiEgde.jpg",Full Remorse Jacket (2025)
+[[SERVER_URL]]/play.php?movieId=1426621
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Eden" tvg-logo="https://image.tmdb.org/t/p/original/ajSi67Hkmv1W4GfVPI6GdVEgx7u.jpg",Eden (2023)
+[[SERVER_URL]]/play.php?movieId=1420446
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Marilyn's Place" tvg-logo="https://image.tmdb.org/t/p/original/dMsnrI8sAQqOUceKxfzzCUAcrU2.jpg",Marilyn's Place (2023)
+[[SERVER_URL]]/play.php?movieId=1417611
+
+#EXTINF:-1 group-title="Dramma" tvg-id="No Longer Making Time" tvg-logo="https://image.tmdb.org/t/p/original/b3INgice1kJsON0H6RXCaw5oQdB.jpg",No Longer Making Time (2024)
+[[SERVER_URL]]/play.php?movieId=1411029
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Per non dimenticare" tvg-logo="https://image.tmdb.org/t/p/original/miqmKlTjtB8yAH6FB1Rf7FQuTkz.jpg",Per non dimenticare (2024)
+[[SERVER_URL]]/play.php?movieId=1391651
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Im Schatten der Nacht" tvg-logo="https://image.tmdb.org/t/p/original/kYAi8Ylqh4GazNRgmhNUO6RTs71.jpg",Im Schatten der Nacht (2024)
+[[SERVER_URL]]/play.php?movieId=1382487
+
+#EXTINF:-1 group-title="Dramma" tvg-id="EGO" tvg-logo="https://image.tmdb.org/t/p/original/t3D5h9oOuM13TS6AMZD8eoKMLXa.jpg",EGO (2024)
+[[SERVER_URL]]/play.php?movieId=1378128
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Domenica è di tanti colori come i fiori" tvg-logo="https://image.tmdb.org/t/p/original/sJ6vxa9ZN5kt8kNZwP256OIQuok.jpg",Domenica è di tanti colori come i fiori (2024)
+[[SERVER_URL]]/play.php?movieId=1363958
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Nati per Rinascere" tvg-logo="https://image.tmdb.org/t/p/original/eb0ztlebsPN94I966e3XhD7RoFW.jpg",Nati per Rinascere (2024)
+[[SERVER_URL]]/play.php?movieId=1340363
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il passante" tvg-logo="https://image.tmdb.org/t/p/original/4JLsnbMbe9mqhq8EkpJhdEEZx6n.jpg",Il passante (2022)
+[[SERVER_URL]]/play.php?movieId=1322406
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Pesce Rosso" tvg-logo="https://image.tmdb.org/t/p/original/ygEt12oPniIpH4i1diaE0CBHHcK.jpg",Pesce Rosso (2024)
+[[SERVER_URL]]/play.php?movieId=1317344
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Solo No" tvg-logo="https://image.tmdb.org/t/p/original/mlWfWZDBQ3yRcyW7jv7JBIYbhl5.jpg",Solo No (2019)
+[[SERVER_URL]]/play.php?movieId=820857
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Come si scrive ti amo in coreano" tvg-logo="https://image.tmdb.org/t/p/original/fqa7Xr42GQnVm1sJWMkmsV5usH8.jpg",Come si scrive ti amo in coreano (2019)
+[[SERVER_URL]]/play.php?movieId=772585
+
 #EXTINF:-1 group-title="Famiglia" tvg-id="Woodwalkers" tvg-logo="https://image.tmdb.org/t/p/original/n84V8SLmc7242ltKRePD5uvP8Xb.jpg",Woodwalkers (2024)
 [[SERVER_URL]]/play.php?movieId=1241894
 
@@ -36587,47 +38219,11 @@
 #EXTINF:-1 group-title="Famiglia" tvg-id="Supermagic Infinito" tvg-logo="https://image.tmdb.org/t/p/original/53bqUd0Uik9N0eRbNOx14HAiUZ.jpg",Supermagic Infinito (2020)
 [[SERVER_URL]]/play.php?movieId=769187
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Voci nel buio" tvg-logo="https://image.tmdb.org/t/p/original/5Jj3vsh4kZAvd3IsvqfCMJ6hT4D.jpg",Voci nel buio (2013)
-[[SERVER_URL]]/play.php?movieId=301037
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Self portrait with a gun" tvg-logo="https://image.tmdb.org/t/p/original/8d5XDerPcTbW5waMjyHCPqGirEh.jpg",Self portrait with a gun (2021)
-[[SERVER_URL]]/play.php?movieId=1364306
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Io non ti lascio solo" tvg-logo="https://image.tmdb.org/t/p/original/lwNB5CNOhZwq93KUgUJs9aBYUoN.jpg",Io non ti lascio solo (2025)
-[[SERVER_URL]]/play.php?movieId=1510413
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Resilienza" tvg-logo="https://image.tmdb.org/t/p/original/9F1tx5mJoa4v1uMPrLpOADfbTIl.jpg",Resilienza (2025)
-[[SERVER_URL]]/play.php?movieId=1536131
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Memorie" tvg-logo="https://image.tmdb.org/t/p/original/58SjH9OehTv5VY2WH9lQ4cafBzA.jpg",Memorie (2025)
-[[SERVER_URL]]/play.php?movieId=1531948
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="‘Merica" tvg-logo="https://image.tmdb.org/t/p/original/9442Z4xhNeXi9Bwy3SVVRjq89XO.jpg",‘Merica (2022)
-[[SERVER_URL]]/play.php?movieId=994337
-
 #EXTINF:-1 group-title="Famiglia" tvg-id="Dr. Smith e il castello fantastico" tvg-logo="https://image.tmdb.org/t/p/original/agsUAfrPbrcvVJ4N01z7FsQZ2xl.jpg",Dr. Smith e il castello fantastico (2012)
 [[SERVER_URL]]/play.php?movieId=1534973
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Ciò che le nuvole non dicono" tvg-logo="https://image.tmdb.org/t/p/original/glTY4xxgQ7PZlK6Og2duJ2cWByt.jpg",Ciò che le nuvole non dicono (2016)
-[[SERVER_URL]]/play.php?movieId=933173
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="A Casa Mia" tvg-logo="https://image.tmdb.org/t/p/original/yxPXP3Wbmc2iw7nZS0ugCHZdLVw.jpg",A Casa Mia (2016)
-[[SERVER_URL]]/play.php?movieId=634826
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="May the exquisite scheme be only for her" tvg-logo="https://image.tmdb.org/t/p/original/3DWoDHwuu16p9aq3YKXJh7aTTmF.jpg",May the exquisite scheme be only for her (2019)
-[[SERVER_URL]]/play.php?movieId=631688
-
 #EXTINF:-1 group-title="Famiglia" tvg-id="Gardaland: Il Luogo Che Resta Sempre Con Te" tvg-logo="https://image.tmdb.org/t/p/original/fdQfa94MhKVybfpdIkfEYcLM7lJ.jpg",Gardaland: Il Luogo Che Resta Sempre Con Te (2025)
 [[SERVER_URL]]/play.php?movieId=1525023
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="finished love" tvg-logo="https://image.tmdb.org/t/p/original/83iVosBbY7xoZEXmTAZW0S1xtxw.jpg",finished love (2025)
-[[SERVER_URL]]/play.php?movieId=1402199
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Anima Kronos" tvg-logo="https://image.tmdb.org/t/p/original/7578tKN6XKXpsRDOW62eXyhRRMR.jpg",Anima Kronos (2024)
-[[SERVER_URL]]/play.php?movieId=1352344
-
-#EXTINF:-1 group-title="Famiglia" tvg-id="Elia" tvg-logo="https://image.tmdb.org/t/p/original/hRbgnYxcy10q7qOfcKVvwyBJSHQ.jpg",Elia (2022)
-[[SERVER_URL]]/play.php?movieId=1341146
 
 #EXTINF:-1 group-title="Famiglia" tvg-id="Gardaland: Magic Hotel" tvg-logo="https://image.tmdb.org/t/p/original/yZO3NXTcZFs3VMyal1tvCtAIn7F.jpg",Gardaland: Magic Hotel (2019)
 [[SERVER_URL]]/play.php?movieId=1529608
@@ -36839,26 +38435,11 @@
 #EXTINF:-1 group-title="Fantasy" tvg-id="The Secret of the Orchard" tvg-logo="https://image.tmdb.org/t/p/original/x8c2pkxmBec4KPsAvnWrLzZSvB2.jpg",The Secret of the Orchard (2021)
 [[SERVER_URL]]/play.php?movieId=1191100
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="Farinata: la tredicesima notte" tvg-logo="https://image.tmdb.org/t/p/original/zM0T6tE2w97pk2LcVG6TUl1IrwL.jpg",Farinata: la tredicesima notte (2020)
-[[SERVER_URL]]/play.php?movieId=748421
-
 #EXTINF:-1 group-title="Fantasy" tvg-id="Vork and The Beast" tvg-logo="https://image.tmdb.org/t/p/original/ndDaZpj8oFw0C1LcnX6FAt8JvdI.jpg",Vork and The Beast (2020)
 [[SERVER_URL]]/play.php?movieId=769616
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="Asterione" tvg-logo="https://image.tmdb.org/t/p/original/aDwR6x59iKSjwzuEu8s5559yGvG.jpg",Asterione (2025)
-[[SERVER_URL]]/play.php?movieId=1460736
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="Mistero di un impiegato" tvg-logo="https://image.tmdb.org/t/p/original/5NuuYEv00Q5VqRil6mB1mDOO4KE.jpg",Mistero di un impiegato (2019)
-[[SERVER_URL]]/play.php?movieId=680676
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="The Oldest" tvg-logo="https://image.tmdb.org/t/p/original/I6mXerfwBOsGPEjSrzDLbuK6XK.jpg",The Oldest (2022)
-[[SERVER_URL]]/play.php?movieId=1090565
-
 #EXTINF:-1 group-title="Fantasy" tvg-id="Haselwurm" tvg-logo="https://image.tmdb.org/t/p/original/pOde82V58Lvwob3EBl2jrMDKubx.jpg",Haselwurm (2011)
 [[SERVER_URL]]/play.php?movieId=1432769
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="Veleno biondo" tvg-logo="https://image.tmdb.org/t/p/original/dX2PxZ8TCkjMSRodrNXlpa85lr2.jpg",Veleno biondo (2022)
-[[SERVER_URL]]/play.php?movieId=1080172
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="La fantastica storia di Don Chisciotte della Mancia" tvg-logo="https://image.tmdb.org/t/p/original/2XII7b5Hn1uur1FYcZ4ru529Gxd.jpg",La fantastica storia di Don Chisciotte della Mancia (1970)
 [[SERVER_URL]]/play.php?movieId=751564
@@ -36890,26 +38471,14 @@
 #EXTINF:-1 group-title="Fantasy" tvg-id="Barry" tvg-logo="https://image.tmdb.org/t/p/original/9oIosjdhgiHdgmmerOg9VCEZoQQ.jpg",Barry (2022)
 [[SERVER_URL]]/play.php?movieId=1428491
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="Amore tra le rovine" tvg-logo="https://image.tmdb.org/t/p/original/29wyrj4NylJeQpCxbamuTRcQrf1.jpg",Amore tra le rovine (2015)
-[[SERVER_URL]]/play.php?movieId=341476
-
 #EXTINF:-1 group-title="Fantasy" tvg-id="L'incantesimo di Gilbert" tvg-logo="https://image.tmdb.org/t/p/original/rxQdg7487QMgeTAVqqtldZxdxS3.jpg",L'incantesimo di Gilbert (2006)
 [[SERVER_URL]]/play.php?movieId=1064881
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="Morboso desiderio" tvg-logo="https://image.tmdb.org/t/p/original/7htmkKB1N0tpTYvTUgTVY5sPuJp.jpg",Morboso desiderio (2024)
-[[SERVER_URL]]/play.php?movieId=1415200
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="Il Giorno Dopo" tvg-logo="https://image.tmdb.org/t/p/original/i9XuLE7AMEIWqR9qzSxS7kxHdPR.jpg",Il Giorno Dopo (2023)
 [[SERVER_URL]]/play.php?movieId=1377098
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="Under a new light" tvg-logo="https://image.tmdb.org/t/p/original/qfX2uAzZrHm8G9BjsN9vbZKzLBC.jpg",Under a new light (2024)
 [[SERVER_URL]]/play.php?movieId=1252044
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="La Regola del Piombo" tvg-logo="https://image.tmdb.org/t/p/original/7qYNfrVac9AnPXLdk8O38q3EBI9.jpg",La Regola del Piombo (2014)
-[[SERVER_URL]]/play.php?movieId=468350
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="Rebecca e le messe nere" tvg-logo="https://image.tmdb.org/t/p/original/f4b6xUwM0P4px9KTMdI3Xx7fnBG.jpg",Rebecca e le messe nere (1997)
-[[SERVER_URL]]/play.php?movieId=405291
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="Luce - La fiaba del Mare" tvg-logo="https://image.tmdb.org/t/p/original/u8GtMIcRnUnW6gls8fTM8mvL0VO.jpg",Luce - La fiaba del Mare (2026)
 [[SERVER_URL]]/play.php?movieId=1416939
@@ -36920,9 +38489,6 @@
 #EXTINF:-1 group-title="Fantasy" tvg-id="il carbonasso" tvg-logo="https://image.tmdb.org/t/p/original/n5sFQFshQy2eZAPL34olc6Tw1dx.jpg",il carbonasso (2021)
 [[SERVER_URL]]/play.php?movieId=1034235
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="El lugar por donde el sol sale" tvg-logo="https://image.tmdb.org/t/p/original/b5Mo4ikOouMccv4x7dqr4Pzj6Tl.jpg",El lugar por donde el sol sale (2022)
-[[SERVER_URL]]/play.php?movieId=969428
-
 #EXTINF:-1 group-title="Fantasy" tvg-id="Moon on Fire" tvg-logo="https://image.tmdb.org/t/p/original/sF06omGXyQgFUTFPrk9HW4b8MJd.jpg",Moon on Fire (2019)
 [[SERVER_URL]]/play.php?movieId=651618
 
@@ -36931,9 +38497,6 @@
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="U Scantu" tvg-logo="https://image.tmdb.org/t/p/original/6c04HOlapMTKRtQDj68ZOdZXixr.jpg",U Scantu (2022)
 [[SERVER_URL]]/play.php?movieId=1033760
-
-#EXTINF:-1 group-title="Fantasy" tvg-id="The White Rabbit" tvg-logo="https://image.tmdb.org/t/p/original/hyWbk9Q8RcnNdRrSQwxW7BxOHcS.jpg",The White Rabbit (2022)
-[[SERVER_URL]]/play.php?movieId=1468966
 
 #EXTINF:-1 group-title="Fantasy" tvg-id="Le tre dimensioni" tvg-logo="https://image.tmdb.org/t/p/original/ubHhJAMA5G1CD3dwNvclH0vpOsT.jpg",Le tre dimensioni (2023)
 [[SERVER_URL]]/play.php?movieId=1081274
@@ -37064,50 +38627,17 @@
 #EXTINF:-1 group-title="Storia" tvg-id="Fiore" tvg-logo="https://image.tmdb.org/t/p/original/9c6WJkd9gYvXrE0s5YsBRN93wLG.jpg",Fiore (2022)
 [[SERVER_URL]]/play.php?movieId=1164544
 
-#EXTINF:-1 group-title="Storia" tvg-id="XII844" tvg-logo="https://image.tmdb.org/t/p/original/nbN3L8Oet1i4vFFEMKZEXi1HJjT.jpg",XII844 (2016)
-[[SERVER_URL]]/play.php?movieId=814584
-
-#EXTINF:-1 group-title="Storia" tvg-id="The Reddiest 2006" tvg-logo="https://image.tmdb.org/t/p/original/pFNGcBGbv37F3e4C0VF0wNMTok9.jpg",The Reddiest 2006 (2024)
-[[SERVER_URL]]/play.php?movieId=1432336
-
-#EXTINF:-1 group-title="Storia" tvg-id="Il Diluvio Universale" tvg-logo="https://image.tmdb.org/t/p/original/nR1QqFZFfOiaNpgJ3SvdgncSDKp.jpg",Il Diluvio Universale (2025)
-[[SERVER_URL]]/play.php?movieId=1460226
-
 #EXTINF:-1 group-title="Storia" tvg-id="Antonio Vivaldi: Ercole Su'l Termodonte" tvg-logo="https://image.tmdb.org/t/p/original/iU1J7VAmfUtlDwj32ouJHvx1xBL.jpg",Antonio Vivaldi: Ercole Su'l Termodonte (2007)
 [[SERVER_URL]]/play.php?movieId=310021
-
-#EXTINF:-1 group-title="Storia" tvg-id="Il Tricolore" tvg-logo="https://image.tmdb.org/t/p/original/vvAvWQ5Qs79oxzLCFvhJvhZVe7U.jpg",Il Tricolore (2024)
-[[SERVER_URL]]/play.php?movieId=1274018
 
 #EXTINF:-1 group-title="Storia" tvg-id="La Belva" tvg-logo="https://image.tmdb.org/t/p/original/j3K1zShevrWewQHhv5nqocxwHeL.jpg",La Belva (2017)
 [[SERVER_URL]]/play.php?movieId=952210
 
-#EXTINF:-1 group-title="Storia" tvg-id="Il sole si riprese il giorno" tvg-logo="https://image.tmdb.org/t/p/original/I5jKgbhU2ZzOC0XwuVZ9nhAijH.jpg",Il sole si riprese il giorno (2019)
-[[SERVER_URL]]/play.php?movieId=841911
-
-#EXTINF:-1 group-title="Storia" tvg-id="Attitu" tvg-logo="https://image.tmdb.org/t/p/original/mySZv60Hc7fOv6Tw9A9ATz3TbwE.jpg",Attitu (2024)
-[[SERVER_URL]]/play.php?movieId=1501778
-
-#EXTINF:-1 group-title="Storia" tvg-id="L'Amore e la Gloria - La Giovane Deledda" tvg-logo="https://image.tmdb.org/t/p/original/tKMcvVoOI5le3ZBXHdecZwPCVn8.jpg",L'Amore e la Gloria - La Giovane Deledda (2024)
-[[SERVER_URL]]/play.php?movieId=1298575
-
 #EXTINF:-1 group-title="Storia" tvg-id="La sottile linea della verità" tvg-logo="https://image.tmdb.org/t/p/original/2Ykih8GvFiLPv3DKr5uDxaVfUvN.jpg",La sottile linea della verità (2007)
 [[SERVER_URL]]/play.php?movieId=197121
 
-#EXTINF:-1 group-title="Storia" tvg-id="Domani all'Alba" tvg-logo="https://image.tmdb.org/t/p/original/eIbT5jFMSkJdcYgnJm57pw52KRw.jpg",Domani all'Alba (2019)
-[[SERVER_URL]]/play.php?movieId=1251033
-
 #EXTINF:-1 group-title="Storia" tvg-id="Pianezza 1706 - Maria Bricca" tvg-logo="https://image.tmdb.org/t/p/original/jwF3mAOH7pvA121JS9jER9oIZyH.jpg",Pianezza 1706 - Maria Bricca (2012)
 [[SERVER_URL]]/play.php?movieId=1106662
-
-#EXTINF:-1 group-title="Storia" tvg-id="Ghiaie" tvg-logo="https://image.tmdb.org/t/p/original/7Hw3j7fCIkIjnWYAMrHHKocnUUh.jpg",Ghiaie (2008)
-[[SERVER_URL]]/play.php?movieId=649271
-
-#EXTINF:-1 group-title="Storia" tvg-id="L'Orologio di Romolo" tvg-logo="https://image.tmdb.org/t/p/original/1r10tpAz8Ar0PnmCL5B1AbpZlIl.jpg",L'Orologio di Romolo (2022)
-[[SERVER_URL]]/play.php?movieId=1270569
-
-#EXTINF:-1 group-title="Storia" tvg-id="Per non dimenticare" tvg-logo="https://image.tmdb.org/t/p/original/miqmKlTjtB8yAH6FB1Rf7FQuTkz.jpg",Per non dimenticare (2024)
-[[SERVER_URL]]/play.php?movieId=1391651
 
 #EXTINF:-1 group-title="Horror" tvg-id="La bestia uccide a sangue freddo" tvg-logo="https://image.tmdb.org/t/p/original/rAbm5OOj9HPoIKafQdalF99gDPb.jpg",La bestia uccide a sangue freddo (1971)
 [[SERVER_URL]]/play.php?movieId=27439
@@ -38612,9 +40142,6 @@
 #EXTINF:-1 group-title="Horror" tvg-id="Xpiation" tvg-logo="https://image.tmdb.org/t/p/original/kLifkH9QtmZGtKy9qUvXqQ41WoF.jpg",Xpiation (2017)
 [[SERVER_URL]]/play.php?movieId=658020
 
-#EXTINF:-1 group-title="Horror" tvg-id="AN DRE A" tvg-logo="https://image.tmdb.org/t/p/original/4BpVmM5DVcyYGwjRe7cClHOZoYV.jpg",AN DRE A (2020)
-[[SERVER_URL]]/play.php?movieId=691008
-
 #EXTINF:-1 group-title="Horror" tvg-id="CAFFE'" tvg-logo="https://image.tmdb.org/t/p/original/uMbIrhXJaDRF2tVQS3nDSRr1yhz.jpg",CAFFE' (2025)
 [[SERVER_URL]]/play.php?movieId=1554511
 
@@ -38629,9 +40156,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="La notte di Giulia" tvg-logo="https://image.tmdb.org/t/p/original/4C8GZXXr3uAhLNnDgPPrkqib6bH.jpg",La notte di Giulia (2018)
 [[SERVER_URL]]/play.php?movieId=952089
-
-#EXTINF:-1 group-title="Horror" tvg-id="La Cuidadora" tvg-logo="https://image.tmdb.org/t/p/original/yUxJf1zojn4lEdacPrNrRAIRu8f.jpg",La Cuidadora (2024)
-[[SERVER_URL]]/play.php?movieId=1339680
 
 #EXTINF:-1 group-title="Horror" tvg-id="Don't R.I.P. Volume 2" tvg-logo="https://image.tmdb.org/t/p/original/49ZRikxsSYOGNpO71SyzfY4Aswf.jpg",Don't R.I.P. Volume 2 (2019)
 [[SERVER_URL]]/play.php?movieId=680417
@@ -38663,9 +40187,6 @@
 #EXTINF:-1 group-title="Horror" tvg-id="End Roll [2.58.11]" tvg-logo="https://image.tmdb.org/t/p/original/dD1uvmVihaGB92IudRwYbDwHwWo.jpg",End Roll [2.58.11] (2010)
 [[SERVER_URL]]/play.php?movieId=806617
 
-#EXTINF:-1 group-title="Horror" tvg-id="Pandemic 2020" tvg-logo="https://image.tmdb.org/t/p/original/3NESJA9kEH1GDD7EMyF5kvJ1hz3.jpg",Pandemic 2020 (2024)
-[[SERVER_URL]]/play.php?movieId=1364295
-
 #EXTINF:-1 group-title="Horror" tvg-id="Scendere" tvg-logo="https://image.tmdb.org/t/p/original/8sZ02LyLE1Dv0JE4c1z4Uzkoh5P.jpg",Scendere (2018)
 [[SERVER_URL]]/play.php?movieId=1462620
 
@@ -38674,9 +40195,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="Azzurrina" tvg-logo="https://image.tmdb.org/t/p/original/vE5wUj9bCuPjh4SD6u0J6hSITzt.jpg",Azzurrina (2023)
 [[SERVER_URL]]/play.php?movieId=1450683
-
-#EXTINF:-1 group-title="Horror" tvg-id="Dr Dystopia" tvg-logo="https://image.tmdb.org/t/p/original/cwZx1hmun8uV2eBjM7vArU2yIiR.jpg",Dr Dystopia (2015)
-[[SERVER_URL]]/play.php?movieId=711848
 
 #EXTINF:-1 group-title="Horror" tvg-id="End Roll" tvg-logo="https://image.tmdb.org/t/p/original/tOAesqAAJ5n04xS4qQliCWb3Db.jpg",End Roll (2012)
 [[SERVER_URL]]/play.php?movieId=687382
@@ -38699,9 +40217,6 @@
 #EXTINF:-1 group-title="Horror" tvg-id="Blade Killer - L'inferno di Nicholas" tvg-logo="https://image.tmdb.org/t/p/original/i4ok9r0SG6i2e2mTm9QheL5j3fD.jpg",Blade Killer - L'inferno di Nicholas (1999)
 [[SERVER_URL]]/play.php?movieId=575532
 
-#EXTINF:-1 group-title="Horror" tvg-id="The Child, The Two Scoundrels and The Witch" tvg-logo="https://image.tmdb.org/t/p/original/b9HGPBCYRmkfKNzz2iRIjwALsv8.jpg",The Child, The Two Scoundrels and The Witch (2024)
-[[SERVER_URL]]/play.php?movieId=1538941
-
 #EXTINF:-1 group-title="Horror" tvg-id="31 Ottobre" tvg-logo="https://image.tmdb.org/t/p/original/o51DzhTS5spxOe0MIoNjJNKBBoN.jpg",31 Ottobre (2023)
 [[SERVER_URL]]/play.php?movieId=1031422
 
@@ -38717,17 +40232,8 @@
 #EXTINF:-1 group-title="Horror" tvg-id="Heavens" tvg-logo="https://image.tmdb.org/t/p/original/5lX7nB2EhptCfwHeDYluxkEgtlB.jpg",Heavens (2024)
 [[SERVER_URL]]/play.php?movieId=1300527
 
-#EXTINF:-1 group-title="Horror" tvg-id="Kalimera" tvg-logo="https://image.tmdb.org/t/p/original/x1St7zxbjOHxFvDmRfO0YpyLKWP.jpg",Kalimera (2024)
-[[SERVER_URL]]/play.php?movieId=1299408
-
 #EXTINF:-1 group-title="Horror" tvg-id="INCUBO" tvg-logo="https://image.tmdb.org/t/p/original/urfhji95dORyLmGhDjPrQW1cRlA.jpg",INCUBO (2024)
 [[SERVER_URL]]/play.php?movieId=1260421
-
-#EXTINF:-1 group-title="Horror" tvg-id="Flesheater" tvg-logo="https://image.tmdb.org/t/p/original/1uDL9sK42qK1DwOvO41wfGtef9p.jpg",Flesheater (2025)
-[[SERVER_URL]]/play.php?movieId=1460977
-
-#EXTINF:-1 group-title="Horror" tvg-id="Bianca" tvg-logo="https://image.tmdb.org/t/p/original/3ZpTFIxUEv1L2fAbzw58C5bqYZs.jpg",Bianca (2013)
-[[SERVER_URL]]/play.php?movieId=1251604
 
 #EXTINF:-1 group-title="Horror" tvg-id="Attacco dei Morti Viventi" tvg-logo="https://image.tmdb.org/t/p/original/wiO67dKwPANottgeFZgTd6WdC8y.jpg",Attacco dei Morti Viventi (1982)
 [[SERVER_URL]]/play.php?movieId=1054977
@@ -38740,9 +40246,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="Es" tvg-logo="https://image.tmdb.org/t/p/original/yErQlMMj4pNdUCFoXFpLuxlcSFp.jpg",Es (2018)
 [[SERVER_URL]]/play.php?movieId=1067704
-
-#EXTINF:-1 group-title="Horror" tvg-id="Mondo Delirium" tvg-logo="https://image.tmdb.org/t/p/original/b5HkJry8BqtwxcK0Jg1FTuq2pMZ.jpg",Mondo Delirium (2013)
-[[SERVER_URL]]/play.php?movieId=1147210
 
 #EXTINF:-1 group-title="Horror" tvg-id="Radice quadrata di tre" tvg-logo="https://image.tmdb.org/t/p/original/im9LNAafN7NXtuqa25flqiD5R1r.jpg",Radice quadrata di tre (2001)
 [[SERVER_URL]]/play.php?movieId=291751
@@ -38768,17 +40271,11 @@
 #EXTINF:-1 group-title="Horror" tvg-id="Una Consegna Infernale" tvg-logo="https://image.tmdb.org/t/p/original/o4MhDrgig2BDjlXLgXsVBmb1Op9.jpg",Una Consegna Infernale (2019)
 [[SERVER_URL]]/play.php?movieId=638718
 
-#EXTINF:-1 group-title="Horror" tvg-id="La danza del diavolo" tvg-logo="https://image.tmdb.org/t/p/original/6qrKMa3hKlSugQhfI6Rc1CvvM6V.jpg",La danza del diavolo (2025)
-[[SERVER_URL]]/play.php?movieId=1544340
-
 #EXTINF:-1 group-title="Horror" tvg-id="Sorelle" tvg-logo="https://image.tmdb.org/t/p/original/guPrwZRpg8rFQewb57Rj8clauAO.jpg",Sorelle (2024)
 [[SERVER_URL]]/play.php?movieId=1378266
 
 #EXTINF:-1 group-title="Horror" tvg-id="We Know" tvg-logo="https://image.tmdb.org/t/p/original/fO4jPRE2YrwOABba2wyRr1Nm2Yx.jpg",We Know (2020)
 [[SERVER_URL]]/play.php?movieId=1371792
-
-#EXTINF:-1 group-title="Horror" tvg-id="The Vanishing Hitchhiker" tvg-logo="https://image.tmdb.org/t/p/original/oSTsWn41fE6LfAqVfc5NwRNBZps.jpg",The Vanishing Hitchhiker (2021)
-[[SERVER_URL]]/play.php?movieId=1162946
 
 #EXTINF:-1 group-title="Horror" tvg-id="Stuck" tvg-logo="https://image.tmdb.org/t/p/original/qlPe8ujJwljDxmzbRoaAv201y3l.jpg",Stuck (2022)
 [[SERVER_URL]]/play.php?movieId=1529205
@@ -38851,9 +40348,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="screams. laughs. blood. love." tvg-logo="https://image.tmdb.org/t/p/original/rTJymFYNbAegonIPlG8k3Qh99bU.jpg",screams. laughs. blood. love. (2024)
 [[SERVER_URL]]/play.php?movieId=1378757
-
-#EXTINF:-1 group-title="Horror" tvg-id="Lo chiammano amore" tvg-logo="https://image.tmdb.org/t/p/original/aANcYr1dHsaDCqYBP87nYLUVpWG.jpg",Lo chiammano amore (2014)
-[[SERVER_URL]]/play.php?movieId=1287440
 
 #EXTINF:-1 group-title="Horror" tvg-id="Della vanità" tvg-logo="https://image.tmdb.org/t/p/original/nGitzmW76hWtzA0fKjtBFZoZcZK.jpg",Della vanità (2016)
 [[SERVER_URL]]/play.php?movieId=1234155
@@ -38933,9 +40427,6 @@
 #EXTINF:-1 group-title="Horror" tvg-id="Baia del Re" tvg-logo="https://image.tmdb.org/t/p/original/okgIfIxLQRlujjWUmAgMc3Xbuyw.jpg",Baia del Re (2024)
 [[SERVER_URL]]/play.php?movieId=1373425
 
-#EXTINF:-1 group-title="Horror" tvg-id="The Pen's Curse" tvg-logo="https://image.tmdb.org/t/p/original/ziRX0dYiG8hUGzAsX8b6wWsvx6r.jpg",The Pen's Curse (2024)
-[[SERVER_URL]]/play.php?movieId=1338016
-
 #EXTINF:-1 group-title="Horror" tvg-id="L'ultimo giorno di Macho Mask" tvg-logo="https://image.tmdb.org/t/p/original/91Ri2LBvtr27ejqEB2JlcqBKLfE.jpg",L'ultimo giorno di Macho Mask (2000)
 [[SERVER_URL]]/play.php?movieId=1307186
 
@@ -38944,9 +40435,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="Quelle Ragazze" tvg-logo="https://image.tmdb.org/t/p/original/9IGHWBPNyAdQqoKjhtd6R7Nh3mI.jpg",Quelle Ragazze (2018)
 [[SERVER_URL]]/play.php?movieId=1271338
-
-#EXTINF:-1 group-title="Horror" tvg-id="Stay Human" tvg-logo="https://image.tmdb.org/t/p/original/seogLhHuthqHMKHuWJOWtSup7Mt.jpg",Stay Human (2022)
-[[SERVER_URL]]/play.php?movieId=1189894
 
 #EXTINF:-1 group-title="Horror" tvg-id="Turn on Turn off" tvg-logo="https://image.tmdb.org/t/p/original/ytsKErKmCS11rUIlFTmQpIdhq3q.jpg",Turn on Turn off (2017)
 [[SERVER_URL]]/play.php?movieId=1182839
@@ -38959,9 +40447,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="Tradizione di famiglia" tvg-logo="https://image.tmdb.org/t/p/original/yErQlMMj4pNdUCFoXFpLuxlcSFp.jpg",Tradizione di famiglia (2012)
 [[SERVER_URL]]/play.php?movieId=1067693
-
-#EXTINF:-1 group-title="Horror" tvg-id="Lucrezia" tvg-logo="https://image.tmdb.org/t/p/original/e7gRWWHnNPVTCAJCpyJ157HpD0B.jpg",Lucrezia (2023)
-[[SERVER_URL]]/play.php?movieId=1057544
 
 #EXTINF:-1 group-title="Horror" tvg-id="The Ucxioru Cult Tape" tvg-logo="https://image.tmdb.org/t/p/original/aJfICbjS4Fgge0OMCgcYgu0cdk9.jpg",The Ucxioru Cult Tape (2022)
 [[SERVER_URL]]/play.php?movieId=1046059
@@ -38989,9 +40474,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="The Writer" tvg-logo="https://image.tmdb.org/t/p/original/z7gusMxu2qfSgCKT8pjS4eDtU9J.jpg",The Writer (2025)
 [[SERVER_URL]]/play.php?movieId=1507398
-
-#EXTINF:-1 group-title="Horror" tvg-id="CLAVIS" tvg-logo="https://image.tmdb.org/t/p/original/4VxupK5d80D6AYntzVBuZF3KYzy.jpg",CLAVIS (2019)
-[[SERVER_URL]]/play.php?movieId=1506860
 
 #EXTINF:-1 group-title="Horror" tvg-id="La Maschera" tvg-logo="https://image.tmdb.org/t/p/original/zkzPo1eQNqyqbJoemaSSp3bWCwl.jpg",La Maschera (2023)
 [[SERVER_URL]]/play.php?movieId=1440790
@@ -39028,12 +40510,6 @@
 
 #EXTINF:-1 group-title="Horror" tvg-id="Nonno" tvg-logo="https://image.tmdb.org/t/p/original/b5Z3uOaARsDyPQuPmR7QU5xOMLS.jpg",Nonno (2022)
 [[SERVER_URL]]/play.php?movieId=1083431
-
-#EXTINF:-1 group-title="Horror" tvg-id="Deliver You" tvg-logo="https://image.tmdb.org/t/p/original/4bn5MEEKF6PYClyLFBP8CfbFOTu.jpg",Deliver You (2022)
-[[SERVER_URL]]/play.php?movieId=942202
-
-#EXTINF:-1 group-title="Horror" tvg-id="HypoCrisis" tvg-logo="https://image.tmdb.org/t/p/original/r7T6GH3PXBY5qmL3jsGLybH8fRV.jpg",HypoCrisis (2021)
-[[SERVER_URL]]/play.php?movieId=921181
 
 #EXTINF:-1 group-title="Horror" tvg-id="Toys Killer III - Contagio" tvg-logo="https://image.tmdb.org/t/p/original/a2xRkxT6qGR87CL967etVgwyzzP.jpg",Toys Killer III - Contagio (2003)
 [[SERVER_URL]]/play.php?movieId=920970
@@ -40100,9 +41576,6 @@
 #EXTINF:-1 group-title="Musica" tvg-id="Le Corsaire" tvg-logo="https://image.tmdb.org/t/p/original/hyFlOUIk16dZp88SSyI7n2s9bAq.jpg",Le Corsaire (2018)
 [[SERVER_URL]]/play.php?movieId=1031270
 
-#EXTINF:-1 group-title="Musica" tvg-id="The Latin Dream" tvg-logo="https://image.tmdb.org/t/p/original/w8HsiqoVF5EBDXboUWln3uSH0d6.jpg",The Latin Dream (2017)
-[[SERVER_URL]]/play.php?movieId=458840
-
 #EXTINF:-1 group-title="Musica" tvg-id="Vasco Rossi - Il Mondo Che Vorrei" tvg-logo="https://image.tmdb.org/t/p/original/ycXJjlNXg3DIqRmHWPZdobw8uHV.jpg",Vasco Rossi - Il Mondo Che Vorrei (2009)
 [[SERVER_URL]]/play.php?movieId=238380
 
@@ -40120,9 +41593,6 @@
 
 #EXTINF:-1 group-title="Musica" tvg-id="Renato Zero - Figli del Sogno Live" tvg-logo="https://image.tmdb.org/t/p/original/dKoQCvKMNF8uPdttO28AEE6EBQp.jpg",Renato Zero - Figli del Sogno Live (2004)
 [[SERVER_URL]]/play.php?movieId=330971
-
-#EXTINF:-1 group-title="Musica" tvg-id="Oblio" tvg-logo="https://image.tmdb.org/t/p/original/dvF5URzm5ld9vWhFwehIhuruKs6.jpg",Oblio (2018)
-[[SERVER_URL]]/play.php?movieId=1182369
 
 #EXTINF:-1 group-title="Musica" tvg-id="Luther Allison - Live In Paradise" tvg-logo="https://image.tmdb.org/t/p/original/b4U4oNudWOyo53krFYd0lxu0iDC.jpg",Luther Allison - Live In Paradise (1997)
 [[SERVER_URL]]/play.php?movieId=170303
@@ -40210,9 +41680,6 @@
 
 #EXTINF:-1 group-title="Musica" tvg-id="I Solisti Veneti - Live in Kenya" tvg-logo="https://image.tmdb.org/t/p/original/abcVzdOOvn4EGmoUkkYTtqmVuVv.jpg",I Solisti Veneti - Live in Kenya (2013)
 [[SERVER_URL]]/play.php?movieId=1418154
-
-#EXTINF:-1 group-title="Musica" tvg-id="Summer in a small village" tvg-logo="https://image.tmdb.org/t/p/original/h6nvMC7RqbHIVbLnWfnOXcOOFUS.jpg",Summer in a small village (2024)
-[[SERVER_URL]]/play.php?movieId=1317917
 
 #EXTINF:-1 group-title="Musica" tvg-id="Il barbiere di Siviglia" tvg-logo="https://image.tmdb.org/t/p/original/mA8qVCgXfhqsdjznsWE6idg55fs.jpg",Il barbiere di Siviglia (2020)
 [[SERVER_URL]]/play.php?movieId=963180
@@ -40376,9 +41843,6 @@
 #EXTINF:-1 group-title="Musica" tvg-id="Tu non mi basti mai - Lucio Dalla Live in Tindari" tvg-logo="https://image.tmdb.org/t/p/original/2S6GtBwfdXyBP5ez35Jwb3ZRz62.jpg",Tu non mi basti mai - Lucio Dalla Live in Tindari (2009)
 [[SERVER_URL]]/play.php?movieId=1411109
 
-#EXTINF:-1 group-title="Musica" tvg-id="Insieme a te non ci sto più" tvg-logo="https://image.tmdb.org/t/p/original/br0k0f2xvYIDmMca48Wht3a60bV.jpg",Insieme a te non ci sto più (2024)
-[[SERVER_URL]]/play.php?movieId=1293590
-
 #EXTINF:-1 group-title="Musica" tvg-id="Live In Italy Arena Di Verona Zucchero Sugar Fornaciari - (Musicale) (Concerti)" tvg-logo="https://image.tmdb.org/t/p/original/uwmI0jD9GrCx6K92okZtn0YvEXF.jpg",Live In Italy Arena Di Verona Zucchero Sugar Fornaciari - (Musicale) (Concerti) (2007)
 [[SERVER_URL]]/play.php?movieId=828272
 
@@ -40459,9 +41923,6 @@
 
 #EXTINF:-1 group-title="Musica" tvg-id="Claudio Baglioni - Al centro in Arena di Verona (seconda parte)" tvg-logo="https://image.tmdb.org/t/p/original/nnj73LqZbOiewpKtlmJn9GVbVSK.jpg",Claudio Baglioni - Al centro in Arena di Verona (seconda parte) (2019)
 [[SERVER_URL]]/play.php?movieId=657841
-
-#EXTINF:-1 group-title="Musica" tvg-id="Il sogno di una cosa" tvg-logo="https://image.tmdb.org/t/p/original/73KvGALu6lEznlD2FMUMpqDhaUf.jpg",Il sogno di una cosa (2014)
-[[SERVER_URL]]/play.php?movieId=603893
 
 #EXTINF:-1 group-title="Musica" tvg-id="Atrax Morgue's Mörder Machine" tvg-logo="https://image.tmdb.org/t/p/original/9vfLs9qPBr52WmU0nO9BCZ3M8tL.jpg",Atrax Morgue's Mörder Machine (2016)
 [[SERVER_URL]]/play.php?movieId=576536
@@ -40640,38 +42101,14 @@
 #EXTINF:-1 group-title="Mistero" tvg-id="Kyss" tvg-logo="https://image.tmdb.org/t/p/original/cyiluLbqya60nr0bmr5Al6DWTKO.jpg",Kyss (2022)
 [[SERVER_URL]]/play.php?movieId=1094342
 
-#EXTINF:-1 group-title="Mistero" tvg-id="L'ornitologa" tvg-logo="https://image.tmdb.org/t/p/original/wxvunu7XlKBr1Mv2gLV4lSLdqEU.jpg",L'ornitologa (2025)
-[[SERVER_URL]]/play.php?movieId=1375683
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Montedoro" tvg-logo="https://image.tmdb.org/t/p/original/4hs74KiFQ4De0h9hPw98DXriZtp.jpg",Montedoro (2016)
-[[SERVER_URL]]/play.php?movieId=445012
-
-#EXTINF:-1 group-title="Mistero" tvg-id="L'abisso dell'illusione" tvg-logo="https://image.tmdb.org/t/p/original/3Jolit6HfqMpEZUlQrgDD7zc5Tc.jpg",L'abisso dell'illusione (2024)
-[[SERVER_URL]]/play.php?movieId=1297731
-
 #EXTINF:-1 group-title="Mistero" tvg-id="SAIKO" tvg-logo="https://image.tmdb.org/t/p/original/gBQ8sBVjZ8NtATO58AQEg2Z6ATv.jpg",SAIKO (2023)
 [[SERVER_URL]]/play.php?movieId=1450143
-
-#EXTINF:-1 group-title="Mistero" tvg-id="The Drowned" tvg-logo="https://image.tmdb.org/t/p/original/q86VEk2P3JBY4wDft1oy8nEnveV.jpg",The Drowned (2024)
-[[SERVER_URL]]/play.php?movieId=1464177
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Spatial Memory" tvg-logo="https://image.tmdb.org/t/p/original/p8m4m2Qi23Z6hjhWgBwzdVEx027.jpg",Spatial Memory (2022)
-[[SERVER_URL]]/play.php?movieId=1182455
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Nuoto" tvg-logo="https://image.tmdb.org/t/p/original/3zneRzFwqLCyVKprlquCyXFBYtj.jpg",Nuoto (2022)
-[[SERVER_URL]]/play.php?movieId=1064195
 
 #EXTINF:-1 group-title="Mistero" tvg-id="The Wrong Address" tvg-logo="https://image.tmdb.org/t/p/original/kJFfo64OToR5jUTMMDtqugeCZ3F.jpg",The Wrong Address (2022)
 [[SERVER_URL]]/play.php?movieId=1035157
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Il bacio" tvg-logo="https://image.tmdb.org/t/p/original/cGR3tlRPJQp05wE7F2eRnGCqhLh.jpg",Il bacio (2020)
-[[SERVER_URL]]/play.php?movieId=1126371
-
 #EXTINF:-1 group-title="Mistero" tvg-id="Quarto Livello" tvg-logo="https://image.tmdb.org/t/p/original/aFfRXa6zim0QbPkQalkl0vlCPlL.jpg",Quarto Livello (2024)
 [[SERVER_URL]]/play.php?movieId=1361116
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Tutta colpa dell'istinto" tvg-logo="https://image.tmdb.org/t/p/original/bNG1k2DDrjRp9ESppxwGbUEEJQ6.jpg",Tutta colpa dell'istinto (2020)
-[[SERVER_URL]]/play.php?movieId=724840
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Acqua in Gabbia" tvg-logo="https://image.tmdb.org/t/p/original/yyQLW6pBTHgtJLpCcfbhBPw4on8.jpg",Acqua in Gabbia (2021)
 [[SERVER_URL]]/play.php?movieId=1008344
@@ -40682,17 +42119,8 @@
 #EXTINF:-1 group-title="Mistero" tvg-id="Il volo della sirena" tvg-logo="https://image.tmdb.org/t/p/original/h11cEwEA60M1TYnylDi6k1Rc6b2.jpg",Il volo della sirena (2023)
 [[SERVER_URL]]/play.php?movieId=1335082
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Mind" tvg-logo="https://image.tmdb.org/t/p/original/spAyxp9qbmTIwAlP8aprskHg9uA.jpg",Mind (2018)
-[[SERVER_URL]]/play.php?movieId=833014
-
 #EXTINF:-1 group-title="Mistero" tvg-id="The sky above my head" tvg-logo="https://image.tmdb.org/t/p/original/dWBGiDc70gse6IWhDZ6AfxsutnD.jpg",The sky above my head (2025)
 [[SERVER_URL]]/play.php?movieId=1440466
-
-#EXTINF:-1 group-title="Mistero" tvg-id="L'unica certezza" tvg-logo="https://image.tmdb.org/t/p/original/ty2eCsez64i881SaGVaAxB7G9de.jpg",L'unica certezza (2016)
-[[SERVER_URL]]/play.php?movieId=1416967
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Il Giardino" tvg-logo="https://image.tmdb.org/t/p/original/jkxSa4JaxUSsY0Rj3CcTcyiGWBY.jpg",Il Giardino (2025)
-[[SERVER_URL]]/play.php?movieId=1451896
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Regression" tvg-logo="https://image.tmdb.org/t/p/original/xZvpXcBe06M1xPzW6f7y3LCylHu.jpg",Regression (2018)
 [[SERVER_URL]]/play.php?movieId=1539499
@@ -40706,9 +42134,6 @@
 #EXTINF:-1 group-title="Mistero" tvg-id="Immagine Vacua" tvg-logo="https://image.tmdb.org/t/p/original/A0hxvzmYxsKn0UjcEl8Gmfuj1lk.jpg",Immagine Vacua (2025)
 [[SERVER_URL]]/play.php?movieId=1533708
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Il Sogno di Adelchi" tvg-logo="https://image.tmdb.org/t/p/original/iomI308t0z1ZnHz2uyHBcTz119h.jpg",Il Sogno di Adelchi (2023)
-[[SERVER_URL]]/play.php?movieId=1411634
-
 #EXTINF:-1 group-title="Mistero" tvg-id="Oneiros" tvg-logo="https://image.tmdb.org/t/p/original/py0k2pE8J3g0OL8bbFONvKfJUzX.jpg",Oneiros (2024)
 [[SERVER_URL]]/play.php?movieId=1202177
 
@@ -40717,9 +42142,6 @@
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Apri gli occhi" tvg-logo="https://image.tmdb.org/t/p/original/52WvJf2EFVgVZT7UVASGyBMK1AY.jpg",Apri gli occhi (2024)
 [[SERVER_URL]]/play.php?movieId=1253959
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Variazioni, Opera Ultima" tvg-logo="https://image.tmdb.org/t/p/original/rJ2HNJv2VLmLp5f0u9um4YVW8sA.jpg",Variazioni, Opera Ultima (2023)
-[[SERVER_URL]]/play.php?movieId=1246343
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Gin, Martini e Bollicine" tvg-logo="https://image.tmdb.org/t/p/original/2cKZtX7vLLotUxNrywuH4q9UgwI.jpg",Gin, Martini e Bollicine (2021)
 [[SERVER_URL]]/play.php?movieId=1008370
@@ -40730,20 +42152,11 @@
 #EXTINF:-1 group-title="Mistero" tvg-id="Italian Brothers" tvg-logo="https://image.tmdb.org/t/p/original/6xyOw4281vJiT0Dc4gbqWk0t3k0.jpg",Italian Brothers (2022)
 [[SERVER_URL]]/play.php?movieId=1486193
 
-#EXTINF:-1 group-title="Mistero" tvg-id="La Fine di una Storia" tvg-logo="https://image.tmdb.org/t/p/original/t6IQ2kX5GcXdZfJCoRXLhIBrGaG.jpg",La Fine di una Storia (2024)
-[[SERVER_URL]]/play.php?movieId=1371553
-
 #EXTINF:-1 group-title="Mistero" tvg-id="N.S.S." tvg-logo="https://image.tmdb.org/t/p/original/bcE2fFoa9cnKWla9OmgTKYGkuAU.jpg",N.S.S. (2021)
 [[SERVER_URL]]/play.php?movieId=1355448
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Kojimaro" tvg-logo="https://image.tmdb.org/t/p/original/vQSNvkanU7BVdGGZMbfYdmm0i05.jpg",Kojimaro (2024)
-[[SERVER_URL]]/play.php?movieId=1295653
-
 #EXTINF:-1 group-title="Mistero" tvg-id="Only Deads" tvg-logo="https://image.tmdb.org/t/p/original/6M41adJka8gTii1hx0RcnO2a3Wm.jpg",Only Deads (2021)
 [[SERVER_URL]]/play.php?movieId=893012
-
-#EXTINF:-1 group-title="Mistero" tvg-id="Minus Magis" tvg-logo="https://image.tmdb.org/t/p/original/42hjZq0UPT0HxipdXPYturnvJWR.jpg",Minus Magis (2025)
-[[SERVER_URL]]/play.php?movieId=1508780
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Metamorfosi/Repurpose" tvg-logo="https://image.tmdb.org/t/p/original/facxUfSSwQQhgqZMJCvo548eZMx.jpg",Metamorfosi/Repurpose (2021)
 [[SERVER_URL]]/play.php?movieId=1386604
@@ -40751,8 +42164,8 @@
 #EXTINF:-1 group-title="Mistero" tvg-id="Alice nel buio" tvg-logo="https://image.tmdb.org/t/p/original/2DgR4nmkJJLsplBOOaiX3y9YErO.jpg",Alice nel buio (2019)
 [[SERVER_URL]]/play.php?movieId=1335142
 
-#EXTINF:-1 group-title="Mistero" tvg-id="Il passante" tvg-logo="https://image.tmdb.org/t/p/original/4JLsnbMbe9mqhq8EkpJhdEEZx6n.jpg",Il passante (2022)
-[[SERVER_URL]]/play.php?movieId=1322406
+#EXTINF:-1 group-title="Romance" tvg-id="La iena" tvg-logo="https://image.tmdb.org/t/p/original/5hCB0HWa7p7yjFgYh8j6hQ9vrBV.jpg",La iena (1997)
+[[SERVER_URL]]/play.php?movieId=275458
 
 #EXTINF:-1 group-title="Romance" tvg-id="Ti amo troppo per dirtelo" tvg-logo="https://image.tmdb.org/t/p/original/lxFdYwXViBITPn6T6KRYQKJuHGr.jpg",Ti amo troppo per dirtelo (2014)
 [[SERVER_URL]]/play.php?movieId=267961
@@ -40898,9 +42311,6 @@
 #EXTINF:-1 group-title="Romance" tvg-id="Kismet" tvg-logo="https://image.tmdb.org/t/p/original/9DfgGxnLT7fSMOK3h7v58FfdqUX.jpg",Kismet (2018)
 [[SERVER_URL]]/play.php?movieId=607403
 
-#EXTINF:-1 group-title="Romance" tvg-id="Camilla" tvg-logo="https://image.tmdb.org/t/p/original/aqaw9jdEfx902VYhxvmnu0zhZMF.jpg",Camilla (2024)
-[[SERVER_URL]]/play.php?movieId=1302332
-
 #EXTINF:-1 group-title="Romance" tvg-id="Lucky Heart" tvg-logo="https://image.tmdb.org/t/p/original/wY7F848WUKIwRERaXwW1mAj3mCy.jpg",Lucky Heart (2024)
 [[SERVER_URL]]/play.php?movieId=1316748
 
@@ -40910,74 +42320,17 @@
 #EXTINF:-1 group-title="Romance" tvg-id="Tra le dita" tvg-logo="https://image.tmdb.org/t/p/original/lISNwrB33xMNi9LMfkivrbNoZ1d.jpg",Tra le dita (2016)
 [[SERVER_URL]]/play.php?movieId=775783
 
-#EXTINF:-1 group-title="Romance" tvg-id="Frammenti" tvg-logo="https://image.tmdb.org/t/p/original/9Gtfm59qTULQampgl9zsnRSY0or.jpg",Frammenti (2019)
-[[SERVER_URL]]/play.php?movieId=613028
-
-#EXTINF:-1 group-title="Romance" tvg-id="Acqua che scorre non porta veleno" tvg-logo="https://image.tmdb.org/t/p/original/ubMTgwAqCD9AA73eAQ6AbseGcGS.jpg",Acqua che scorre non porta veleno (2021)
-[[SERVER_URL]]/play.php?movieId=961670
-
-#EXTINF:-1 group-title="Romance" tvg-id="I gemelli" tvg-logo="https://image.tmdb.org/t/p/original/4SGMPxTRwrJAY1qA9le4i1RV5F1.jpg",I gemelli (2020)
-[[SERVER_URL]]/play.php?movieId=1033056
-
-#EXTINF:-1 group-title="Romance" tvg-id="Verso Mare" tvg-logo="https://image.tmdb.org/t/p/original/9V2REHNnRHhktj3l1nlKEz6QY8e.jpg",Verso Mare (2024)
-[[SERVER_URL]]/play.php?movieId=1464439
-
-#EXTINF:-1 group-title="Romance" tvg-id="Due respiri" tvg-logo="https://image.tmdb.org/t/p/original/rnWi1kw3RXUuYdHNYDd2vbsqzth.jpg",Due respiri (2023)
-[[SERVER_URL]]/play.php?movieId=1370294
-
-#EXTINF:-1 group-title="Romance" tvg-id="Voce lacrimante" tvg-logo="https://image.tmdb.org/t/p/original/5QQPGcD5m79vZKjT85Z6oBRM8kc.jpg",Voce lacrimante (2024)
-[[SERVER_URL]]/play.php?movieId=1245287
-
-#EXTINF:-1 group-title="Romance" tvg-id="Il modo tuo d'amare" tvg-logo="https://image.tmdb.org/t/p/original/bFR1uuuDnYIykyHIcCeXiqg4eg7.jpg",Il modo tuo d'amare (2023)
-[[SERVER_URL]]/play.php?movieId=1201566
-
 #EXTINF:-1 group-title="Romance" tvg-id="EDEN" tvg-logo="https://image.tmdb.org/t/p/original/zMfSibYzXK07iCrsH8MusKJQ9pK.jpg",EDEN (2025)
 [[SERVER_URL]]/play.php?movieId=1483335
 
-#EXTINF:-1 group-title="Romance" tvg-id="Deux égarés sont morts" tvg-logo="https://image.tmdb.org/t/p/original/jyDAVM1WliFxfZBo1umwQaMU9Li.jpg",Deux égarés sont morts (2017)
-[[SERVER_URL]]/play.php?movieId=530405
-
-#EXTINF:-1 group-title="Romance" tvg-id="Fatta male" tvg-logo="https://image.tmdb.org/t/p/original/nFcOR5OyjSV717Zoa52RFm1h1Z9.jpg",Fatta male (2020)
-[[SERVER_URL]]/play.php?movieId=685240
-
-#EXTINF:-1 group-title="Romance" tvg-id="Foglie D'Autunno" tvg-logo="https://image.tmdb.org/t/p/original/mzpBYyllrcjGHeYuEp3ZHe6Whft.jpg",Foglie D'Autunno (2023)
-[[SERVER_URL]]/play.php?movieId=1249017
-
 #EXTINF:-1 group-title="Romance" tvg-id="Love in Central Park" tvg-logo="https://image.tmdb.org/t/p/original/867WDqYHqRlKZrJ0cHGlWOBAT14.jpg",Love in Central Park (2010)
 [[SERVER_URL]]/play.php?movieId=965262
-
-#EXTINF:-1 group-title="Romance" tvg-id="Metamorfosi della Materia" tvg-logo="https://image.tmdb.org/t/p/original/fHdNJDff9gcmJi2ExPg7hx9BBuj.jpg",Metamorfosi della Materia (2021)
-[[SERVER_URL]]/play.php?movieId=1008340
-
-#EXTINF:-1 group-title="Romance" tvg-id="Quello che ci resta" tvg-logo="https://image.tmdb.org/t/p/original/68kqKRqZZEb6j5vUtzYROmDi2Sx.jpg",Quello che ci resta (2022)
-[[SERVER_URL]]/play.php?movieId=979349
-
-#EXTINF:-1 group-title="Romance" tvg-id="Phantom Touch" tvg-logo="https://image.tmdb.org/t/p/original/uWC3Eyz0XfLY778Jfc5EIOHk8LN.jpg",Phantom Touch (2024)
-[[SERVER_URL]]/play.php?movieId=1248547
-
-#EXTINF:-1 group-title="Romance" tvg-id="L'uomo che fotografò la donna più bella del mondo" tvg-logo="https://image.tmdb.org/t/p/original/6jARRTdUBDoqfYIVbInDI7PMpQg.jpg",L'uomo che fotografò la donna più bella del mondo (2024)
-[[SERVER_URL]]/play.php?movieId=1198144
-
-#EXTINF:-1 group-title="Romance" tvg-id="Dall'altro lato" tvg-logo="https://image.tmdb.org/t/p/original/bvU7wLyS7o8dC3FX26nQwGsJIla.jpg",Dall'altro lato (2022)
-[[SERVER_URL]]/play.php?movieId=1288408
-
-#EXTINF:-1 group-title="Romance" tvg-id="A Farewell to Arms." tvg-logo="https://image.tmdb.org/t/p/original/vkJbBkXRIXqQdQ7rrAp96y9y0l3.jpg",A Farewell to Arms. (2013)
-[[SERVER_URL]]/play.php?movieId=1441632
 
 #EXTINF:-1 group-title="Romance" tvg-id="Sale" tvg-logo="https://image.tmdb.org/t/p/original/loep3A4aa6RGYHgfKd7izdMqEal.jpg",Sale (2023)
 [[SERVER_URL]]/play.php?movieId=1407952
 
 #EXTINF:-1 group-title="Romance" tvg-id="lascia la porta aperta" tvg-logo="https://image.tmdb.org/t/p/original/cN49bkWwp6Q16169fohrFJtWsf2.jpg",lascia la porta aperta (2024)
 [[SERVER_URL]]/play.php?movieId=1370285
-
-#EXTINF:-1 group-title="Romance" tvg-id="Il Posto" tvg-logo="https://image.tmdb.org/t/p/original/4dcPXy1rS31OLGcL9FRvZBiWtQd.jpg",Il Posto (2024)
-[[SERVER_URL]]/play.php?movieId=1272820
-
-#EXTINF:-1 group-title="Romance" tvg-id="Illusione" tvg-logo="https://image.tmdb.org/t/p/original/r3xx63oOtUh6rs9CCs1tIAd4W1H.jpg",Illusione (2020)
-[[SERVER_URL]]/play.php?movieId=742973
-
-#EXTINF:-1 group-title="Romance" tvg-id="L'Eco" tvg-logo="https://image.tmdb.org/t/p/original/gyBstMhg0eCJ04hyySpfaAhNW3V.jpg",L'Eco (2025)
-[[SERVER_URL]]/play.php?movieId=1536974
 
 #EXTINF:-1 group-title="Romance" tvg-id="Camilla (lato A)" tvg-logo="https://image.tmdb.org/t/p/original/mmFPPh8ZloHh3rqxJsEKUnfavwh.jpg",Camilla (lato A) (2025)
 [[SERVER_URL]]/play.php?movieId=1501364
@@ -40987,15 +42340,6 @@
 
 #EXTINF:-1 group-title="Romance" tvg-id="Le Strade del Destino" tvg-logo="https://image.tmdb.org/t/p/original/jEmYOB8TKannlRiXYRjuaGHWutI.jpg",Le Strade del Destino (2024)
 [[SERVER_URL]]/play.php?movieId=1306183
-
-#EXTINF:-1 group-title="Romance" tvg-id="Come un giorno di pioggia per una rosa di Gerico" tvg-logo="https://image.tmdb.org/t/p/original/d3Fj6g33k06u4uL1b5Iif1tUWUA.jpg",Come un giorno di pioggia per una rosa di Gerico (2021)
-[[SERVER_URL]]/play.php?movieId=852798
-
-#EXTINF:-1 group-title="Romance" tvg-id="Il fungo sirena" tvg-logo="https://image.tmdb.org/t/p/original/monnIKzuxN1OtV6qiorkHCGSGs.jpg",Il fungo sirena (2010)
-[[SERVER_URL]]/play.php?movieId=381596
-
-#EXTINF:-1 group-title="Romance" tvg-id="DAMNATIO MEMORIAE" tvg-logo="https://image.tmdb.org/t/p/original/4MX4OA1msZRcLpFMeJlb5PZKJdj.jpg",DAMNATIO MEMORIAE (2025)
-[[SERVER_URL]]/play.php?movieId=1506933
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="La terra dei figli" tvg-logo="https://image.tmdb.org/t/p/original/wD1mZ6PggwNLPFzjKbUYKQXE8uQ.jpg",La terra dei figli (2021)
 [[SERVER_URL]]/play.php?movieId=660205
@@ -41141,9 +42485,6 @@
 #EXTINF:-1 group-title="Fantascienza" tvg-id="El Duelo Weird" tvg-logo="https://image.tmdb.org/t/p/original/vyF1xwtORkyozgVuypCJzPjOkga.jpg",El Duelo Weird (2017)
 [[SERVER_URL]]/play.php?movieId=621175
 
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Friend Box" tvg-logo="https://image.tmdb.org/t/p/original/oVYjrnsTKVcf3NgI5NPu33TdQuB.jpg",Friend Box (2018)
-[[SERVER_URL]]/play.php?movieId=1079370
-
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Blocked" tvg-logo="https://image.tmdb.org/t/p/original/114m4c5cpv0ZHansip9MwsnwRRD.jpg",Blocked (2018)
 [[SERVER_URL]]/play.php?movieId=1173018
 
@@ -41159,32 +42500,17 @@
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Il Sole Nero" tvg-logo="https://image.tmdb.org/t/p/original/a95qVGzKcT0HptpOuXTSVnXjGAF.jpg",Il Sole Nero (2021)
 [[SERVER_URL]]/play.php?movieId=933204
 
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Cento ore" tvg-logo="https://image.tmdb.org/t/p/original/huhu1z0abRnspnMQE5jYxUCYgen.jpg",Cento ore (2020)
-[[SERVER_URL]]/play.php?movieId=684872
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="GLITCH" tvg-logo="https://image.tmdb.org/t/p/original/cd8ZeqQzz55pdkLKwsw2UYEU8pH.jpg",GLITCH (2024)
-[[SERVER_URL]]/play.php?movieId=1378790
-
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Cacciatori d'uranio" tvg-logo="https://image.tmdb.org/t/p/original/7a390NsBo7v20fThI3mFmW5LeNn.jpg",Cacciatori d'uranio (2025)
 [[SERVER_URL]]/play.php?movieId=1553593
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="L'ultimo sole della notte" tvg-logo="https://image.tmdb.org/t/p/original/iFAZT1nUJbLbcSVwhOvELquobU6.jpg",L'ultimo sole della notte (2016)
 [[SERVER_URL]]/play.php?movieId=689080
 
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Apocalypse" tvg-logo="https://image.tmdb.org/t/p/original/zNYmFwNpcHs1AVffRahJeqTCcNj.jpg",Apocalypse (2019)
-[[SERVER_URL]]/play.php?movieId=708282
-
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Dinni e la Normalina, ovvero la Videopolizia Psichiatrica contro i sedicenti Gruppi di Follia Militante" tvg-logo="https://image.tmdb.org/t/p/original/7OzPuiR1rEoEt3QY5zD2828TopZ.jpg",Dinni e la Normalina, ovvero la Videopolizia Psichiatrica contro i sedicenti Gruppi di Follia Militante (1978)
 [[SERVER_URL]]/play.php?movieId=502353
 
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Effetto Personale" tvg-logo="https://image.tmdb.org/t/p/original/bsXMTcGIZzBiQHE84n3AMTzJIPP.jpg",Effetto Personale (2024)
-[[SERVER_URL]]/play.php?movieId=1234362
-
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Strings" tvg-logo="https://image.tmdb.org/t/p/original/JSCR7q3eXQJfSm8cXBUmn1iGTj.jpg",Strings (2015)
 [[SERVER_URL]]/play.php?movieId=1125200
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Colpi di Synth Lunari" tvg-logo="https://image.tmdb.org/t/p/original/eYTOAcbrexwxiNBkkSOAyGqKr9R.jpg",Colpi di Synth Lunari (2019)
-[[SERVER_URL]]/play.php?movieId=658566
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Futurus - Robot contro uomini" tvg-logo="https://image.tmdb.org/t/p/original/oQH0YqhPybTQqRPstLu4YkGGQ7N.jpg",Futurus - Robot contro uomini (2019)
 [[SERVER_URL]]/play.php?movieId=1483371
@@ -41194,12 +42520,6 @@
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Una via fredda per l'inferno" tvg-logo="https://image.tmdb.org/t/p/original/aSqhKrEOOiSdNDTqD0ucRDReBe1.jpg",Una via fredda per l'inferno (2024)
 [[SERVER_URL]]/play.php?movieId=1362639
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="ResoNumero0051" tvg-logo="https://image.tmdb.org/t/p/original/cjd47qSzvsM1SaUElZcWkKVePkY.jpg",ResoNumero0051 (2023)
-[[SERVER_URL]]/play.php?movieId=1194694
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Nura" tvg-logo="https://image.tmdb.org/t/p/original/74lysUPRlGr7gtxwnl5OM26uGBa.jpg",Nura (2025)
-[[SERVER_URL]]/play.php?movieId=1555360
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Even Tide" tvg-logo="https://image.tmdb.org/t/p/original/eVLUXSwKzX1fm3cmTvt3XqD4t5l.jpg",Even Tide (2024)
 [[SERVER_URL]]/play.php?movieId=1360997
@@ -41212,12 +42532,6 @@
 
 #EXTINF:-1 group-title="Fantascienza" tvg-id="Cracolice" tvg-logo="https://image.tmdb.org/t/p/original/nurBGJCVdvDb8qvAC3zuHyonVlb.jpg",Cracolice (2020)
 [[SERVER_URL]]/play.php?movieId=1023684
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Olivia" tvg-logo="https://image.tmdb.org/t/p/original/1mdbXcAoVmWnxo5RsT6eb8SviXu.jpg",Olivia (2016)
-[[SERVER_URL]]/play.php?movieId=622839
-
-#EXTINF:-1 group-title="Fantascienza" tvg-id="Gagarin, Mi Mancherai" tvg-logo="https://image.tmdb.org/t/p/original/1hKmisLeDIfLCzXxKoERIBNLBi2.jpg",Gagarin, Mi Mancherai (2018)
-[[SERVER_URL]]/play.php?movieId=546409
 
 #EXTINF:-1 group-title="televisione film" tvg-id="Anita Garibaldi" tvg-logo="https://image.tmdb.org/t/p/original/eQaGNMXYfy5gtXTJNIepjlkZaiG.jpg",Anita Garibaldi (2012)
 [[SERVER_URL]]/play.php?movieId=601332
@@ -41314,9 +42628,6 @@
 
 #EXTINF:-1 group-title="televisione film" tvg-id="Le parole a venire" tvg-logo="https://image.tmdb.org/t/p/original/wMHhMMpHJaiDKtBUwHnnMesZlYO.jpg",Le parole a venire (1970)
 [[SERVER_URL]]/play.php?movieId=569949
-
-#EXTINF:-1 group-title="televisione film" tvg-id="Le cinque stagioni" tvg-logo="https://image.tmdb.org/t/p/original/aH6nppp8vEbvbpmgvuS6Dez1CLq.jpg",Le cinque stagioni (1976)
-[[SERVER_URL]]/play.php?movieId=502330
 
 #EXTINF:-1 group-title="televisione film" tvg-id="In-vulnerabilità d'Achille (tra Sciro e Ilio)" tvg-logo="https://image.tmdb.org/t/p/original/k1U2QZ6hH0I7H3g22ZDQ0OkF3NT.jpg",In-vulnerabilità d'Achille (tra Sciro e Ilio) (1997)
 [[SERVER_URL]]/play.php?movieId=570387
@@ -41759,83 +43070,20 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Scale" tvg-logo="https://image.tmdb.org/t/p/original/uaC9pjvKoYEBpIs05vHGtnV587l.jpg",Scale (2006)
 [[SERVER_URL]]/play.php?movieId=1131035
 
-#EXTINF:-1 group-title="Thriller" tvg-id="BREAKDOWN" tvg-logo="https://image.tmdb.org/t/p/original/tiEjz0BblUYfWL5tbBmI06jX6sA.jpg",BREAKDOWN (2024)
-[[SERVER_URL]]/play.php?movieId=1388875
-
-#EXTINF:-1 group-title="Thriller" tvg-id="INSIDE" tvg-logo="https://image.tmdb.org/t/p/original/puraJjtdloMqYG195Z9GrLxc18y.jpg",INSIDE (2021)
-[[SERVER_URL]]/play.php?movieId=1087081
-
 #EXTINF:-1 group-title="Thriller" tvg-id="Metamorfosi dell'essere" tvg-logo="https://image.tmdb.org/t/p/original/yuW5SKYg1ACYTdyCy4dp9fZpw5A.jpg",Metamorfosi dell'essere (2024)
 [[SERVER_URL]]/play.php?movieId=1299462
-
-#EXTINF:-1 group-title="Thriller" tvg-id="TIC TAC" tvg-logo="https://image.tmdb.org/t/p/original/3Zaidkz9WfOCWPjmIX2DCVIJZME.jpg",TIC TAC (2025)
-[[SERVER_URL]]/play.php?movieId=1506463
-
-#EXTINF:-1 group-title="Thriller" tvg-id="È solo una storia" tvg-logo="https://image.tmdb.org/t/p/original/q5pqE7DGimdOavmhsCNYRhNkxTE.jpg",È solo una storia (2019)
-[[SERVER_URL]]/play.php?movieId=1053242
-
-#EXTINF:-1 group-title="Thriller" tvg-id="The Anomalisa Effect" tvg-logo="https://image.tmdb.org/t/p/original/heTXDkgGjYDz3lCVS7dmBlW1L9i.jpg",The Anomalisa Effect (2024)
-[[SERVER_URL]]/play.php?movieId=1247062
 
 #EXTINF:-1 group-title="Thriller" tvg-id="L'autostop" tvg-logo="https://image.tmdb.org/t/p/original/iHKddKKkVJrPa6MgEbKPYdwKTPC.jpg",L'autostop (2017)
 [[SERVER_URL]]/play.php?movieId=580313
 
-#EXTINF:-1 group-title="Thriller" tvg-id="Questione di Sguardi" tvg-logo="https://image.tmdb.org/t/p/original/dDg6eGttUqwsrDJEfgGiKkP4gMj.jpg",Questione di Sguardi (2014)
-[[SERVER_URL]]/play.php?movieId=360358
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Focus" tvg-logo="https://image.tmdb.org/t/p/original/1Py4d8ZbAUvsI8BjS4SxzLope2o.jpg",Focus (2022)
-[[SERVER_URL]]/play.php?movieId=1004179
-
-#EXTINF:-1 group-title="Thriller" tvg-id="La brava gente" tvg-logo="https://image.tmdb.org/t/p/original/ujnHPXxDlsa1A4A2w0RK6uqvlS7.jpg",La brava gente (2024)
-[[SERVER_URL]]/play.php?movieId=1247117
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Mare mosso" tvg-logo="https://image.tmdb.org/t/p/original/uxPkrVqvq5hTkItgLqVwuoSjk9i.jpg",Mare mosso (2017)
-[[SERVER_URL]]/play.php?movieId=541442
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Dalia" tvg-logo="https://image.tmdb.org/t/p/original/aUMdWnVbVJFJLmJZwjgcIusduJC.jpg",Dalia (2022)
-[[SERVER_URL]]/play.php?movieId=1407967
-
 #EXTINF:-1 group-title="Thriller" tvg-id="Last Beach" tvg-logo="https://image.tmdb.org/t/p/original/h8fkZk59l7oXENTs2O3D89SUsVx.jpg",Last Beach (2025)
 [[SERVER_URL]]/play.php?movieId=1478760
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Ingressi" tvg-logo="https://image.tmdb.org/t/p/original/muCVVgf7aTOTSLZxEPdsjsjOs8P.jpg",Ingressi (2023)
-[[SERVER_URL]]/play.php?movieId=1268007
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Una Fortuna da Re" tvg-logo="https://image.tmdb.org/t/p/original/xAjjJ3bWpXmO2bPo6jajCP5GW2V.jpg",Una Fortuna da Re (2023)
-[[SERVER_URL]]/play.php?movieId=1424022
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Come in certi romanzi russi" tvg-logo="https://image.tmdb.org/t/p/original/8y9cbYivUT77XTQBS3QwSHFF2z8.jpg",Come in certi romanzi russi (2019)
-[[SERVER_URL]]/play.php?movieId=707304
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Il caso Salice" tvg-logo="https://image.tmdb.org/t/p/original/615xSuvOLR6Q0lQwZTXyAekAhQJ.jpg",Il caso Salice (2020)
-[[SERVER_URL]]/play.php?movieId=804455
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Negli occhi della preda" tvg-logo="https://image.tmdb.org/t/p/original/tBjV9Fp41AyV2LE1CVEVHZ3MZKL.jpg",Negli occhi della preda (2022)
 [[SERVER_URL]]/play.php?movieId=1226235
 
-#EXTINF:-1 group-title="Thriller" tvg-id="Ratti" tvg-logo="https://image.tmdb.org/t/p/original/nIInWV5nYtlzIrwnkiXKvGUoLlp.jpg",Ratti (2020)
-[[SERVER_URL]]/play.php?movieId=708959
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Valvonauta" tvg-logo="https://image.tmdb.org/t/p/original/gGzHZvIC8BJXoD5pcfRAndnKFEt.jpg",Valvonauta (2021)
-[[SERVER_URL]]/play.php?movieId=656616
-
-#EXTINF:-1 group-title="Thriller" tvg-id="no/me" tvg-logo="https://image.tmdb.org/t/p/original/23GRektXk6TUcSjotvB1qj7TC3O.jpg",no/me (2025)
-[[SERVER_URL]]/play.php?movieId=1455799
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Io Forse Ora Sono" tvg-logo="https://image.tmdb.org/t/p/original/7MXC3HiQYqdrP3jbmrKuP0z94nz.jpg",Io Forse Ora Sono (2024)
-[[SERVER_URL]]/play.php?movieId=1356461
-
-#EXTINF:-1 group-title="Thriller" tvg-id="2 Minuti" tvg-logo="https://image.tmdb.org/t/p/original/fRa3L5uqth5W3FkWdcu72XPPv0y.jpg",2 Minuti (2025)
-[[SERVER_URL]]/play.php?movieId=1532159
-
 #EXTINF:-1 group-title="Thriller" tvg-id="Ciliegini" tvg-logo="https://image.tmdb.org/t/p/original/aOPs0YAAssJv1P9zxEwHEvk4Wkg.jpg",Ciliegini (2024)
 [[SERVER_URL]]/play.php?movieId=1295098
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Nessun Matto" tvg-logo="https://image.tmdb.org/t/p/original/pVAyEmJbU0xRpkPJfyYKKzAEKgM.jpg",Nessun Matto (2025)
-[[SERVER_URL]]/play.php?movieId=1517448
-
-#EXTINF:-1 group-title="Thriller" tvg-id="La via della carne" tvg-logo="https://image.tmdb.org/t/p/original/y7nxEpJ6lYL9rLFObDntNMpNMqz.jpg",La via della carne (2023)
-[[SERVER_URL]]/play.php?movieId=1232339
 
 #EXTINF:-1 group-title="Thriller" tvg-id="La Val che Urla" tvg-logo="https://image.tmdb.org/t/p/original/ui6EvZnQmJzhiD8qIYepIFPuGtf.jpg",La Val che Urla (2019)
 [[SERVER_URL]]/play.php?movieId=756296
@@ -41843,17 +43091,8 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Bandidos e Balentes: Il codice non scritto" tvg-logo="https://image.tmdb.org/t/p/original/nlP6Zkk4n2635EPlUV32lktFru6.jpg",Bandidos e Balentes: Il codice non scritto (2017)
 [[SERVER_URL]]/play.php?movieId=442879
 
-#EXTINF:-1 group-title="Thriller" tvg-id="FIDELITAS" tvg-logo="https://image.tmdb.org/t/p/original/kq0nRFyqjjAt2XRmkIAy8Qlyaq4.jpg",FIDELITAS (2024)
-[[SERVER_URL]]/play.php?movieId=1458145
-
 #EXTINF:-1 group-title="Thriller" tvg-id="Oltre il Destino" tvg-logo="https://image.tmdb.org/t/p/original/nj2NJdZ2n5Cy1MJPfxKsCrsFICM.jpg",Oltre il Destino (1997)
 [[SERVER_URL]]/play.php?movieId=1413677
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Finché morte non ci separi" tvg-logo="https://image.tmdb.org/t/p/original/6LXpQBKbNWSNUXKpYI8vlzgn4ML.jpg",Finché morte non ci separi (2024)
-[[SERVER_URL]]/play.php?movieId=1296487
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Sensi di colpa" tvg-logo="https://image.tmdb.org/t/p/original/gxQwknjqSB6PNafigvl5Tfmt0td.jpg",Sensi di colpa (2023)
-[[SERVER_URL]]/play.php?movieId=1204919
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Tenebra - Questa è la mia vendetta" tvg-logo="https://image.tmdb.org/t/p/original/l73XsbgoDkGzWTjW7RreRSAfG5p.jpg",Tenebra - Questa è la mia vendetta (2022)
 [[SERVER_URL]]/play.php?movieId=1089258
@@ -41864,9 +43103,6 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Il Male Necessario" tvg-logo="https://image.tmdb.org/t/p/original/emqwa8VUMsvP68oZdFy3Wm5UuKE.jpg",Il Male Necessario (2018)
 [[SERVER_URL]]/play.php?movieId=1539684
 
-#EXTINF:-1 group-title="Thriller" tvg-id="Demons party alone so get the hell out of my room" tvg-logo="https://image.tmdb.org/t/p/original/jmI1oM7B5S8qgrm0fZhGH9SC9bK.jpg",Demons party alone so get the hell out of my room (2025)
-[[SERVER_URL]]/play.php?movieId=1429124
-
 #EXTINF:-1 group-title="Thriller" tvg-id="Killer" tvg-logo="https://image.tmdb.org/t/p/original/JX6YLkE4OrzKknjKa3vQFwQkrE.jpg",Killer (1996)
 [[SERVER_URL]]/play.php?movieId=1413674
 
@@ -41875,9 +43111,6 @@
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Weekend tra Amici" tvg-logo="https://image.tmdb.org/t/p/original/8kwRkviNerkLSA4aB0pVUOd0f2Q.jpg",Weekend tra Amici (2013)
 [[SERVER_URL]]/play.php?movieId=1360492
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Ambra" tvg-logo="https://image.tmdb.org/t/p/original/slxxmhoCoRqiyyFDz9Rkv58IMzD.jpg",Ambra (2016)
-[[SERVER_URL]]/play.php?movieId=623337
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Awaken" tvg-logo="https://image.tmdb.org/t/p/original/rOzmftJyaWFLQzLOcMwCwM75obx.jpg",Awaken (2023)
 [[SERVER_URL]]/play.php?movieId=1536718
@@ -41890,9 +43123,6 @@
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Omicidio al Cimitero" tvg-logo="https://image.tmdb.org/t/p/original/uh1N7YVcbIzm97ibX4d6xmO4SfD.jpg",Omicidio al Cimitero (2024)
 [[SERVER_URL]]/play.php?movieId=1362601
-
-#EXTINF:-1 group-title="Thriller" tvg-id="Nati per Rinascere" tvg-logo="https://image.tmdb.org/t/p/original/eb0ztlebsPN94I966e3XhD7RoFW.jpg",Nati per Rinascere (2024)
-[[SERVER_URL]]/play.php?movieId=1340363
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Rumine." tvg-logo="https://image.tmdb.org/t/p/original/lVKNvfqkABa66yElYqy5HckZ2fi.jpg",Rumine. (2023)
 [[SERVER_URL]]/play.php?movieId=1317976
@@ -41927,26 +43157,8 @@
 #EXTINF:-1 group-title="Guerra" tvg-id="Pistoia 1944 - Una storia partigiana" tvg-logo="https://image.tmdb.org/t/p/original/toycVPLQRMdRBV325wgT3vV22gp.jpg",Pistoia 1944 - Una storia partigiana (2019)
 [[SERVER_URL]]/play.php?movieId=926146
 
-#EXTINF:-1 group-title="Guerra" tvg-id="Chiusi alla luce" tvg-logo="https://image.tmdb.org/t/p/original/coMZIAoRiZtTLklTapZkbd1ChSy.jpg",Chiusi alla luce (2021)
-[[SERVER_URL]]/play.php?movieId=878140
-
 #EXTINF:-1 group-title="Guerra" tvg-id="Endless River" tvg-logo="https://image.tmdb.org/t/p/original/cpr1WRYtiVchaaxmLMZ8BSx64hl.jpg",Endless River (2021)
 [[SERVER_URL]]/play.php?movieId=1539129
-
-#EXTINF:-1 group-title="Guerra" tvg-id="Dear Brother" tvg-logo="https://image.tmdb.org/t/p/original/6HYu01yIjDFQNOtS5tFS8nRgAIZ.jpg",Dear Brother (2023)
-[[SERVER_URL]]/play.php?movieId=1194670
-
-#EXTINF:-1 group-title="Guerra" tvg-id="Renverse" tvg-logo="https://image.tmdb.org/t/p/original/woIJKrfws6uLui0AmqxHNiUQkyR.jpg",Renverse (2024)
-[[SERVER_URL]]/play.php?movieId=1554230
-
-#EXTINF:-1 group-title="Guerra" tvg-id="Il Crocevia" tvg-logo="https://image.tmdb.org/t/p/original/hF9PwhGWxZ2HZTLM8Ovo59dmIb9.jpg",Il Crocevia (2023)
-[[SERVER_URL]]/play.php?movieId=1291544
-
-#EXTINF:-1 group-title="Guerra" tvg-id="Gioia Ultima" tvg-logo="https://image.tmdb.org/t/p/original/qeNJ26yoATXpzm43Zpjv8nPw43C.jpg",Gioia Ultima (2024)
-[[SERVER_URL]]/play.php?movieId=1340365
-
-#EXTINF:-1 group-title="Guerra" tvg-id="Full Remorse Jacket" tvg-logo="https://image.tmdb.org/t/p/original/4ktQN3YFxIhNhQgkCESBEDiEgde.jpg",Full Remorse Jacket (2025)
-[[SERVER_URL]]/play.php?movieId=1426621
 
 #EXTINF:-1 group-title="Western" tvg-id="Era Sam Wallash!... lo chiamavano... E Così Sia" tvg-logo="https://image.tmdb.org/t/p/original/jcF9nrcqiuiAzHZi3qvR3nkNKa7.jpg",Era Sam Wallash!... lo chiamavano... E Così Sia (1971)
 [[SERVER_URL]]/play.php?movieId=150224
