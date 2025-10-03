@@ -16,7 +16,7 @@ if ($GLOBALS['DEBUG'] !== true) {
 //Set globals
 $apiKey = getenv('SECRET_API_KEY');
 $playVodUrl = "[[SERVER_URL]]/play.php";
-$totalPages = 300; // Added more pages due to strict filters.
+$totalPages = 500; // Added more pages due to strict filters.
 $minYear = 1970; // Skip older titles
 $minRuntime = 30; // In Minutes. Works with /discover only.
 $language = 'it-IT';
@@ -356,4 +356,5 @@ function isValidMovie($movie) {
     return $year >= $minYear;
 }
 ?>
+
 
