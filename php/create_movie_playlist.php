@@ -47,7 +47,8 @@ function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
 
     file_put_contents('playlist.json', json_encode($outputData));
 
-    return;
+    echo "Generazione completata. Trovati in totale $num film.<br>";
+	return;
 }
 
 // Function to fetch and handle errors for a URL
