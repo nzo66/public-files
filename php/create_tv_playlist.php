@@ -42,7 +42,8 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
     //Save the Json and M3U8 Data (commented out since its not good with tv series).
     //file_put_contents('tv_playlist.m3u8', $outputContent);
     file_put_contents('tv_playlist.json', json_encode($outputData));
-    return;
+    echo "Generazione completata. Trovate in totale $num serie TV.<br>";
+	return;
 }
 // Function to fetch and handle errors for a URL
 function fetchAndHandleErrors($url, $errorMessage)
