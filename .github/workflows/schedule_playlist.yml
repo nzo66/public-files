@@ -2,25 +2,24 @@ name: Run Playlist Script
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # At 00:00 (midnight) UTC
-  workflow_dispatch: # Manual trigger
+    - cron: '0 0 * * *'  # A mezzanotte UTC
+  workflow_dispatch: # Trigger manuale
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+      contents: write   # Serve per pushare i file
+      issues: write     # Se vuoi anche scrivere nelle issue
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.RUN_ACTIONS }}  # Use GITHUB_TOKEN for authentication
 
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: '7.4' # Specify your PHP version
+        php-version: '7.4'
 
     - name: Run Movie Playlist PHP script
       run: php php/create_movie_playlist.php
@@ -39,4 +38,4 @@ jobs:
         git add playlist.m3u8 playlist.json tv_playlist.json
         git commit -m "Update Playlists" || echo "No changes to Playlists"
         git pull --rebase origin main || true
-        git push https://x-access-token:${{ secrets.RUN_ACTIONS }}@github.com/nzo66/public-files.git
+        git push origin main
