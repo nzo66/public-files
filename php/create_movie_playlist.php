@@ -19,8 +19,8 @@ $playVodUrl = "[[SERVER_URL]]/play.php";
 $totalPages = 300; // Added more pages due to strict filters.
 $minYear = 1970; // Skip older titles
 $minRuntime = 30; // In Minutes. Works with /discover only.
-$language = 'en-US';
-$movies_with_origin_country = 'US';
+$language = 'it-IT';
+$movies_with_origin_country = 'IT';
 $num = 0;
 $outputData = [];
 $outputContent = "#EXTM3U\n";
@@ -356,3 +356,4 @@ function isValidMovie($movie) {
     return $year >= $minYear;
 }
 ?>
+
