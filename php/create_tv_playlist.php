@@ -33,14 +33,6 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
 
     if ($vixSeries !== null && is_array($vixSeries)) {
         $seriesIds = array_map(function($item) {
-            // Assicurati che tmdb_id sia un intero
-            return (int)$item['tmdb_id'];
-        }, $vixSeries);
-
-        // Rimuovi eventuali ID duplicati o non validi
-        $seriesIds = array_unique(array_filter($seriesIds));
-
-        $seriesIds = array_map(function($item) {
             return $item['tmdb_id'];
         }, $vixSeries);
 
@@ -54,12 +46,6 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
             }
         }
     }
-
-    // Aggiungi serie da TMDB: Popolari e Oggi in onda
-    echo "Recupero serie TV popolari da TMDB...<br>";
-    fetchFromTmdbEndpoint("tv/popular", $apiKey, $language, $totalPages, $playVodUrl);
-    echo "Recupero serie TV 'Oggi in onda' da TMDB...<br>";
-    fetchFromTmdbEndpoint("tv/on_the_air", $apiKey, $language, $totalPages, $playVodUrl);
 
     //Save the Json and M3U8 Data (commented out since its not good with tv series).
     //file_put_contents('tv_playlist.m3u8', $outputContent);
@@ -87,24 +73,6 @@ function fetchAndHandleErrors($url, $errorMessage)
         error_log($errorMessage . ' ' . $error->getMessage());
     }
     return null;
-}
-
-function fetchFromTmdbEndpoint($endpoint, $apiKey, $language, $totalPages, $playVodUrl)
-{
-    for ($page = 1; $page <= $totalPages; $page++) {
-        $url = "https://api.themoviedb.org/3/{$endpoint}?api_key={$apiKey}&language={$language}&page={$page}";
-        $data = fetchAndHandleErrors($url, "Request for {$endpoint} page {$page} failed.");
-
-        if ($data !== null && isset($data['results']) && is_array($data['results'])) {
-            foreach ($data['results'] as $series) {
-                processSeriesData($series, $playVodUrl);
-            }
-        } else {
-            // Se non ci sono risultati o si verifica un errore, interrompi il ciclo per questo endpoint
-            echo "Nessun altro risultato per {$endpoint} a pagina {$page}. Interruzione.<br>";
-            break;
-        }
-    }
 }
 
 function processSeriesData($show, $playVodUrl)
