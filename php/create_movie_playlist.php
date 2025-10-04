@@ -39,14 +39,6 @@ function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
 
     if ($vixMovies !== null && is_array($vixMovies)) {
         $movieIds = array_map(function($item) {
-            // Assicurati che tmdb_id sia un intero
-            return (int)$item['tmdb_id'];
-        }, $vixMovies);
-
-        // Rimuovi eventuali ID duplicati o non validi
-        $movieIds = array_unique(array_filter($movieIds));
-
-        $movieIds = array_map(function($item) {
             return $item['tmdb_id'];
         }, $vixMovies);
 
@@ -60,12 +52,6 @@ function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
             }
         }
     }
-
-    // Aggiungi film da TMDB: Popolari e Adesso in onda
-    echo "Recupero film popolari da TMDB...<br>";
-    fetchFromTmdbEndpoint("movie/popular", $apiKey, $language, $totalPages, $playVodUrl);
-    echo "Recupero film 'Adesso in onda' da TMDB...<br>";
-    fetchFromTmdbEndpoint("movie/now_playing", $apiKey, $language, $totalPages, $playVodUrl);
 
     //Save the Json and M3U8 Data
     file_put_contents('playlist.m3u8', $outputContent);
@@ -97,24 +83,6 @@ function fetchAndHandleErrors($url, $errorMessage)
         error_log($errorMessage . ' ' . $error->getMessage());
     }
     return null;
-}
-
-function fetchFromTmdbEndpoint($endpoint, $apiKey, $language, $totalPages, $playVodUrl)
-{
-    for ($page = 1; $page <= $totalPages; $page++) {
-        $url = "https://api.themoviedb.org/3/{$endpoint}?api_key={$apiKey}&language={$language}&page={$page}";
-        $data = fetchAndHandleErrors($url, "Request for {$endpoint} page {$page} failed.");
-
-        if ($data !== null && isset($data['results']) && is_array($data['results'])) {
-            foreach ($data['results'] as $movie) {
-                processMovieData($movie, $playVodUrl);
-            }
-        } else {
-            // Se non ci sono risultati o si verifica un errore, interrompi il ciclo per questo endpoint
-            echo "Nessun altro risultato per {$endpoint} a pagina {$page}. Interruzione.<br>";
-            break;
-        }
-    }
 }
 
 function processMovieData($movie, $playVodUrl) {
