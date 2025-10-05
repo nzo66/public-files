@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 group-title="Mistero" tvg-id="X-Files - Voglio crederci" tvg-logo="https://image.tmdb.org/t/p/original/jsvRgef9bXcu1gdRt2vhTcQMqyz.jpg",X-Files - Voglio crederci (2008)
+[[SERVER_URL]]/play.php?movieId=8836
+
+#EXTINF:-1 group-title="Documentario" tvg-id=""Sr."" tvg-logo="https://image.tmdb.org/t/p/original/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg","Sr." (2022)
+[[SERVER_URL]]/play.php?movieId=1013577
+
+#EXTINF:-1 group-title="Documentario" tvg-id="If These Walls Could Sing" tvg-logo="https://image.tmdb.org/t/p/original/pvyDU4uekUMtWlNXB5yugBtVjNH.jpg",If These Walls Could Sing (2022)
+[[SERVER_URL]]/play.php?movieId=926392
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Get Smart With Money: come gestire al meglio le tue finanze" tvg-logo="https://image.tmdb.org/t/p/original/uyfDg5RTdBUZ3kC5Ft43ZmXqhMr.jpg",Get Smart With Money: come gestire al meglio le tue finanze (2022)
+[[SERVER_URL]]/play.php?movieId=1011480
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Sheng Wang: Sweet and Juicy" tvg-logo="https://image.tmdb.org/t/p/original/2MztxUClBbU3LTkmtmamkBA0nVv.jpg",Sheng Wang: Sweet and Juicy (2022)
+[[SERVER_URL]]/play.php?movieId=1015999
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Louis Armstrong's Black & Blues" tvg-logo="https://image.tmdb.org/t/p/original/j7Bol8Tdm0S8GVNXgbQSOS5AVpD.jpg",Louis Armstrong's Black & Blues (2022)
+[[SERVER_URL]]/play.php?movieId=1014890
+
+#EXTINF:-1 group-title="Musica" tvg-id="BTS: PERMISSION TO DANCE 온 스테이지 – LA" tvg-logo="https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",BTS: PERMISSION TO DANCE 온 스테이지 – LA (2022)
+[[SERVER_URL]]/play.php?movieId=1022102
+
+#EXTINF:-1 group-title="Animazione" tvg-id="The Simpsons: Welcome to the Club" tvg-logo="https://image.tmdb.org/t/p/original/kxB9E6fo0ycHzd13oOTHmGa5Njd.jpg",The Simpsons: Welcome to the Club (2022)
+[[SERVER_URL]]/play.php?movieId=1015602
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Faro" tvg-logo="https://image.tmdb.org/t/p/original/dC1Pait6dMyNiquMq99XL5C1y8k.jpg",Faro (2013)
+[[SERVER_URL]]/play.php?movieId=158900
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Obi-Wan Kenobi: Il Ritorno di uno Jedi" tvg-logo="https://image.tmdb.org/t/p/original/cd6Vmtclxheg8GmaV19yPnTP7gA.jpg",Obi-Wan Kenobi: Il Ritorno di uno Jedi (2022)
+[[SERVER_URL]]/play.php?movieId=1015606
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Voli rischiosi" tvg-logo="https://image.tmdb.org/t/p/original/8G7MK4VEoGDmkM0kDsk20NV2OEM.jpg",Voli rischiosi (2022)
+[[SERVER_URL]]/play.php?movieId=1001869
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Elesin Oba: The King's Horseman" tvg-logo="https://image.tmdb.org/t/p/original/yZvYgbDGIZq8mM4vCBiaVVAdmsR.jpg",Elesin Oba: The King's Horseman (2022)
+[[SERVER_URL]]/play.php?movieId=1005774
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Sidney Poitier" tvg-logo="https://image.tmdb.org/t/p/original/n1x6xItnb0asWGySTYDFThk896E.jpg",Sidney Poitier (2022)
+[[SERVER_URL]]/play.php?movieId=961722
+
 #EXTINF:-1 group-title="televisione film" tvg-id="To Her, With Love" tvg-logo="https://image.tmdb.org/t/p/original/qALK7N770iCHLy6CCyYeOj1dXQU.jpg",To Her, With Love (2022)
 [[SERVER_URL]]/play.php?movieId=1006265
 
@@ -1973,6 +2012,9 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Un matrimonio senza fine" tvg-logo="https://image.tmdb.org/t/p/original/uvygZlicNXBIpklnLuAbgwkMMSL.jpg",Un matrimonio senza fine (2025)
 [[SERVER_URL]]/play.php?movieId=1318856
 
+#EXTINF:-1 group-title="Dramma" tvg-id="2 + 1 Girls" tvg-logo="https://image.tmdb.org/t/p/original/1dTXsEy42r8ThZ9uJUpayo8c6iX.jpg",2 + 1 Girls (2025)
+[[SERVER_URL]]/play.php?movieId=1510169
+
 #EXTINF:-1 group-title="Commedia" tvg-id="Sarah Silverman: PostMortem" tvg-logo="https://image.tmdb.org/t/p/original/hPBERJFecTqReSO0jqcfL6branG.jpg",Sarah Silverman: PostMortem (2025)
 [[SERVER_URL]]/play.php?movieId=1462313
 
@@ -2657,7 +2699,7 @@
 #EXTINF:-1 group-title="Crime" tvg-id="Hot Fuzz" tvg-logo="https://image.tmdb.org/t/p/original/xY1DI4NJGgwbP5dqjPHgQWB4Elb.jpg",Hot Fuzz (2007)
 [[SERVER_URL]]/play.php?movieId=4638
 
-#EXTINF:-1 group-title="Horror" tvg-id="Hell of a Summer - Un'estate infernale" tvg-logo="https://image.tmdb.org/t/p/original/fFedcUA5jJCdEBj1s5c10vuTCLV.jpg",Hell of a Summer - Un'estate infernale (2025)
+#EXTINF:-1 group-title="Horror" tvg-id="Hell of a Summer - Un'estate infernale" tvg-logo="https://image.tmdb.org/t/p/original/fFedcUA5jJCdEBj1s5c10vuTCLV.jpg",Hell of a Summer - Un'estate infernale (2023)
 [[SERVER_URL]]/play.php?movieId=999243
 
 #EXTINF:-1 group-title="Commedia" tvg-id="La seconda volta non si scorda mai" tvg-logo="https://image.tmdb.org/t/p/original/6YX5kVljRYxXfevi5iybvVZUm4J.jpg",La seconda volta non si scorda mai (2008)
@@ -7817,7 +7859,7 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="La coda del diavolo" tvg-logo="https://image.tmdb.org/t/p/original/lc59jGDtB8KVnsZk76C7RwZnWkJ.jpg",La coda del diavolo (2024)
 [[SERVER_URL]]/play.php?movieId=1250620
 
-#EXTINF:-1 group-title="Dramma" tvg-id="Fino alla fine" tvg-logo="https://image.tmdb.org/t/p/original/5D3sGi2QSB5Bo3PlKdxGXdkIyF2.jpg",Fino alla fine (2024)
+#EXTINF:-1 group-title="Dramma" tvg-id="Fino alla fine" tvg-logo="https://image.tmdb.org/t/p/original/1L19TuWkJVuR8LfjSNDwqgCpGKB.jpg",Fino alla fine (2024)
 [[SERVER_URL]]/play.php?movieId=1183761
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Night of the Flesh Eaters" tvg-logo="https://image.tmdb.org/t/p/original/qycKb2IEVlPZdKa1kcbG8pfT4gP.jpg",Night of the Flesh Eaters (2008)
@@ -14561,7 +14603,7 @@
 #EXTINF:-1 group-title="televisione film" tvg-id="La tavola di Natale" tvg-logo="https://image.tmdb.org/t/p/original/jeHCXKUjhebhyCsiK6N05Pi89HD.jpg",La tavola di Natale (2022)
 [[SERVER_URL]]/play.php?movieId=961769
 
-#EXTINF:-1 group-title="televisione film" tvg-id="Di ritorno per Natale" tvg-logo="https://image.tmdb.org/t/p/original/9qBQDIED8O8ehWODVt3s304KQlt.jpg",Di ritorno per Natale (2022)
+#EXTINF:-1 group-title="televisione film" tvg-id="Di ritorno per Natale" tvg-logo="https://image.tmdb.org/t/p/original/oGOkpap7V6oKA71Mkhx9fvQW9VG.jpg",Di ritorno per Natale (2022)
 [[SERVER_URL]]/play.php?movieId=971503
 
 #EXTINF:-1 group-title="televisione film" tvg-id="Il sapore del Natale" tvg-logo="https://image.tmdb.org/t/p/original/s61c72BglqWXhXSJCPTRt3kxqMM.jpg",Il sapore del Natale (2021)
