@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Azione" tvg-id="Free State of Jones" tvg-logo="https://image.tmdb.org/t/p/original/pKPMSVjeB6XcwxuVSBbh8BjRUH0.jpg",Free State of Jones (2016)
+[[SERVER_URL]]/play.php?movieId=316152
+
 #EXTINF:-1 group-title="Mistero" tvg-id="X-Files - Voglio crederci" tvg-logo="https://image.tmdb.org/t/p/original/jsvRgef9bXcu1gdRt2vhTcQMqyz.jpg",X-Files - Voglio crederci (2008)
 [[SERVER_URL]]/play.php?movieId=8836
+
+#EXTINF:-1 group-title="Dramma" tvg-id="It Comes at Night" tvg-logo="https://image.tmdb.org/t/p/original/ltHMYXyzU9LhrwaE4U7uQSsCUKF.jpg",It Comes at Night (2017)
+[[SERVER_URL]]/play.php?movieId=418078
 
 #EXTINF:-1 group-title="Documentario" tvg-id=""Sr."" tvg-logo="https://image.tmdb.org/t/p/original/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg","Sr." (2022)
 [[SERVER_URL]]/play.php?movieId=1013577
@@ -437,7 +443,7 @@
 #EXTINF:-1 group-title="Documentario" tvg-id="Big Mäck: I gangster e l'oro" tvg-logo="https://image.tmdb.org/t/p/original/hJ2HKplPdxK9syPDoErV5v8ZO16.jpg",Big Mäck: I gangster e l'oro (2023)
 [[SERVER_URL]]/play.php?movieId=1063239
 
-#EXTINF:-1 group-title="Documentario" tvg-id="STILL - La storia di Michael J. Fox" tvg-logo="https://image.tmdb.org/t/p/original/73ndfzG2rSOhl72e0EkMpXjf01y.jpg",STILL - La storia di Michael J. Fox (2023)
+#EXTINF:-1 group-title="Documentario" tvg-id="STILL: La storia di Michael J. Fox" tvg-logo="https://image.tmdb.org/t/p/original/73ndfzG2rSOhl72e0EkMpXjf01y.jpg",STILL: La storia di Michael J. Fox (2023)
 [[SERVER_URL]]/play.php?movieId=1058699
 
 #EXTINF:-1 group-title="Documentario" tvg-id="Respiro profondo" tvg-logo="https://image.tmdb.org/t/p/original/vAKti29hpw2UQ0F9Uon2t9G8JnU.jpg",Respiro profondo (2023)
@@ -1814,7 +1820,7 @@
 #EXTINF:-1 group-title="Documentario" tvg-id="The Back-breaking Leaf" tvg-logo="https://image.tmdb.org/t/p/original/1IEV16WdsF3KdhJvj0Tn32w6A0j.jpg",The Back-breaking Leaf (1959)
 [[SERVER_URL]]/play.php?movieId=279231
 
-#EXTINF:-1 group-title="Storia" tvg-id="Swiped" tvg-logo="https://image.tmdb.org/t/p/original/znxBfe14cefxx5Lu1tgNzggJagt.jpg",Swiped (2025)
+#EXTINF:-1 group-title="Storia" tvg-id="Swiped" tvg-logo="https://image.tmdb.org/t/p/original/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg",Swiped (2025)
 [[SERVER_URL]]/play.php?movieId=1265344
 
 #EXTINF:-1 group-title="Musica" tvg-id="Il Re Leone all’Hollywood Bowl" tvg-logo="https://image.tmdb.org/t/p/original/hI12OM8ZULF8g61s8k7iZZgH5UF.jpg",Il Re Leone all’Hollywood Bowl (2025)
@@ -2027,7 +2033,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Worst Case Scenario" tvg-logo="https://image.tmdb.org/t/p/original/frZh4zM2z64r646JJqaJygtB1Q9.jpg",Worst Case Scenario (2014)
 [[SERVER_URL]]/play.php?movieId=283776
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Lulu, la rinoceronte" tvg-logo="https://image.tmdb.org/t/p/original/1BICAevyQbHhMFNlUfG7WFmjxPl.jpg",Lulu, la rinoceronte (2025)
+#EXTINF:-1 group-title="Animazione" tvg-id="Lulu, la rinoceronte" tvg-logo="https://image.tmdb.org/t/p/original/ysaPZM8sFGWctnUQvZzAbQyiCl5.jpg",Lulu, la rinoceronte (2025)
 [[SERVER_URL]]/play.php?movieId=1465476
 
 #EXTINF:-1 group-title="Film" tvg-id="Netflix Tudum 2025" tvg-logo="https://image.tmdb.org/t/p/original/jTZ5yiFpJPc19lA6uoT9zafHr0f.jpg",Netflix Tudum 2025 (2025)
@@ -11060,7 +11066,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Matrimonio con sorpresa" tvg-logo="https://image.tmdb.org/t/p/original/tMZmtVsrcbwqddw9LiAPW1K6w5A.jpg",Matrimonio con sorpresa (2024)
 [[SERVER_URL]]/play.php?movieId=973912
 
-#EXTINF:-1 group-title="Romance" tvg-id="Fly Me to the Moon - Le due facce della Luna" tvg-logo="https://image.tmdb.org/t/p/original/5rrp5bJq1zPP1SdUhjt9w9y9AKp.jpg",Fly Me to the Moon - Le due facce della Luna (2024)
+#EXTINF:-1 group-title="Romance" tvg-id="Fly Me to the Moon - Le due facce della Luna" tvg-logo="https://image.tmdb.org/t/p/original/2N9AVh1dzBqg6pzRMUH14Vb9UiR.jpg",Fly Me to the Moon - Le due facce della Luna (2024)
 [[SERVER_URL]]/play.php?movieId=956842
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Politicamente scorretto" tvg-logo="https://image.tmdb.org/t/p/original/vPKmHmUA5CjLYoMpCLnrrV8svXS.jpg",Politicamente scorretto (2024)
@@ -12758,7 +12764,7 @@
 #EXTINF:-1 group-title="Thriller" tvg-id="Basic Instinct" tvg-logo="https://image.tmdb.org/t/p/original/oxbcOxrsvDxft6rk9GPn3F0czV2.jpg",Basic Instinct (1992)
 [[SERVER_URL]]/play.php?movieId=402
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Il bambino, la talpa, la volpe e il cavallo" tvg-logo="https://image.tmdb.org/t/p/original/vjZXKPBn48CmmDeJdjo9UFPsWwn.jpg",Il bambino, la talpa, la volpe e il cavallo (2022)
+#EXTINF:-1 group-title="Animazione" tvg-id="Il bambino, la talpa, la volpe e il cavallo" tvg-logo="https://image.tmdb.org/t/p/original/qm7VvyHVQ6SKICJQ2yZK1pyhWuj.jpg",Il bambino, la talpa, la volpe e il cavallo (2022)
 [[SERVER_URL]]/play.php?movieId=995133
 
 #EXTINF:-1 group-title="Animazione" tvg-id="Snoopy presenta: benvenuto, Franklin" tvg-logo="https://image.tmdb.org/t/p/original/zHcc8rhNiakvzBc3Qmy5C2wz8pe.jpg",Snoopy presenta: benvenuto, Franklin (2024)
@@ -14216,7 +14222,7 @@
 #EXTINF:-1 group-title="Guerra" tvg-id="The Ambush" tvg-logo="https://image.tmdb.org/t/p/original/66YilIOkU9X3yQ9MzGgsFtA7XXL.jpg",The Ambush (2021)
 [[SERVER_URL]]/play.php?movieId=884452
 
-#EXTINF:-1 group-title="Storia" tvg-id="Ferrari" tvg-logo="https://image.tmdb.org/t/p/original/a3HvZHhXt2NdTlMUT7p5LPoHGZp.jpg",Ferrari (2023)
+#EXTINF:-1 group-title="Storia" tvg-id="Ferrari" tvg-logo="https://image.tmdb.org/t/p/original/xnquC6Cn5BRBMz68231gIjXlbhj.jpg",Ferrari (2023)
 [[SERVER_URL]]/play.php?movieId=365620
 
 #EXTINF:-1 group-title="Dramma" tvg-id="La dolorosa" tvg-logo="https://image.tmdb.org/t/p/original/6KJCmjN0YqBYLaYxXwa2D8au3Wy.jpg",La dolorosa (1934)
@@ -16619,7 +16625,7 @@
 #EXTINF:-1 group-title="Famiglia" tvg-id="Asterix & Obelix - Il regno di mezzo" tvg-logo="https://image.tmdb.org/t/p/original/4TzzZ1G1nN3LLwLUwor0WnNuWHS.jpg",Asterix & Obelix - Il regno di mezzo (2023)
 [[SERVER_URL]]/play.php?movieId=643215
 
-#EXTINF:-1 group-title="Thriller" tvg-id="Sharper" tvg-logo="https://image.tmdb.org/t/p/original/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Sharper (2023)
+#EXTINF:-1 group-title="Thriller" tvg-id="Sharper" tvg-logo="https://image.tmdb.org/t/p/original/x7N0wGU5X6qzvoIrkkHjMkVAFmG.jpg",Sharper (2023)
 [[SERVER_URL]]/play.php?movieId=717980
 
 #EXTINF:-1 group-title="Storia" tvg-id="L'ombra di Caravaggio" tvg-logo="https://image.tmdb.org/t/p/original/aRzKglvZ5nfAdXT6p5oRuSi8TVj.jpg",L'ombra di Caravaggio (2022)
@@ -16976,7 +16982,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="Coolie Killer" tvg-logo="https://image.tmdb.org/t/p/original/osWvd0ZWV3gmPHKuxvE8nVQtyQV.jpg",Coolie Killer (1982)
 [[SERVER_URL]]/play.php?movieId=210333
 
-#EXTINF:-1 group-title="Dramma" tvg-id="Emancipation - Oltre la libertà" tvg-logo="https://image.tmdb.org/t/p/original/4dyTAn3iBu1Mhv7brMSy0L1KzIE.jpg",Emancipation - Oltre la libertà (2022)
+#EXTINF:-1 group-title="Dramma" tvg-id="Emancipation - Oltre la libertà" tvg-logo="https://image.tmdb.org/t/p/original/gAc1KJpTf4B0jmPp2CWUMke6tJu.jpg",Emancipation - Oltre la libertà (2022)
 [[SERVER_URL]]/play.php?movieId=715931
 
 #EXTINF:-1 group-title="Romance" tvg-id="Un regalo da Tiffany" tvg-logo="https://image.tmdb.org/t/p/original/lPXGYpRzcc6pk8pD6eEeykfc7UF.jpg",Un regalo da Tiffany (2022)
@@ -17105,7 +17111,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="Lesson Plan" tvg-logo="https://image.tmdb.org/t/p/original/e4nR9m6nY7HpaaeiEL1ixaYqReq.jpg",Lesson Plan (2022)
 [[SERVER_URL]]/play.php?movieId=1049233
 
-#EXTINF:-1 group-title="Commedia" tvg-id="Spirited - Magia di Natale" tvg-logo="https://image.tmdb.org/t/p/original/tPbDnACixM8aDsPb3FnkaaP7bJM.jpg",Spirited - Magia di Natale (2022)
+#EXTINF:-1 group-title="Commedia" tvg-id="Spirited - Magia di Natale" tvg-logo="https://image.tmdb.org/t/p/original/eO2mOZRrSPmI3rr3PmlEBVykY0n.jpg",Spirited - Magia di Natale (2022)
 [[SERVER_URL]]/play.php?movieId=632856
 
 #EXTINF:-1 group-title="Horror" tvg-id="The Twin - L'altro volto del male" tvg-logo="https://image.tmdb.org/t/p/original/uVg5aSEAxpd0HBJtcGsle7LFa94.jpg",The Twin - L'altro volto del male (2022)
@@ -17396,7 +17402,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="La tempesta perfetta" tvg-logo="https://image.tmdb.org/t/p/original/kpQ8X4WAQJ032CYlta81B6OrZcg.jpg",La tempesta perfetta (2000)
 [[SERVER_URL]]/play.php?movieId=2133
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Monster High - Il Film" tvg-logo="https://image.tmdb.org/t/p/original/tn3GWm0Erehkpur8PUuYWxGpul5.jpg",Monster High - Il Film (2022)
+#EXTINF:-1 group-title="Famiglia" tvg-id="Monster High - Il Film" tvg-logo="https://image.tmdb.org/t/p/original/6wZjbVKYCZUKwG1IprYd6uQIZ0Q.jpg",Monster High - Il Film (2022)
 [[SERVER_URL]]/play.php?movieId=335795
 
 #EXTINF:-1 group-title="Commedia" tvg-id="...continuavano a chiamarlo Trinità" tvg-logo="https://image.tmdb.org/t/p/original/v8TRduqnI4e22YzXITKss51Difv.jpg",...continuavano a chiamarlo Trinità (1971)
@@ -24197,7 +24203,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="The Courier" tvg-logo="https://image.tmdb.org/t/p/original/axyjwWhMXre9k7KGaoeRtCHd8p1.jpg",The Courier (2019)
 [[SERVER_URL]]/play.php?movieId=611914
 
-#EXTINF:-1 group-title="Commedia" tvg-id="Striscia, una zebra alla riscossa" tvg-logo="https://image.tmdb.org/t/p/original/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg",Striscia, una zebra alla riscossa (2005)
+#EXTINF:-1 group-title="Commedia" tvg-id="Striscia, una zebra alla riscossa" tvg-logo="https://image.tmdb.org/t/p/original/3ODp1jFacLiB1XFjMpt4K9E5eNx.jpg",Striscia, una zebra alla riscossa (2005)
 [[SERVER_URL]]/play.php?movieId=6439
 
 #EXTINF:-1 group-title="Animazione" tvg-id="Shark Tale" tvg-logo="https://image.tmdb.org/t/p/original/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",Shark Tale (2004)
@@ -26453,7 +26459,7 @@
 #EXTINF:-1 group-title="Animazione" tvg-id="Shrek 2" tvg-logo="https://image.tmdb.org/t/p/original/mhM9A7mhIEOyLAIrIJR72d3eUOw.jpg",Shrek 2 (2004)
 [[SERVER_URL]]/play.php?movieId=809
 
-#EXTINF:-1 group-title="Animazione" tvg-id="Shrek" tvg-logo="https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",Shrek (2001)
+#EXTINF:-1 group-title="Animazione" tvg-id="Shrek" tvg-logo="https://image.tmdb.org/t/p/original/EKERKucZeBrkrR8xLDTkr5FeDc.jpg",Shrek (2001)
 [[SERVER_URL]]/play.php?movieId=808
 
 #EXTINF:-1 group-title="Dramma" tvg-id="L'immortale" tvg-logo="https://image.tmdb.org/t/p/original/6zZRD3gkNzZd5sS14uYFTVvtE8H.jpg",L'immortale (2010)
@@ -27545,7 +27551,7 @@
 #EXTINF:-1 group-title="Animazione" tvg-id="Cars - Motori ruggenti" tvg-logo="https://image.tmdb.org/t/p/original/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",Cars - Motori ruggenti (2006)
 [[SERVER_URL]]/play.php?movieId=920
 
-#EXTINF:-1 group-title="Famiglia" tvg-id="Cars 3" tvg-logo="https://image.tmdb.org/t/p/original/9uUlyW2QWHxc4n4ZXNRQMOV0uMV.jpg",Cars 3 (2017)
+#EXTINF:-1 group-title="Animazione" tvg-id="Cars 3" tvg-logo="https://image.tmdb.org/t/p/original/9uUlyW2QWHxc4n4ZXNRQMOV0uMV.jpg",Cars 3 (2017)
 [[SERVER_URL]]/play.php?movieId=260514
 
 #EXTINF:-1 group-title="Commedia" tvg-id="Scemo & + scemo 2" tvg-logo="https://image.tmdb.org/t/p/original/ovL8h5Kv2eISKXNWChyECY0ECBo.jpg",Scemo & + scemo 2 (2014)
