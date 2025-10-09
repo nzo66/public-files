@@ -51,6 +51,23 @@ function fetchMovies($playVodUrl, $language, $apiKey, $totalPages)
                 processMovieData($movie, $playVodUrl);
             }
         }
+        
+        // ORDINAMENTO PER DATA DI USCITA (PIÙ RECENTI PRIMA)
+        echo "Ordinamento per data di uscita...<br>";
+        usort($outputData, function($a, $b) {
+            return $b['added'] - $a['added']; // Decrescente: più recenti prima
+        });
+        
+        // RICOSTRUISCI outputContent ORDINATO
+        $outputContent = "#EXTM3U\n";
+        foreach ($outputData as $movie) {
+            // Estrai titolo e anno dal campo name
+            preg_match('/^(.*) \((\d{4})\)$/', $movie['name'], $matches);
+            $title = $matches[1] ?? $movie['name'];
+            $year = $matches[2] ?? '';
+            
+            $outputContent .= "#EXTINF:-1 group-title=\"{$movie['group']}\" tvg-id=\"$title\" tvg-logo=\"{$movie['stream_icon']}\",{$movie['name']}\n{$movie['direct_source']}\n\n";
+        }
     }
 
     //Save the Json and M3U8 Data
@@ -134,9 +151,6 @@ function processMovieData($movie, $playVodUrl) {
     // Mark as added and store data
     $addedMovieIds[$id] = true;
     $outputData[] = $movieData;
-
-    // M3U8 data
-    $outputContent .= "#EXTINF:-1 group-title=\"$genreName\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
 }
 
 function measureExecutionTime($func, ...$params) {
