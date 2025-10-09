@@ -23,6 +23,7 @@ $outputContent = "#EXTM3U\n";
 $addedMovieIds = [];
 $addedTimestamp = time();
 fetchSeries($playVodUrl, $language, $apiKey, $totalPages);
+
 function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
 {
     global $listType, $outputData, $outputContent, $num;	
@@ -45,6 +46,23 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
                 processSeriesData($series, $playVodUrl);
             }
         }
+        
+        // ORDINAMENTO PER DATA DI PRIMA MESSA IN ONDA (PIÙ RECENTI PRIMA)
+        echo "Ordinamento per data di prima messa in onda...<br>";
+        usort($outputData, function($a, $b) {
+            return $b['last_modified'] - $a['last_modified']; // Decrescente: più recenti prima
+        });
+        
+        // RICOSTRUISCI outputContent ORDINATO (se necessario)
+        $outputContent = "#EXTM3U\n";
+        foreach ($outputData as $series) {
+            // Estrai titolo e anno dal campo name
+            preg_match('/^(.*) \((\d{4})\)$/', $series['name'], $matches);
+            $title = $matches[1] ?? $series['name'];
+            $year = $matches[2] ?? '';
+            
+            $outputContent .= "#EXTINF:-1 group-title=\"{$series['genre']}\" tvg-id=\"$title\" tvg-logo=\"{$series['cover']}\",{$series['name']}\n$playVodUrl?movieId={$series['series_id']}\n\n";
+        }
     }
 
     //Save the Json and M3U8 Data (commented out since its not good with tv series).
@@ -53,6 +71,7 @@ function fetchSeries($playVodUrl, $language, $apiKey, $totalPages)
     echo "Generazione completata. Trovate in totale $num serie TV.<br>";
 	return;
 }
+
 // Function to fetch and handle errors for a URL
 function fetchAndHandleErrors($url, $errorMessage)
 {
@@ -126,10 +145,8 @@ function processSeriesData($show, $playVodUrl)
     // Mark as added and store data
     $addedMovieIds[$id] = true;
     $outputData[] = $showData;
-
-    // M3U8 data
-    $outputContent .= "#EXTINF:-1 group-title=\"$genreName\" tvg-id=\"$title\" tvg-logo=\"$poster\",$title ($year)\n$playVodUrl?movieId=$id\n\n";
 }
+
 function measureExecutionTime($func, ...$params) {
     $start = microtime(true);
     call_user_func($func, ...$params);
@@ -140,6 +157,7 @@ function measureExecutionTime($func, ...$params) {
     $milliseconds = ($seconds - floor($seconds)) * 1000;
     echo "Total Execution Time for $func: " . $minutes . " minute(s) and " . floor($seconds) . "." . sprintf('%03d', $milliseconds) . " second(s)</br>";
 }
+
 function isValidSeries($series) {
     global $minYear;
     // Check if series has a poster image
