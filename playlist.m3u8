@@ -1,4 +1,160 @@
 #EXTM3U
+#EXTINF:-1 group-title="Documentario" tvg-id="Diomedes Díaz: la fama, il mistero e la tragedia" tvg-logo="https://image.tmdb.org/t/p/original/1zQXBbMbltvtEgmBELYjB0MWfU7.jpg",Diomedes Díaz: la fama, il mistero e la tragedia (2022)
+[[SERVER_URL]]/play.php?movieId=950511
+
+#EXTINF:-1 group-title="Horror" tvg-id="Bambi - La vendetta" tvg-logo="https://image.tmdb.org/t/p/original/cy76B7VCiIvqUibGLTgdYlK8kx8.jpg",Bambi - La vendetta (2025)
+[[SERVER_URL]]/play.php?movieId=1049942
+
+#EXTINF:-1 group-title="Dramma" tvg-id="One Day, You will Reach the Sea" tvg-logo="https://image.tmdb.org/t/p/original/6SlX5FeFarhW4GhqqmCvlRtbkbo.jpg",One Day, You will Reach the Sea (2022)
+[[SERVER_URL]]/play.php?movieId=923837
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Les ombres chinoises" tvg-logo="https://image.tmdb.org/t/p/original/uRJJ6LZqOkPBf7G7KGUSQ7mlxuD.jpg",Les ombres chinoises (1908)
+[[SERVER_URL]]/play.php?movieId=196613
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Ronny Chieng: Speakeasy" tvg-logo="https://image.tmdb.org/t/p/original/9JCHqAcLKpyneJOJwSApz59GeBY.jpg",Ronny Chieng: Speakeasy (2022)
+[[SERVER_URL]]/play.php?movieId=955384
+
+#EXTINF:-1 group-title="Film" tvg-id="A Short Story" tvg-logo="https://image.tmdb.org/t/p/original/thKqKfr38zpDNKgHRz1LxBt1euG.jpg",A Short Story (2022)
+[[SERVER_URL]]/play.php?movieId=1135609
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Explosions" tvg-logo="https://image.tmdb.org/t/p/original/v7esLfqKtHEyVIj1bw4uvvSIAF.jpg",Explosions (2012)
+[[SERVER_URL]]/play.php?movieId=197107
+
+#EXTINF:-1 group-title="Commedia" tvg-id="It Pays to Advertise" tvg-logo="https://image.tmdb.org/t/p/original/8lvg0UwZXMgpVSENpiBnMnmhFaC.jpg",It Pays to Advertise (1931)
+[[SERVER_URL]]/play.php?movieId=156407
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Man of God" tvg-logo="https://image.tmdb.org/t/p/original/icx3Cu6ktIXgr5o2WOeekEFRCdM.jpg",The Man of God (2022)
+[[SERVER_URL]]/play.php?movieId=952464
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Doula" tvg-logo="https://image.tmdb.org/t/p/original/4v6zhPBZuuxuFGN2CwMu97Z8u3l.jpg",Doula (2022)
+[[SERVER_URL]]/play.php?movieId=956496
+
+#EXTINF:-1 group-title="Romance" tvg-id="精裝追女仔2" tvg-logo="https://image.tmdb.org/t/p/original/ir5ciLv5gZXpkFLwKhaGRhIVZlE.jpg",精裝追女仔2 (1988)
+[[SERVER_URL]]/play.php?movieId=152291
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Ritorno alla fattoria dei nostri sogni" tvg-logo="https://image.tmdb.org/t/p/original/52ggzJiPznXiaZlWP1ud5SX5uU1.jpg",Ritorno alla fattoria dei nostri sogni (2022)
+[[SERVER_URL]]/play.php?movieId=927085
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Last Tepui - Vette inesplorate" tvg-logo="https://image.tmdb.org/t/p/original/vmZkr2L0vM5hTdPwa51L9WEs9I1.jpg",Last Tepui - Vette inesplorate (2022)
+[[SERVER_URL]]/play.php?movieId=927081
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Polar Bear" tvg-logo="https://image.tmdb.org/t/p/original/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg",Polar Bear (2022)
+[[SERVER_URL]]/play.php?movieId=927070
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Oprah + Viola: Un evento speciale Netflix" tvg-logo="https://image.tmdb.org/t/p/original/cbtNvInkdo40XioM372m0nb8vCe.jpg",Oprah + Viola: Un evento speciale Netflix (2022)
+[[SERVER_URL]]/play.php?movieId=959985
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Paris, mi-carême : char de la reine des reines" tvg-logo="https://image.tmdb.org/t/p/original/qlq9vqzbyHRj9Z6mQpyKkdsChYQ.jpg",Paris, mi-carême : char de la reine des reines (1897)
+[[SERVER_URL]]/play.php?movieId=196583
+
+#EXTINF:-1 group-title="Western" tvg-id="Kung Fu nel pazzo west" tvg-logo="https://image.tmdb.org/t/p/original/lyFznIxpyyqZ856rSBKX0IhbP38.jpg",Kung Fu nel pazzo west (1973)
+[[SERVER_URL]]/play.php?movieId=157002
+
+#EXTINF:-1 group-title="Commedia" tvg-id="David Spade: Nothing Personal" tvg-logo="https://image.tmdb.org/t/p/original/jc3u2yD3rpq6WyKAIpg85LnAVDe.jpg",David Spade: Nothing Personal (2022)
+[[SERVER_URL]]/play.php?movieId=953138
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Quentin Tarantino: 20 Years of Filmmaking" tvg-logo="https://image.tmdb.org/t/p/original/puLHiMjLnz3nrrslemC1P3p38MB.jpg",Quentin Tarantino: 20 Years of Filmmaking (2013)
+[[SERVER_URL]]/play.php?movieId=199951
+
+#EXTINF:-1 group-title="Horror" tvg-id="Kuime - Over Your Dead Body" tvg-logo="https://image.tmdb.org/t/p/original/w7rvo7VTGMAjz7mClgh1bJx555o.jpg",Kuime - Over Your Dead Body (2014)
+[[SERVER_URL]]/play.php?movieId=199925
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Il disonesto" tvg-logo="https://image.tmdb.org/t/p/original/bPzwlanXJwFqcRuXL1PyRtusp5J.jpg",Il disonesto (1947)
+[[SERVER_URL]]/play.php?movieId=118536
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Dawn Chorus" tvg-logo="https://image.tmdb.org/t/p/original/egd12CxUDGfdifNycHLnFGGwfpj.jpg",Dawn Chorus (2022)
+[[SERVER_URL]]/play.php?movieId=969247
+
+#EXTINF:-1 group-title="Film" tvg-id="Chain Link" tvg-logo="https://image.tmdb.org/t/p/original/yIDKJrdAVnzUxogE4WwQ3G5EI1x.jpg",Chain Link (2008)
+[[SERVER_URL]]/play.php?movieId=200961
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Trattieni il respiro: un tuffo sotto il ghiaccio" tvg-logo="https://image.tmdb.org/t/p/original/efAxEHMvlgE4qterU0FWwovxkOa.jpg",Trattieni il respiro: un tuffo sotto il ghiaccio (2022)
+[[SERVER_URL]]/play.php?movieId=958080
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Magnesium" tvg-logo="https://image.tmdb.org/t/p/original/awp1HWMt7t02a9nAow4MDfxSVEy.jpg",Magnesium (2012)
+[[SERVER_URL]]/play.php?movieId=198109
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Margarita" tvg-logo="https://image.tmdb.org/t/p/original/sXUMhaJ7XmWwlsCFj32EqTdhqz6.jpg",Margarita (2012)
+[[SERVER_URL]]/play.php?movieId=201006
+
+#EXTINF:-1 group-title="Azione" tvg-id="Aan: Men at Work" tvg-logo="https://image.tmdb.org/t/p/original/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",Aan: Men at Work (2004)
+[[SERVER_URL]]/play.php?movieId=155973
+
+#EXTINF:-1 group-title="Film" tvg-id="Bedsitters" tvg-logo="https://image.tmdb.org/t/p/original/cUloEdvCZ2f1Kiz64UTSj25uBuL.jpg",Bedsitters (1974)
+[[SERVER_URL]]/play.php?movieId=201346
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Christina P: Mom Genes" tvg-logo="https://image.tmdb.org/t/p/original/sMf9SqvDhHZwSJD6Iys0b1UOM5M.jpg",Christina P: Mom Genes (2022)
+[[SERVER_URL]]/play.php?movieId=971618
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Nick Cave - This Much I Know to Be True" tvg-logo="https://image.tmdb.org/t/p/original/amYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg",Nick Cave - This Much I Know to Be True (2022)
+[[SERVER_URL]]/play.php?movieId=927025
+
+#EXTINF:-1 group-title="Documentario" tvg-id="I Yam What I Yam: The Story of Popeye the Sailor" tvg-logo="https://image.tmdb.org/t/p/original/dtjdvrpro2njMkx4U3rlWTfOXcp.jpg",I Yam What I Yam: The Story of Popeye the Sailor (2007)
+[[SERVER_URL]]/play.php?movieId=196749
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Blutsauger" tvg-logo="https://image.tmdb.org/t/p/original/hd658vDV4D254mbdvFTKhKubM0e.jpg",Blutsauger (2022)
+[[SERVER_URL]]/play.php?movieId=633811
+
+#EXTINF:-1 group-title="Commedia" tvg-id="School Meals Time Graduation" tvg-logo="https://image.tmdb.org/t/p/original/fN3FzAOmaaIjnVCSbNTe6nXByK3.jpg",School Meals Time Graduation (2022)
+[[SERVER_URL]]/play.php?movieId=1015562
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Katt Williams: World War III" tvg-logo="https://image.tmdb.org/t/p/original/obDfChGefhUU1jA7CGWuVTRkriO.jpg",Katt Williams: World War III (2022)
+[[SERVER_URL]]/play.php?movieId=972009
+
+#EXTINF:-1 group-title="Mistero" tvg-id="Frog and Wombat" tvg-logo="https://image.tmdb.org/t/p/original/1FsDxGULDBrTLoXJtJDqcW2gSUb.jpg",Frog and Wombat (1998)
+[[SERVER_URL]]/play.php?movieId=197378
+
+#EXTINF:-1 group-title="Commedia" tvg-id="The Hall: Honoring the Greats of Stand-Up" tvg-logo="https://image.tmdb.org/t/p/original/dwFflLDrSD6RcBBEnG8Ov3c7oPm.jpg",The Hall: Honoring the Greats of Stand-Up (2022)
+[[SERVER_URL]]/play.php?movieId=977526
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Caramelo" tvg-logo="https://image.tmdb.org/t/p/original/ur3H6g9xmrLQX2Ioh9z3P904ZSC.jpg",Caramelo (2025)
+[[SERVER_URL]]/play.php?movieId=1277988
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Rodrigo Sant'Anna: Cheguei" tvg-logo="https://image.tmdb.org/t/p/original/t7ZkVFVoxDzbnAq3e3W9DWpy67Q.jpg",Rodrigo Sant'Anna: Cheguei (2022)
+[[SERVER_URL]]/play.php?movieId=968488
+
+#EXTINF:-1 group-title="Romance" tvg-id="Tagliando d'amore" tvg-logo="https://image.tmdb.org/t/p/original/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",Tagliando d'amore (2025)
+[[SERVER_URL]]/play.php?movieId=1352755
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Anime Supremacy!" tvg-logo="https://image.tmdb.org/t/p/original/hlom3uDLj2ZM2cHdcA8HWbGm4Sz.jpg",Anime Supremacy! (2022)
+[[SERVER_URL]]/play.php?movieId=947166
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Jackass 4.5" tvg-logo="https://image.tmdb.org/t/p/original/bl686OSeMQOvs90IQAgt8QipCsB.jpg",Jackass 4.5 (2022)
+[[SERVER_URL]]/play.php?movieId=828853
+
+#EXTINF:-1 group-title="Avventura" tvg-id="K2 - La montagna degli Italiani" tvg-logo="https://image.tmdb.org/t/p/original/dgq96fy35ash6U7sBbyYOlUsQ2U.jpg",K2 - La montagna degli Italiani (2013)
+[[SERVER_URL]]/play.php?movieId=196193
+
+#EXTINF:-1 group-title="Crime" tvg-id="The Day of the Wolves" tvg-logo="https://image.tmdb.org/t/p/original/sPO4R6fZgBWlL9ZIeCRw7rWprmO.jpg",The Day of the Wolves (1971)
+[[SERVER_URL]]/play.php?movieId=203014
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Iain Stirling Failing Upwards" tvg-logo="https://image.tmdb.org/t/p/original/sS1EecvdNqL4zsgkHhCOgT4EHn9.jpg",Iain Stirling Failing Upwards (2022)
+[[SERVER_URL]]/play.php?movieId=980618
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Yuri Marçal: In buona fede" tvg-logo="https://image.tmdb.org/t/p/original/92c9LKcFquhk9zsjuce6PlYB7Ja.jpg",Yuri Marçal: In buona fede (2022)
+[[SERVER_URL]]/play.php?movieId=979522
+
+#EXTINF:-1 group-title="Commedia" tvg-id="Ereditiera" tvg-logo="https://image.tmdb.org/t/p/original/plv85l002BHwPq7zvjceGt4h3nz.jpg",Ereditiera (2022)
+[[SERVER_URL]]/play.php?movieId=994006
+
+#EXTINF:-1 group-title="Dramma" tvg-id="Queenie" tvg-logo="https://image.tmdb.org/t/p/original/7k5zSKEPiwo4kX59KWdsEE6BIcT.jpg",Queenie (2022)
+[[SERVER_URL]]/play.php?movieId=987208
+
+#EXTINF:-1 group-title="Documentario" tvg-id="Kurt Cobain: The Early Life of a Legend" tvg-logo="https://image.tmdb.org/t/p/original/28ghFNrVZn7X42lWvs9Uc41pYoN.jpg",Kurt Cobain: The Early Life of a Legend (2004)
+[[SERVER_URL]]/play.php?movieId=203646
+
+#EXTINF:-1 group-title="Dramma" tvg-id="The Resemblance" tvg-logo="https://image.tmdb.org/t/p/original/2rzOW2JWdt5LcrVEMf309RNsnXZ.jpg",The Resemblance (2022)
+[[SERVER_URL]]/play.php?movieId=985704
+
+#EXTINF:-1 group-title="Documentario" tvg-id="La vita sognata da Georgie Stone" tvg-logo="https://image.tmdb.org/t/p/original/9AlRhCFKzWVybFP0mh8hTGHR6G.jpg",La vita sognata da Georgie Stone (2022)
+[[SERVER_URL]]/play.php?movieId=964930
+
+#EXTINF:-1 group-title="Documentario" tvg-id="UNTRAPPED: La storia di Lil Baby" tvg-logo="https://image.tmdb.org/t/p/original/zgTHqUxuB6TmuyaMg68cBa6YTNc.jpg",UNTRAPPED: La storia di Lil Baby (2022)
+[[SERVER_URL]]/play.php?movieId=965742
+
+#EXTINF:-1 group-title="Film" tvg-id="Marillion: Brave The Movie" tvg-logo="https://image.tmdb.org/t/p/original/ApCCGQ0paQFVqJ2a4kK3ANEWHBc.jpg",Marillion: Brave The Movie (2004)
+[[SERVER_URL]]/play.php?movieId=155224
+
 #EXTINF:-1 group-title="Documentario" tvg-id="Snoop Dogg's F*cn Around Comedy Special" tvg-logo="https://image.tmdb.org/t/p/original/lQalMMwpAP31ptuy2IZihooXD4w.jpg",Snoop Dogg's F*cn Around Comedy Special (2022)
 [[SERVER_URL]]/play.php?movieId=985075
 
@@ -9626,7 +9782,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="CIA - Un uomo nel mirino" tvg-logo="https://image.tmdb.org/t/p/original/dAfwsVCHYCEJgKMcL4NEsnsDzCM.jpg",CIA - Un uomo nel mirino (2024)
 [[SERVER_URL]]/play.php?movieId=1124641
 
-#EXTINF:-1 group-title="Avventura" tvg-id="Cat & Dog" tvg-logo="https://image.tmdb.org/t/p/original/rTY115GwcpoU5YBpws4IdZSNkOC.jpg",Cat & Dog (2024)
+#EXTINF:-1 group-title="Avventura" tvg-id="Cat & Dog" tvg-logo="https://image.tmdb.org/t/p/original/wGzqk3XXpAQGlpskKP1HqRpFaPK.jpg",Cat & Dog (2024)
 [[SERVER_URL]]/play.php?movieId=977331
 
 #EXTINF:-1 group-title="Dramma" tvg-id="Boxer" tvg-logo="https://image.tmdb.org/t/p/original/6m2YA3FyqmTgIlYMBMYrENfrihY.jpg",Boxer (2024)
@@ -12479,7 +12635,7 @@
 #EXTINF:-1 group-title="Commedia" tvg-id="Fuoco incrociato a Natale" tvg-logo="https://image.tmdb.org/t/p/original/hgQuCAZmVUafDisTPKDGqeKQ3nD.jpg",Fuoco incrociato a Natale (2020)
 [[SERVER_URL]]/play.php?movieId=765123
 
-#EXTINF:-1 group-title="Azione" tvg-id="Furiosa: A Mad Max Saga" tvg-logo="https://image.tmdb.org/t/p/original/qDsdpyTCk7mLUBYTTfcfe9ijNWJ.jpg",Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 group-title="Azione" tvg-id="Furiosa: A Mad Max Saga" tvg-logo="https://image.tmdb.org/t/p/original/fMG7ALVMYT8mVY9zQyVPIFCzQnN.jpg",Furiosa: A Mad Max Saga (2024)
 [[SERVER_URL]]/play.php?movieId=786892
 
 #EXTINF:-1 group-title="Dramma" tvg-id="Tropa de elite - Gli squadroni della morte" tvg-logo="https://image.tmdb.org/t/p/original/kT8UA0exarB9kFtknMupU0AjfWt.jpg",Tropa de elite - Gli squadroni della morte (2007)
@@ -15590,7 +15746,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="A Million Miles Away" tvg-logo="https://image.tmdb.org/t/p/original/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",A Million Miles Away (2023)
 [[SERVER_URL]]/play.php?movieId=1002185
 
-#EXTINF:-1 group-title="Fantasy" tvg-id="El Conde" tvg-logo="https://image.tmdb.org/t/p/original/5tcbdLbMzYEMBeJwf5PWcgUnmVa.jpg",El Conde (2023)
+#EXTINF:-1 group-title="Fantasy" tvg-id="El Conde" tvg-logo="https://image.tmdb.org/t/p/original/piG2K4yaa1CO6flhWQPSVkgPvhH.jpg",El Conde (2023)
 [[SERVER_URL]]/play.php?movieId=991708
 
 #EXTINF:-1 group-title="Horror" tvg-id="The Nun II" tvg-logo="https://image.tmdb.org/t/p/original/rXgVbKkQZr5Bfy8M6IWwIs0TSum.jpg",The Nun II (2023)
@@ -16289,7 +16445,7 @@
 #EXTINF:-1 group-title="Azione" tvg-id="Fuori dalla legge" tvg-logo="https://image.tmdb.org/t/p/original/kBzJFjUBqHDYrevfUhcGzYLiicx.jpg",Fuori dalla legge (2021)
 [[SERVER_URL]]/play.php?movieId=774714
 
-#EXTINF:-1 group-title="Horror" tvg-id="Tin & Tina" tvg-logo="https://image.tmdb.org/t/p/original/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin & Tina (2023)
+#EXTINF:-1 group-title="Horror" tvg-id="Tin & Tina" tvg-logo="https://image.tmdb.org/t/p/original/uvREA7LTsPsHz4i0Ds82Fzez7K6.jpg",Tin & Tina (2023)
 [[SERVER_URL]]/play.php?movieId=943930
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Mother's Day" tvg-logo="https://image.tmdb.org/t/p/original/oFbIPAme3MtPtYo8P9SOrLWsJSM.jpg",Mother's Day (2023)
@@ -16949,7 +17105,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Fortunata" tvg-logo="https://image.tmdb.org/t/p/original/gb6Egp8z0g8KAT2GmdzKW3IWEZz.jpg",Fortunata (2017)
 [[SERVER_URL]]/play.php?movieId=449856
 
-#EXTINF:-1 group-title="Thriller" tvg-id="Clinical" tvg-logo="https://image.tmdb.org/t/p/original/uFRyXUPqoZ7uORGtV2y8eSdJHuA.jpg",Clinical (2017)
+#EXTINF:-1 group-title="Thriller" tvg-id="Clinical" tvg-logo="https://image.tmdb.org/t/p/original/k9baYzut6dLyAXdg8gqmaR4EZ1Q.jpg",Clinical (2017)
 [[SERVER_URL]]/play.php?movieId=433244
 
 #EXTINF:-1 group-title="Avventura" tvg-id="Papillon" tvg-logo="https://image.tmdb.org/t/p/original/4NfbIFUdRuZ1zda6S1M0wMwR5Ne.jpg",Papillon (2017)
@@ -21869,7 +22025,7 @@
 #EXTINF:-1 group-title="Romance" tvg-id="Gold Coast - Viaggio verso il nuovo mondo" tvg-logo="https://image.tmdb.org/t/p/original/sUpplypkFMGAmjwd9IRx1o0VFlF.jpg",Gold Coast - Viaggio verso il nuovo mondo (2015)
 [[SERVER_URL]]/play.php?movieId=346763
 
-#EXTINF:-1 group-title="Horror" tvg-id="Blood Red Sky" tvg-logo="https://image.tmdb.org/t/p/original/5B3XoHnaZSM3zpU7QOPMDcLBo1Z.jpg",Blood Red Sky (2021)
+#EXTINF:-1 group-title="Horror" tvg-id="Blood Red Sky" tvg-logo="https://image.tmdb.org/t/p/original/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg",Blood Red Sky (2021)
 [[SERVER_URL]]/play.php?movieId=760883
 
 #EXTINF:-1 group-title="Thriller" tvg-id="Non dirlo a nessuno" tvg-logo="https://image.tmdb.org/t/p/original/81zLGYPYyPCRcZedMgr7Gy6GrDR.jpg",Non dirlo a nessuno (2020)
@@ -21959,7 +22115,7 @@
 #EXTINF:-1 group-title="Famiglia" tvg-id="Space Jam - New Legends" tvg-logo="https://image.tmdb.org/t/p/original/1eayKQzVdSpq89OwojwnUWdI1xT.jpg",Space Jam - New Legends (2021)
 [[SERVER_URL]]/play.php?movieId=379686
 
-#EXTINF:-1 group-title="Horror" tvg-id="A Classic Horror Story" tvg-logo="https://image.tmdb.org/t/p/original/bifYmCujLshZo4qVdmUpP7Q2iLn.jpg",A Classic Horror Story (2021)
+#EXTINF:-1 group-title="Horror" tvg-id="A Classic Horror Story" tvg-logo="https://image.tmdb.org/t/p/original/3S0Bww8jLYDf1OIxMC8ZSUrVISb.jpg",A Classic Horror Story (2021)
 [[SERVER_URL]]/play.php?movieId=768334
 
 #EXTINF:-1 group-title="Mistero" tvg-id="Fear Street Parte 3: 1666" tvg-logo="https://image.tmdb.org/t/p/original/5JW6nz46Gr9LvnjOHip6R4l5pYo.jpg",Fear Street Parte 3: 1666 (2021)
@@ -24161,7 +24317,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Quando un padre" tvg-logo="https://image.tmdb.org/t/p/original/RIuVTQsIVAPdKJrtXDEK4kMtYd.jpg",Quando un padre (2016)
 [[SERVER_URL]]/play.php?movieId=375183
 
-#EXTINF:-1 group-title="Dramma" tvg-id="Voces" tvg-logo="https://image.tmdb.org/t/p/original/cfvmrt5ulClivnO5nIv5RexHYui.jpg",Voces (2020)
+#EXTINF:-1 group-title="Dramma" tvg-id="Voces" tvg-logo="https://image.tmdb.org/t/p/original/pMbfeLR7p7GOlmA4HwQud17hikp.jpg",Voces (2020)
 [[SERVER_URL]]/play.php?movieId=726208
 
 #EXTINF:-1 group-title="Romance" tvg-id="Un principe per Natale" tvg-logo="https://image.tmdb.org/t/p/original/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg",Un principe per Natale (2017)
@@ -26129,7 +26285,7 @@
 #EXTINF:-1 group-title="Dramma" tvg-id="Vice - L'uomo nell'ombra" tvg-logo="https://image.tmdb.org/t/p/original/alIbwoeydW1vMkGyE6yEkRNdrqu.jpg",Vice - L'uomo nell'ombra (2018)
 [[SERVER_URL]]/play.php?movieId=429197
 
-#EXTINF:-1 group-title="Commedia" tvg-id="Tu la conosci Claudia?" tvg-logo="https://image.tmdb.org/t/p/original/fBUtjv1z9Eb1hVFymnEewD3gKkv.jpg",Tu la conosci Claudia? (2004)
+#EXTINF:-1 group-title="Commedia" tvg-id="Tu la conosci Claudia?" tvg-logo="https://image.tmdb.org/t/p/original/15bzqOHZfLl3XjAFeT87SDvvkP5.jpg",Tu la conosci Claudia? (2004)
 [[SERVER_URL]]/play.php?movieId=57112
 
 #EXTINF:-1 group-title="Commedia" tvg-id="La babysitter" tvg-logo="https://image.tmdb.org/t/p/original/fIBDaOHQzvY7dY9ByMpBuzUKkps.jpg",La babysitter (2017)
